@@ -22,29 +22,42 @@ News imports run locally before a static build; see Real news imports below. Sch
 
 ## Current behaviour
 
-- Easy A2 and Intermediate B1–B2 original stories with sentence-level English reveal.
+- Easy A2 and Intermediate B1–B2 full-length learner versions of each story, with per-sentence and show-all English reveal.
+- Dedicated article pages (`/news/<slug>/`) alongside a home edition, searchable archive, and My Words screen, all built with real routes and links.
 - Selectable Hebrew text with full dictionary matches for headwords, inflected forms, and Hebrew prefixes.
-- Mobile word sheet, conjugation detail, keyboard support, vocabulary save, and browser-local export/import.
-- Story archive, comprehension answers, type-size preference, responsive navigation, static story routes, and an honest demo label.
+- Word explorer panel, keyboard support, vocabulary save, and browser-local export/import.
+- Light and dark themes, generated category covers (no publisher photos), comprehension questions, and an honest "AI-adapted" or demo label on every story.
 
 Saved vocabulary and reader preferences stay in the current browser. Use the My Words screen to export a backup before clearing browser data or changing devices.
 
 ## Real news imports
 
 Run `npm run import:news`, then `npm run build` to refresh the static website.
-The importer reads Ynet's public news RSS feed and retains publisher URLs and original
-publication dates. With `OPENAI_API_KEY` in `.env.local`, it creates short A2 and
-B1–B2 Hebrew adaptations, English translations, vocabulary and questions. A second
-model pass checks attribution, source fidelity and translation consistency; these
-remain AI adaptations, not independently verified reporting. Without a key it imports
-original headlines with an explicit translation-unavailable message.
+The importer reads Ynet's public news RSS feed for each story's title, link and
+publication date, then fetches the linked article page and reads its structured
+`NewsArticle` data (the full body text, not just the feed summary). With
+`OPENAI_API_KEY` in `.env.local`, it uses that full article to write two original
+learner versions per story — A2 (short, simple sentences) and B1–B2 (fuller
+news-register sentences) — covering the whole article in order, with bilingual
+titles and standfirsts, vocabulary, and comprehension questions. Only the AI's own
+paraphrase is stored; Ynet's article text itself is not republished, and the link
+to the original report is always kept. A second model pass checks attribution,
+source fidelity and translation consistency, and an automated check rejects any
+story that mixes English words into Hebrew text or Hebrew into English text. These
+remain AI adaptations, not independently verified reporting. Without a key it
+imports original headlines with an explicit translation-unavailable message.
+Article covers are generated from the story's category, not publisher photos.
 
-Optional settings: `OPENAI_NEWS_MODEL` (default `gpt-4o-mini`) and
-`NEWS_IMPORT_LIMIT` (1–10, default 5). Each new or changed story uses two bounded API
-requests; unchanged stories are cached. Keys stay in the local import process and
-are never sent to the browser. Feed/API/validation failures preserve the previous
-edition. Older imported stories remain in the archive, capped at 100. Imports are
-manual; deploying this static site does not automatically schedule refreshes.
+Optional settings: `OPENAI_NEWS_MODEL` (default `gpt-5-mini`) and
+`NEWS_IMPORT_LIMIT` (1–10, default 5). Each new or changed story uses up to three
+bounded API requests (draft, review, and an occasional repair pass); unchanged
+stories are cached. Keys stay in the local import process and are never sent to
+the browser. Feed/article-fetch/API/validation failures for one story are logged
+and skipped without stopping the run; if every story in a run fails, the previous
+edition is preserved. Older imported stories remain in the archive, capped at 100,
+and are upgraded to the full-article format the next time they are re-imported.
+Imports are manual; deploying this static site does not automatically schedule
+refreshes.
 
 ## Dictionary checks
 

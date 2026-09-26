@@ -1,18 +1,27 @@
 import importedNews from "@/data/news.json";
+
 export type LearningLevel = "easy" | "intermediate";
-export type Sentence = { id: string; he: string; en: string };
+export type Sentence = { id: string; he: string; en: string; paragraph?: number };
 export type Story = {
-  source?: { publisher: string; url: string; publishedAt: string; importedAt: string; adapted: boolean };
+  source?: { publisher: string; url: string; publishedAt: string; importedAt: string; adapted: boolean; evidence?: "full_text" | "brief"; fingerprint?: string; generationVersion?: number };
   slug: string;
   category: string;
+  categoryLabel?: string;
   minutes: number;
   date: string;
   titleHe: string;
   titleEn: string;
   standfirst: string;
+  standfirstEn?: string;
   sentences: Record<LearningLevel, Sentence[]>;
   vocabulary: { he: string; en: string }[];
   questions: { prompt: string; answer: string }[];
+};
+
+export const CATEGORY_COLORS: Record<string, string> = {
+  politics: "#8a5a3a", security: "#7a3c3c", world: "#2f5c73", economy: "#5c6b2f",
+  society: "#286b55", health: "#3c6b78", tech: "#3c4f8a", sport: "#3c6b3c", culture: "#7a4f8a",
+  "חברה": "#286b55", "סביבה": "#3c6b3c", "תרבות": "#7a4f8a", "חינוך": "#3c4f8a", "חיים בעיר": "#5c6b2f", "חדשות": "#2f5c73",
 };
 
 // Original invented examples: these describe no real announcement or current event.
@@ -125,3 +134,23 @@ const SAMPLE_STORIES: Story[] = [
 export const STORIES: Story[] = [...importedNews as Story[], ...SAMPLE_STORIES];
 export const NEWS_STORIES = STORIES.filter(story => story.source);
 export const EDITION_STORIES = NEWS_STORIES.length ? NEWS_STORIES.slice(0, 5) : SAMPLE_STORIES;
+
+export function getStory(slug: string): Story | undefined {
+  return STORIES.find((story) => story.slug === slug);
+}
+
+export function categoryLabel(story: Story): string {
+  return story.categoryLabel || story.category;
+}
+
+/** Groups a level's sentences by their paragraph number, defaulting to one paragraph. */
+export function groupParagraphs(sentences: Sentence[]): Sentence[][] {
+  const groups = new Map<number, Sentence[]>();
+  for (const sentence of sentences) {
+    const key = sentence.paragraph ?? 1;
+    const group = groups.get(key);
+    if (group) group.push(sentence);
+    else groups.set(key, [sentence]);
+  }
+  return [...groups.entries()].sort(([a], [b]) => a - b).map(([, group]) => group);
+}

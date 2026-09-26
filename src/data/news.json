@@ -1,92 +1,1075 @@
 [
   {
-    "titleHe": "אלמוג כהן: \"ההצהרות של בן גביר מכניסות את המחנה לשאננות\"",
-    "titleEn": "Almog Cohen: \"Ben Gvir's Statements Bring Complacency to the Camp\"",
-    "standfirst": "אלמוג כהן מדבר על הצלחותיו בפריימריז ועל העתיד. הוא אינו מתכוון להיכנס לממשלת אחדות.",
+    "titleHe": "מנהיגי גוש השינוי נפגשו ופרסמו מסמך עקרונות",
+    "titleEn": "Leaders of the Change Bloc Met and Published a Statement of Principles",
+    "standfirst": "בביתו של יאיר לפיד בתל אביב התקיים מפגש בין ארבעה ראשי מפלגות מהמחנה המתנגד לנתניהו. בסופו פרסמו, לפי המסמך, מסמך עקרונות עם התחייבות לפעול יחד להקמת ממשלה.",
+    "standfirstEn": "At Yair Lapid's home in Tel Aviv a meeting took place between four party leaders from the camp opposing Netanyahu. At the end they published, according to the document, a statement of principles committing to act together to form a government.",
+    "category": "politics",
     "sentences": {
       "easy": [
         {
-          "he": "אלמוג כהן מרוצה מההצלחה שלו בפריימריז.",
-          "en": "Almog Cohen is pleased with his success in the primaries.",
+          "he": "מוצאי שבת נפגשו בביתו של יאיר לפיד בתל אביב ארבעה מנהיגים מהמחנה המתנגד לנתניהו.",
+          "en": "On Saturday night four leaders from the camp opposing Netanyahu met at Yair Lapid's home in Tel Aviv.",
+          "paragraph": 1,
           "id": "s1"
         },
         {
-          "he": "הוא רוצה להיות שר לביטחון לאומי.",
-          "en": "He wants to be the Minister of National Security.",
+          "he": "המשתתפים היו גדי איזנקוט, נפתלי בנט, יאיר גולן ואביגדור ליברמן.",
+          "en": "The participants were Gadi Eizenkot, Naftali Bennett, Yair Golan and Avigdor Lieberman.",
+          "paragraph": 1,
           "id": "s2"
         },
         {
-          "he": "כהן אומר שעוצמה יהודית זרקו אותו.",
-          "en": "Cohen says that Otzma Yehudit threw him out.",
+          "he": "הם דנו בתיאום מהלכים לקראת הבחירות שייערכו ב-27 באוקטובר, לפי הדיווח.",
+          "en": "They discussed coordinating moves ahead of the elections to be held on October 27, according to the report.",
+          "paragraph": 2,
           "id": "s3"
+        },
+        {
+          "he": "בסוף הפגישה פרסמו, לפי המסמך, 'מסמך עקרונות' שמסכם את הסכמותיהם.",
+          "en": "At the end of the meeting they published, according to the document, a 'statement of principles' summarizing their agreements.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "לפי המסמך הם רוצים להקים 'ממשלת תיקון ובנייה מחדש' והתחייבו לפעול יחד להגשמתה.",
+          "en": "According to the document they want to form a 'government of correction and rebuilding' and committed to act together to achieve it.",
+          "paragraph": 3,
+          "id": "s5"
+        },
+        {
+          "he": "הם התחייבו לנסות להגדיל את ציבור המצביעים ולא לתקוף זה את זה עד לכינון הממשלה.",
+          "en": "They committed to try to increase the number of voters and not to attack one another until a government is formed.",
+          "paragraph": 3,
+          "id": "s6"
+        },
+        {
+          "he": "המסמך קובע שהם יקימו בתוך 48 שעות שלוש קבוצות עבודה לעבודה משותפת.",
+          "en": "The document states that they will set up three working groups within 48 hours for joint work.",
+          "paragraph": 3,
+          "id": "s7"
+        },
+        {
+          "he": "יאיר גולן צייץ ברשת החברתית איקס לפני הפגישה שהוא נוסע לפגישה ושצריך לפעול באחריות להצלת ישראל.",
+          "en": "Yair Golan tweeted on the social network X before the meeting that he was on his way to the meeting and that they must act responsibly to save Israel.",
+          "paragraph": 4,
+          "id": "s8"
+        },
+        {
+          "he": "מפלגתו של בני גנץ שלחה משאית למקום עם הכיתוב 'הגושים תוקעים את ישראל' כהבעת מחאה, לפי הדיווח.",
+          "en": "Benny Gantz's party sent a truck to the site with the inscription 'the blocs are stabbing Israel' as a protest, according to the report.",
+          "paragraph": 4,
+          "id": "s9"
         }
       ],
       "intermediate": [
         {
-          "he": "כהן טוען שההצהרות של בן גביר גורמות למחנה להיות שאנני.",
-          "en": "Cohen claims that Ben Gvir's statements are making the camp complacent.",
+          "he": "מוצאי שבת בביתו של יאיר לפיד בתל אביב נערך מפגש בין ארבעת ראשי המפלגות המרכזיות במחנה המתנגד לנתניהו.",
+          "en": "On Saturday night at Yair Lapid's home in Tel Aviv a meeting was held between the four main party leaders in the camp opposing Netanyahu.",
+          "paragraph": 1,
           "id": "s1"
         },
         {
-          "he": "הוא מדגיש את הניסיון והכישורים שהוא possesses.",
-          "en": "He emphasizes the experience and skills he possesses.",
+          "he": "בהשתתפות גדי איזנקוט, נפתלי בנט, יאיר גולן ואביגדור ליברמן הם דנו בתיאום מהלכים לקראת יום הבחירות ב-27 באוקטובר, לפי הדיווח.",
+          "en": "With the participation of Gadi Eizenkot, Naftali Bennett, Yair Golan and Avigdor Lieberman they discussed coordinating moves ahead of election day on October 27, according to the report.",
+          "paragraph": 1,
           "id": "s2"
         },
         {
-          "he": "כהן לא מתכוון להיות חלק ממשלת אחדות אם זה על חשבון השותפות בגוש.",
-          "en": "Cohen does not intend to be part of a unity government if it is at the expense of the alliance.",
+          "he": "בסיום המפגש פרסמו, לפי 'מסמך העקרונות' שלהם, הצהרה שבה נכתב כי אלה הן 'בחירות קריטיות לגורל המדינה' ושעליהם לפעול יחד.",
+          "en": "At the end of the meeting they published, according to their 'statement of principles', a declaration stating that these are 'elections critical to the country's fate' and that they must act together.",
+          "paragraph": 2,
           "id": "s3"
+        },
+        {
+          "he": "לפי המסמך, למרות מחלוקות אידיאולוגיות המטרה המשותפת היא הקמת 'ממשלת תיקון ובנייה מחדש' ציונית וממלכתית, וחובתם לפעול להגשמתה.",
+          "en": "According to the document, despite ideological disagreements the common goal is to establish a 'government of correction and rebuilding', Zionist and national, and it is their duty to work to achieve it.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "החתומים התחייבו לעשות הכל כדי להגדיל את ציבור המצביעים, להביא בוחרים מכל חלקי העם ולהשיג רוב בבחירות, ולא לתקוף מפלגה שותפה או את מנהיגיה עד לכינון הממשלה, לפי המסמך.",
+          "en": "The signatories committed to do everything to increase the electorate, bring voters from all parts of the population and secure a majority in the elections, and not to attack a partner party or its leaders until a government is formed, according to the document.",
+          "paragraph": 3,
+          "id": "s5"
+        },
+        {
+          "he": "המסמך קובע הקמת שלוש קבוצות עבודה בתוך 48 שעות: קבוצה להעלאת אחוז ההצבעה והיערכות ליום הבחירות ושמירה על טוהר הבחירות; קבוצה לגיבוש קווי היסוד לממשלה הבאה, ובכלל זה שוויון בנטל, ועדת חקירה ממלכתית לטבח ה-7 באוקטובר, הגבלת כהונה לראש הממשלה, חוקה ותוכנית ל-100 הימים הראשונים; וקבוצת דוברות לתיאום תקשורתי ולמאבק בפייק ניוז ובהכפשות.",
+          "en": "The document sets up three working groups within 48 hours: a group to raise turnout and prepare for election day and protect election integrity; a group to formulate the basic lines for the next government, including equality in burden, a state commission of inquiry into the October 7 massacre, a limit on the prime minister's term, a constitution and a plan for the first 100 days; and a communications group to coordinate messaging and fight fake news and smear campaigns.",
+          "paragraph": 3,
+          "id": "s6"
+        },
+        {
+          "he": "יאיר גולן צייץ ברשת החברתית איקס לפני תחילת הפגישה כי 'יש לנו משימה משותפת אחת והיא להציל את ישראל' וכי יש לפעול באחריות מול סכנה לדמוקרטיה ולביטחון, לפי הציוץ שצוין בדיווח.",
+          "en": "Yair Golan tweeted on the social network X before the meeting that 'we have one common mission and that is to save Israel' and that they must act responsibly in the face of danger to democracy and security, according to the cited tweet in the report.",
+          "paragraph": 4,
+          "id": "s7"
+        },
+        {
+          "he": "גולן כתב עוד שיש להסכים על קווי היסוד של הממשלה הבאה, לחלק גזרות עבודה, להיערך לשמירה על טוהר הבחירות ולהכין תוכנית ל-100 הימים, וביניהם מיגור הכהניזם ושיקום המדינה.",
+          "en": "Golan also wrote that there must be agreement on the basic lines of the next government, a division of responsibilities, preparations to protect election integrity and a plan for the first 100 days, including eliminating Kahanism and rehabilitating the country.",
+          "paragraph": 4,
+          "id": "s8"
+        },
+        {
+          "he": "לפני המפגש הגדול נפגשו איזנקוט וליברמן בארבע עיניים ודנו בתיאום אסטרטגיה גושית; לפי הדיווח הם הסכימו שהמוקד בקמפיין יהיה הגדלת 'גוש השינוי' ולא קמפיין של מפלגה בודדת.",
+          "en": "Before the larger meeting Eizenkot and Lieberman met one-on-one and discussed coordinating bloc strategy; according to the report they agreed the campaign focus should be expanding the 'Change Bloc' rather than a single-party campaign.",
+          "paragraph": 5,
+          "id": "s9"
+        },
+        {
+          "he": "דווח גם שלפי שיחות פנימיות חלק מההנהגה, ובכלל זה יאיר גולן, הביעו חשש שאיזנקוט עשוי לבצע 'קמפיין המפלגה הגדולה' ושזה ישאב קולות ממפלגת הדמוקרטים ויפגע בגוש.",
+          "en": "It was also reported that, according to internal conversations, some leaders including Yair Golan expressed concern that Eizenkot might run a 'big-party campaign' and that this would draw votes away from the Democrats and harm the bloc.",
+          "paragraph": 5,
+          "id": "s10"
+        },
+        {
+          "he": "ברקע הדיונים בוועדת הבחירות המרכזית על פסילת רשימות ומועמדים ערבים, פירסם הדיווח כי ליברמן מסר לשותפיו שהח",
+          "en": "Against the background of discussions in the Central Election Committee about disqualifying lists and Arab candidates, the report said that Lieberman told his partners that",
+          "paragraph": 6,
+          "id": "s11"
+        },
+        {
+          "he": "חברי הכנסת הערבים והמפלגות הערביות, בכלל זאת רע\"מ של מנסור עבאס, לא באים בחשבון מבחינתו, לפי הדיווח; זאת משום שליברמן חושד שאיזנקוט עלול להקים ממשלה בתמיכת רע\"מ או בהימנעותה.",
+          "en": "Arab Knesset members and Arab parties, including Ra'am of Mansour Abbas, are not acceptable to him, according to the report; this is because Lieberman suspects Eizenkot might form a government with Ra'am's support or abstention.",
+          "paragraph": 6,
+          "id": "s12"
+        },
+        {
+          "he": "מפלגתו של בני גנץ לא נכחה בפגישה, ולפי הדיווח שלחה משאית למקום עם הכיתוב 'הגושים תוקעים את ישראל' כהבעת מחאה.",
+          "en": "Benny Gantz's party did not attend the meeting, and according to the report it sent a truck to the site with the inscription 'the blocs are stabbing Israel' as a protest.",
+          "paragraph": 7,
+          "id": "s13"
         }
       ]
     },
     "vocabulary": [
       {
-        "he": "מצליח",
-        "en": "successful"
+        "he": "מפגש",
+        "en": "meeting"
       },
       {
-        "he": "משרד",
-        "en": "ministry"
+        "he": "מסמך עקרונות",
+        "en": "statement of principles"
       },
       {
-        "he": "ניסיון",
-        "en": "experience"
+        "he": "להקים ממשלה",
+        "en": "to form a government"
       },
       {
-        "he": "שותפות",
-        "en": "partnership"
+        "he": "להגדיל את ציבור המצביעים",
+        "en": "to increase the number of voters"
       },
       {
-        "he": "הצהרות",
-        "en": "statements"
+        "he": "לא לתקוף",
+        "en": "not to attack"
+      },
+      {
+        "he": "קבוצת עבודה",
+        "en": "working group"
+      },
+      {
+        "he": "טוהר הבחירות",
+        "en": "election integrity"
+      },
+      {
+        "he": "משאית",
+        "en": "truck"
+      },
+      {
+        "he": "צייץ",
+        "en": "tweeted"
       }
     ],
     "questions": [
       {
-        "prompt": "מה הוא חושב על ההצהרות של בן גביר?",
-        "answer": "הוא believes שההצהרות גורמות לשאננות."
+        "prompt": "Where and when did the meeting take place?",
+        "answer": "The meeting took place on Saturday night at Yair Lapid's home in Tel Aviv."
       },
       {
-        "prompt": "איזה תפקיד הוא רוצה לקבל?",
-        "answer": "הוא רוצה להיות שר לביטחון לאומי."
+        "prompt": "Which party leaders attended the meeting?",
+        "answer": "Gadi Eizenkot, Naftali Bennett, Yair Golan and Avigdor Lieberman attended."
       },
       {
-        "prompt": "איך הוא הגיע לליכוד?",
-        "answer": "הוא הציג את עצמו בטבעיות."
+        "prompt": "What commitments did the 'statement of principles' include about campaigning and cooperation?",
+        "answer": "According to the document, they committed to try to increase the number of voters, not to attack partner parties or their leaders until a government is formed, to act together to form a government of correction and rebuilding, and to set up three working groups within 48 hours."
+      },
+      {
+        "prompt": "What did the report say about Lieberman's position on Arab parties?",
+        "answer": "The report said Lieberman told his partners that Arab MKs and Arab parties, including Ra'am, are not acceptable to him because he suspects Eizenkot might form a government with Ra'am's support or abstention."
+      }
+    ],
+    "slug": "news-29b5090b5fcf",
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/elections2026/article/s16nsks5ze",
+      "publishedAt": "2026-09-26T18:44:57.000Z",
+      "importedAt": "2026-09-26T18:50:29.782Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "065b656fafcbf9d8da0cd36f58b789e44a761c62c96a4cf653e0e75de750020f",
+      "generationVersion": 3
+    }
+  },
+  {
+    "titleHe": "\"איש הברזל\" נהרג על אופניו בגולן: \"היית מלח הארץ\"",
+    "titleEn": "\"Ironman\" killed on his bike in the Golan: \"You were salt of the earth\"",
+    "standfirst": "טל גלבוע, בן 47 מקיבוץ כפר חרוב, נהרג מפגיעת רכב בכביש 98 סמוך לצומת מגשימים בזמן שרכב על אופניו. מאמנו דן אלתרמן ספד לו בפוסט וזכר את נחישותו; לפני ארבע שנים סיפר בראיון לאתר וי-נט על המעבר לגולן ועל עבודתו כמנהל פיתוח.",
+    "standfirstEn": "Tal Galboa, 47, from Kibbutz Kfar Charuv, was killed in a vehicle collision on road 98 near the Megashim junction while riding his bicycle. His coach Dan Alterman eulogized him in a post and recalled his determination; four years ago he spoke in an interview with ynet about moving to the Golan and his work as a development manager.",
+    "category": "society",
+    "sentences": {
+      "easy": [
+        {
+          "he": "שבוע אחרי שמאי הטלוויזיה איציק בראשי נהרג ברכיבה, שוב רוכב נהרג בשבת בבוקר.",
+          "en": "One week after TV director Itzik Barashi was killed while riding, another cyclist died on Saturday morning.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הבוקר נהרג טל גלבוע, בן 47 מקיבוץ כפר חרוב שבדרום הגולן, מפגיעת רכב בכביש 98 סמוך לצומת מגשימים בזמן שרכב על אופניו.",
+          "en": "This morning Tal Galboa, 47, from Kibbutz Kfar Charuv in the southern Golan, was killed in a vehicle collision on road 98 near the Megashim junction while riding his bicycle.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "טל היה רוכב אופניים וטריאתלט.",
+          "en": "Tal was a cyclist and a triathlete.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "הוא השתתף בעבר בתחרות 'איש הברזל'.",
+          "en": "He had previously taken part in the 'Ironman' competition.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "מאמנו דן אלתרמן ספד לו בפוסט.",
+          "en": "His coach Dan Alterman eulogized him in a post.",
+          "paragraph": 3,
+          "id": "s5"
+        },
+        {
+          "he": "המאמן תיאר את טל כצנוע ובעל כוח רצון ונחישות.",
+          "en": "The coach described Tal as modest and as having willpower and determination.",
+          "paragraph": 3,
+          "id": "s6"
+        },
+        {
+          "he": "אלתרמן כתב שהוא לא מצליח לעכל שהוא לא כאן ושלח תנחומים למשפחה ולחברים.",
+          "en": "Alterman wrote that he cannot come to terms with him not being here and sent condolences to the family and friends.",
+          "paragraph": 3,
+          "id": "s7"
+        },
+        {
+          "he": "בראיון לאתר וי-נט לפני ארבע שנים סיפר טל על המעבר שלו לכפר חרוב ועל אהבתו לטבע.",
+          "en": "In an interview with ynet four years ago Tal spoke about his move to Kfar Charuv and his love of nature.",
+          "paragraph": 4,
+          "id": "s8"
+        },
+        {
+          "he": "הוא עבד כמנהל פיתוח בחברת תוכנה.",
+          "en": "He worked as a development manager at a software company.",
+          "paragraph": 4,
+          "id": "s9"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "שבוע בדיוק אחרי שמאי הטלוויזיה איציק בראשי נהרג במהלך רכיבה על אופניים, בשבת בבוקר נהרג רוכב נוסף בתאונה קטלנית.",
+          "en": "Exactly one week after TV director Itzik Barashi was killed while cycling, on Saturday morning another rider was killed in a fatal accident.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "טל גלבוע, בן 47 מקיבוץ כפר חרוב שבדרום הגולן, נהרג הבוקר מפגיעת רכב בכביש 98 סמוך לצומת מגשימים, בעת שרכב על אופניו.",
+          "en": "Tal Galboa, 47, from Kibbutz Kfar Charuv in the southern Golan, was killed this morning in a vehicle collision on road 98 near the Megashim junction while riding his bicycle.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "גלבוע היה טריאתלט והשתתף בעבר גם בתחרות 'איש הברזל'.",
+          "en": "Galboa was a triathlete and had previously taken part in the 'Ironman' competition.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "מאמנו דן אלתרמן — אחד הטריאתלטים הבולטים בתולדות ישראל — פרסם פוסט שבו ספד לו ותיאר אותו כ'מלח הארץ'.",
+          "en": "His coach Dan Alterman — one of Israel's leading triathletes — published a post in which he eulogized him and described him as 'salt of the earth.'",
+          "paragraph": 3,
+          "id": "s4"
+        },
+        {
+          "he": "בפוסט תיאר אלתרמן את טל כשקט, צנוע ותמיד עם עוד מטרה ואתגר.",
+          "en": "In the post Alterman described Tal as quiet, modest and always with another goal and challenge.",
+          "paragraph": 3,
+          "id": "s5"
+        },
+        {
+          "he": "הוא כתב בין השאר 'בוקר שחור' ושיתף כי אינו מצליח לעכל שהנורא מכל קרה.",
+          "en": "He wrote among other things 'a black morning' and shared that he cannot process that the worst has happened.",
+          "paragraph": 3,
+          "id": "s6"
+        },
+        {
+          "he": "אלתרמן ציין דוגמאות לנחישותו של טל: 'גם כשהגוף אמר אחרת, אתה לא ויתרת', וסיפר כי טל סיים אף איירונמן עם כתף שבורה.",
+          "en": "Alterman cited examples of Tal's determination: 'even when the body said otherwise, you did not give up,' and said that Tal even finished an Ironman with a broken shoulder.",
+          "paragraph": 3,
+          "id": "s7"
+        },
+        {
+          "he": "המאמן תיאר מפגש אחרון קצר ורגשי לפני כמה ימים וכתב שהוא עדיין לא מצליח לעכל שאתה לא כאן.",
+          "en": "The coach described a short emotional last meeting a few days earlier and wrote that he still cannot come to terms with you not being here.",
+          "paragraph": 3,
+          "id": "s8"
+        },
+        {
+          "he": "אלתרמן הוסיף תנחומים לגלית, לילדים ולכל מעגל החברים של טל.",
+          "en": "Alterman added condolences to Galit, to his children and to Tal's circle of friends.",
+          "paragraph": 3,
+          "id": "s9"
+        },
+        {
+          "he": "בראיון לאתר וי-נט לפני ארבע שנים סיפר גלבוע על המעבר מכפר סבא לגולן, על החיים בכפר חרוב ועל אהבת המשפחה לקרבה לטבע.",
+          "en": "In an interview with ynet four years ago Galboa spoke about moving from Kfar Saba to the Golan, about life in Kfar Charuv and his family's love of being close to nature.",
+          "paragraph": 4,
+          "id": "s10"
+        },
+        {
+          "he": "הוא עבד כמנהל פיתוח בחברת תוכנה, עבודה שהזכיר בראיון ההוא.",
+          "en": "He worked as a development manager at a software company, a job he mentioned in that interview.",
+          "paragraph": 4,
+          "id": "s11"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "רוכב אופניים",
+        "en": "cyclist"
+      },
+      {
+        "he": "נהרג",
+        "en": "was killed"
+      },
+      {
+        "he": "תאונה",
+        "en": "accident"
+      },
+      {
+        "he": "כביש",
+        "en": "road"
+      },
+      {
+        "he": "צומת",
+        "en": "junction"
+      },
+      {
+        "he": "טריאתלט",
+        "en": "triathlete"
+      },
+      {
+        "he": "מאמן",
+        "en": "coach"
+      },
+      {
+        "he": "ספד",
+        "en": "eulogized"
+      },
+      {
+        "he": "מנהל פיתוח",
+        "en": "development manager"
+      },
+      {
+        "he": "קיבוץ",
+        "en": "kibbutz"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who was killed in the accident?",
+        "answer": "Tal Galboa, a 47-year-old from Kibbutz Kfar Charuv."
+      },
+      {
+        "prompt": "Where did the accident happen?",
+        "answer": "On road 98 near the Megashim junction in the southern Golan."
+      },
+      {
+        "prompt": "What sport did Tal Galboa practice?",
+        "answer": "He was a cyclist and a triathlete who had taken part in Ironman."
+      },
+      {
+        "prompt": "Who wrote a eulogy for him and where was it published?",
+        "answer": "His coach, Dan Alterman, wrote a eulogy in a post."
+      },
+      {
+        "prompt": "Where did Galboa work, according to the article?",
+        "answer": "He worked as a development manager at a software company."
+      }
+    ],
+    "slug": "news-5bafd9b33a68",
+    "categoryLabel": "חברה",
+    "minutes": 1,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/rknvayb9fe",
+      "publishedAt": "2026-09-26T18:38:12.000Z",
+      "importedAt": "2026-09-26T18:51:45.177Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "56af8f23bb70ea4ca1b4a1a7e8f860a3caa5053b0b10deda63428172c32b63e2",
+      "generationVersion": 3
+    }
+  },
+  {
+    "titleHe": "המדינות שיצאו מהאולם בנאום נתניהו באו\"ם - ואלו שנשארו",
+    "titleEn": "The countries that left the UN hall during Netanyahu's speech — and those that stayed",
+    "standfirst": "לפי ניתוח של משלחת ישראל, 78 מדינות עזבו את אולם העצרת הכללית כשראש הממשלה עלה לנאום שלשום (חמישי). דנון כינה את היציאה \"קמפיין יחסי ציבור שקוף ומביך\". כמה סרטונים וטענות מחו״ל עוררו דיון.",
+    "standfirstEn": "According to an analysis by the Israeli delegation, 78 countries left the General Assembly hall when the prime minister went up to speak the day before yesterday (Thursday). Danon called the exit a \"transparent and embarrassing PR campaign.\" Several videos and claims from abroad sparked discussion.",
+    "category": "politics",
+    "sentences": {
+      "easy": [
+        {
+          "he": "1. משלחת ישראל באו\"ם ערכה ניתוח ראשוני של הנוכחות באולם העצרת הכללית שלשום (חמישי), בעת נאום ראש הממשלה בנימין נתניהו.",
+          "en": "1. The Israeli delegation at the UN made a preliminary analysis of attendance in the General Assembly hall the day before yesterday (Thursday), during Prime Minister Benjamin Netanyahu's speech.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "2. לפי הניתוח של המשלחת הישראלית, 78 מדינות לא היו נוכחות באולם כשהנאום התחיל.",
+          "en": "2. According to the Israeli delegation's analysis, 78 countries were not present in the hall when the speech began.",
+          "paragraph": 2,
+          "id": "s2"
+        },
+        {
+          "he": "3. לפי אותו ניתוח, זה יותר מאשר בשנה שעברה, אז עזבו 70 מדינות, וכמה נציגים חזרו במהלך הנאום, לפי המשלחת.",
+          "en": "3. According to that analysis, this was more than last year, when 70 countries left, and some representatives returned during the speech, the delegation said.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "4. לפי הספירה של המשלחת הישראלית, מתוך 193 המדינות החברות ועוד שתי משקיפות, נכחו באולם 117 משלחות, כולל ארצות הברית ובריטניה.",
+          "en": "4. According to the Israeli delegation's count, out of 193 member states and two observers, 117 delegations were present in the hall, including the United States and Britain.",
+          "paragraph": 3,
+          "id": "s4"
+        },
+        {
+          "he": "5. לפי הניתוח, מבין המדינות הערביות רק איחוד האמירויות ובחריין נשארו באולם.",
+          "en": "5. According to the analysis, among Arab states only the United Arab Emirates and Bahrain remained in the hall.",
+          "paragraph": 4,
+          "id": "s5"
+        },
+        {
+          "he": "6. לפי הניתוח, מדינות ערביות אחרות כמו מצרים, ירדן, סעודיה ועירטק לא נכחו באולם.",
+          "en": "6. According to the analysis, other Arab countries such as Egypt, Jordan, Saudi Arabia and Iraq were not present in the hall.",
+          "paragraph": 4,
+          "id": "s6"
+        },
+        {
+          "he": "7. לפי הדוח גם איראן, טורקיה וברזיל נכללו בין אלה שלא נכחו, והמדינה האירופית היחידה שיצאה היתה ספרד, לפי המשלחת.",
+          "en": "7. According to the report, Iran, Turkey and Brazil were also among those not present, and the only European country that left was Spain, the delegation said.",
+          "paragraph": 4,
+          "id": "s7"
+        },
+        {
+          "he": "8. שגריר ישראל באו\"ם דני דנון טען שהיציאה ההמונית היתה \"הצגה פוליטית מתוכננת\" ו\"קמפיין יחסי ציבור שקוף ומביך\", לפי דבריו לתקשורת.",
+          "en": "8. Israel's UN ambassador Danny Danon said the mass exit was a \"planned political show\" and a \"transparent and embarrassing PR campaign,\" according to his comments to the media.",
+          "paragraph": 5,
+          "id": "s8"
+        },
+        {
+          "he": "9. לפי המשלחת הישראלית, המשלחת הפלסטינית ביקשה לשבת יחד כדי לצאת בבת אחת וליצור הדגשה מצולמת עם עליית נתניהו לדוכן.",
+          "en": "9. According to the Israeli delegation, the Palestinian delegation asked to sit together so they could leave at once and create a filmed emphasis when Netanyahu rose to the podium.",
+          "paragraph": 6,
+          "id": "s9"
+        },
+        {
+          "he": "10. לפי הדיווח, גם הופץ סרטון ישן מ־2023 שקשור לאירוע נפרד, מה שהעלה חשד לשימוש מטעה בתיעוד.",
+          "en": "10. According to the report, an old video from 2023 related to a separate incident was also circulated, which raised suspicion of misleading use of footage.",
+          "paragraph": 7,
+          "id": "s10"
+        },
+        {
+          "he": "11. לפי הדיווח, דנון ניגש לנציג האיראני והציע ראוטר סטארלינק; הנציג האיראני סירב לקבל והסצנה צברה צפיות רבות ברשתות החברתיות, לפי המידע.",
+          "en": "11. According to the report, Danon approached the Iranian representative and offered a Starlink router; the Iranian representative refused to accept it, and the scene gained many views on social media, according to the information.",
+          "paragraph": 8,
+          "id": "s11"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "1. משלחת ישראל באו\"ם גיבשה ניתוח ראשוני של נוכחות הנציגים במליאת העצרת הכללית במהלך נאומו של ראש הממשלה בנימין נתניהו שלשום (חמישי), ושלחה את הממצאים לתקשורת, לפי דיווח המשלחת.",
+          "en": "1. The Israeli delegation at the UN compiled a preliminary analysis of representatives' attendance in the General Assembly plenary during Prime Minister Benjamin Netanyahu's speech the day before yesterday (Thursday), and sent the findings to the media, according to the delegation's report.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "2. לפי הניתוח של המשלחת הישראלית, 78 מדינות לא היו נוכחות באולם בעת עליית נתניהו לדוכן, זאת לעומת יציאה של 70 מדינות בשנה שעברה, לפי המשלחת.",
+          "en": "2. According to the Israeli delegation's analysis, 78 countries were not present in the hall when Netanyahu took the podium, compared with departures of 70 countries last year, the delegation said.",
+          "paragraph": 2,
+          "id": "s2"
+        },
+        {
+          "he": "3. המשלחת ציינה כי חלק מהנציגים שיצאו בתחילת הנאום חזרו אל האולם במהלך אותו נאום, לפי הדיווח של המשלחת הישראלית.",
+          "en": "3. The delegation noted that some representatives who left at the start of the speech returned to the hall during the speech, according to the Israeli delegation's report.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "4. לפי הספירה של המשלחת הישראלית, מתוך 193 מדינות חברות ועוד שתי מדינות משקיפות, נכחו באולם 117 משלחות, ובהן מדינות כגון ארצות הברית, בריטניה, גרמניה, צרפת, איטליה, הודו ויפן.",
+          "en": "4. According to the Israeli delegation's count, out of 193 member states and two observers, 117 delegations were present in the hall, including countries such as the United States, Britain, Germany, France, Italy, India and Japan.",
+          "paragraph": 3,
+          "id": "s4"
+        },
+        {
+          "he": "5. לפי הניתוח הישראלי, מבין המדינות הערביות רק איחוד האמירויות ובחריין נשארו באולם במהלך הנאום.",
+          "en": "5. According to the Israeli analysis, among Arab states only the United Arab Emirates and Bahrain remained in the hall during the speech.",
+          "paragraph": 4,
+          "id": "s5"
+        },
+        {
+          "he": "6. הישראלית ציינה שיתר המדינות הערביות — כולל מצרים, ירדן, סעודיה, עיראק, כוויית, קטאר, לבנון, סוריה, תוניסיה, לוב, אלג'יריה, מרוקו ופלסטין — לא נכחו באולם, לפי הדוח.",
+          "en": "6. The Israeli delegation noted that other Arab countries — including Egypt, Jordan, Saudi Arabia, Iraq, Kuwait, Qatar, Lebanon, Syria, Tunisia, Libya, Algeria, Morocco and Palestine — were not present in the hall, according to the report.",
+          "paragraph": 4,
+          "id": "s6"
+        },
+        {
+          "he": "7. לצד זאת, לפי הדוח נכללו בין הנעדרות גם איראן, טורקיה, אינדונזיה, מלזיה, פקיסטן, בנגלדש וכן ברזיל ודרום אפריקה; ספרד צוינה כמדינה אירופית יחידה שיצאה.",
+          "en": "7. Alongside these absences, the report included Iran, Turkey, Indonesia, Malaysia, Pakistan, Bangladesh as well as Brazil and South Africa; Spain was listed as the only European country that left.",
+          "paragraph": 4,
+          "id": "s7"
+        },
+        {
+          "he": "8. שגריר ישראל באו\"ם דני דנון טען בתגובתו לתקשורת שהיציאה ההמונית היתה \"הצגה פוליטית מתוכננת שנועדה לייצר תמונה כוזבת\", וטען ש\"אויבי ישראל הכניסו מראש נציגים ממדינות מסוימות כדי שיקומו וייצאו מול המצלמות\", לפי דבריו.",
+          "en": "8. Israel's UN ambassador Danny Danon said in his comments to the media that the mass exit was a \"planned political show meant to create a false image,\" claiming that \"Israel's enemies pre-seated representatives from certain countries so they would stand up and leave in front of the cameras,\" according to his remarks.",
+          "paragraph": 5,
+          "id": "s8"
+        },
+        {
+          "he": "9. דנון הוסיף שלדבריו האולם היה מלא לפני הנאום ושהיו בו נציגויות רבות גם אחרי היציאה, והוא כינה את המהלך \"קמפיין יחסי ציבור שקוף ומביך\", לפי המשלחת.",
+          "en": "9. Danon added that, in his view, the hall was full before the speech and that many delegations remained even after the exit, and he called the move a \"transparent and embarrassing PR campaign,\" according to the delegation.",
+          "paragraph": 5,
+          "id": "s9"
+        },
+        {
+          "he": "10. לפי המשלחת הישראלית, המשלחת הפלסטינית פנתה מראש למדינות שונות בבקשה לשבת את ששת נציגיה יחד לצד שולחן המשלחת כדי שיוכלו לצאת ביחד בתחילת הנאום ולייצר הדגשה מצולמת.",
+          "en": "10. According to the Israeli delegation, the Palestinian delegation beforehand asked various countries to seat all six of its representatives together at the delegation table so they could leave together at the start of the speech and create a filmed emphasis.",
+          "paragraph": 6,
+          "id": "s10"
+        },
+        {
+          "he": "11. בנוסף, לפי הדיווח נטען שגורמים המזוהים עם איראן הפיצו ברשת טענות מטעות וכללו גם וידאו ישן מ־2023 שמציג אירוע נפרד שבו אז שגריר ישראל הוצא מהאולם; זה העלה חשד לשימוש מטעה בתיעוד כחלק ממבצע השפעה, לפי המשלחת.",
+          "en": "11. Additionally, the report claimed that actors linked to Iran spread misleading claims online and included an old 2023 video showing a separate incident in which Israel's then-ambassador was removed from the hall; this raised suspicion of misleading use of footage as part of an influence operation, according to the delegation.",
+          "paragraph": 7,
+          "id": "s11"
+        },
+        {
+          "he": "12. במקביל, לפי הדיווח הופץ תיעוד בו דנון ניגש לשולחן המשלחת האיראנית והושיט ראוטר סטארלינק; לפי הדיווח הנציג האיראני סירב לקבל והסרטון צבר מיליוני צפיות, כשכ־40% מהצופות והצופים לפי אינסטגרם הגיעו מתוך איראן.",
+          "en": "12. At the same time, according to the report, footage circulated showing Danon approaching the Iranian delegation's table and offering a Starlink router; the Iranian representative reportedly refused to accept it and the video amassed millions of views, with about 40% of viewers on Instagram coming from inside Iran.",
+          "paragraph": 8,
+          "id": "s12"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "נאום",
+        "en": "speech"
+      },
+      {
+        "he": "מליאה",
+        "en": "plenary"
+      },
+      {
+        "he": "משלחת",
+        "en": "delegation"
+      },
+      {
+        "he": "ניתוח",
+        "en": "analysis"
+      },
+      {
+        "he": "נציג",
+        "en": "representative"
+      },
+      {
+        "he": "שגריר",
+        "en": "ambassador"
+      },
+      {
+        "he": "תיעוד",
+        "en": "footage / documentation"
+      },
+      {
+        "he": "הטעיה",
+        "en": "deception"
+      },
+      {
+        "he": "ראוטר סטארלינק",
+        "en": "Starlink router (satellite internet device)"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "According to the Israeli analysis, how many countries were not present in the hall when Netanyahu began his speech?",
+        "answer": "78 countries, according to the Israeli delegation's analysis."
+      },
+      {
+        "prompt": "Which two Arab states remained in the hall during Netanyahu's speech, according to the analysis?",
+        "answer": "The United Arab Emirates and Bahrain remained in the hall, according to the analysis."
+      },
+      {
+        "prompt": "What did Ambassador Danny Danon call the mass exit, according to his comments?",
+        "answer": "He called it a \"planned political show meant to create a false image\" and a \"transparent and embarrassing PR campaign,\" according to his comments."
+      },
+      {
+        "prompt": "What issue did the Israeli delegation raise about a circulated video used in some claims?",
+        "answer": "They said an old 2023 video showing a separate incident was circulated, raising suspicion that the footage was used misleadingly as part of an influence operation."
+      },
+      {
+        "prompt": "What happened when Danon offered a Starlink router to the Iranian representative, according to the report?",
+        "answer": "According to the report, the Iranian representative refused to accept the Starlink router, and the footage of the moment circulated widely online."
+      }
+    ],
+    "slug": "news-6add5590a965",
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/hykm3usqgg",
+      "publishedAt": "2026-09-26T18:08:32.000Z",
+      "importedAt": "2026-09-26T18:48:50.706Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "b9dbd1d3cfdf0507f363efe4ea80dfae6002c3d0f1d9b06ff206452c18d5f324",
+      "generationVersion": 3
+    }
+  },
+  {
+    "titleHe": "אחרי האזהרות, נתניהו החליט: לקדם הסדרה מול חמאס | המסמכים לפני 7 באוקטובר",
+    "titleEn": "After the warnings, Netanyahu decided: advance civilian arrangement with Hamas | Documents before October 7",
+    "standfirst": "לפי מסמכים שנחשפו בחדשות רשת ובדיווחים זרים, בדיון הערכת מצב שנערך ב-1 באוקטובר 2023 נרשמה ההחלטה לקדם הסדרה אזרחית עם חמאס ולהכין מוכנות לסיכולים של ראשי חמאס; לפני כן התקבלו אזהרות, לפי פרסומים.",
+    "standfirstEn": "According to documents published on Reshet News and foreign reports, in a situation assessment held on October 1, 2023 a decision was recorded to advance a civilian arrangement with Hamas and to prepare for eliminations of Hamas leaders; earlier warnings were received, according to reports.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "במסמכים שנחשפו בחדשות רשת נכתב כי ב-1 באוקטובר 2023 התקיימה הערכת מצב בראשות ראש הממשלה.",
+          "en": "Documents published on Reshet News state that on October 1, 2023 a situation assessment was held under the prime minister.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי הניו יורק טיימס, אותה הערכת מצב התקיימה שישה ימים לפני טבח ה-7 באוקטובר, והעיתון טען שנתניהו התעלם מהאזהרות ולא הזכיר אותן.",
+          "en": "According to The New York Times, that situation assessment took place six days before the October 7 massacre, and the paper claimed that Netanyahu ignored warnings and did not mention them.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "באותו דיון נרשם מפורשות כי הוחלט \"לקדם הסדרה אזרחית מול חמאס\".",
+          "en": "That discussion explicitly recorded a decision to \"advance a civilian arrangement with Hamas.\"",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "לפי מסמך מלשכת ראש הממשלה נכתב גם כי הוחלט \"לקדם המוכנות המבצעית לסיכולים שהומלצו - ראשי חמאס\".",
+          "en": "According to a document from the prime minister's office, it is also written that a decision was made to \"advance operational preparedness for recommended eliminations — Hamas leaders.\"",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לפי פרסום במגזין אטלנטיק, ראש המודיעין המצרי נחת בישראל ב-26 בספטמבר והזהיר מ\"מתקפה גדולה\" של חמאס.",
+          "en": "According to a report in The Atlantic, the head of Egyptian intelligence landed in Israel on September 26 and warned of a \"large attack\" by Hamas.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "גם לפי דיווחים נוספים, כולל הניו יורק טיימס, מנהיג האמירויות מוחמד בן זאיד הזהיר את נתניהו באותו שבוע.",
+          "en": "Also according to other reports, including The New York Times, the leader of the Emirates, Mohammed bin Zayed, warned Netanyahu that same week.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "לפני הערכת המצב התקיימה ב-27 בספטמבר שיחת חיתוך מצב טלפונית שבה השתתפו שר הביטחון דאז, הרמטכ\"ל וראשי המוסד והשב\"כ.",
+          "en": "Before the situation assessment, on September 27 a telephonic cut-through status call took place which was attended by the then defense minister, the chief of staff, and the heads of Mossad and Shin Bet.",
+          "paragraph": 3,
+          "id": "s7"
+        },
+        {
+          "he": "בסטנוגרמה של אותה שיחה נכתב שנתניהו אמר שהוא רוצה לצמצם את ההסלמה אך להיות מוכנים להתלקחויות.",
+          "en": "In the transcript of that call it is written that Netanyahu said he wants to reduce escalation but be prepared for flare-ups.",
+          "paragraph": 3,
+          "id": "s8"
+        },
+        {
+          "he": "על פי המסמכים, נתניהו הנחה לקיים הערכת מצב מעמיקה בהקדם ולהזמין התייעצות ביטחונית מצומצמת בנושא שהוגדר \"מעשה בראשית\".",
+          "en": "According to the documents, Netanyahu instructed to hold a deep situation assessment soon and to convene a narrow security consultation on a matter defined as the 'ma'aseh bereshit.'",
+          "paragraph": 4,
+          "id": "s9"
+        },
+        {
+          "he": "במסמך רשום גם מההחלטות לגבי עזה: שימוש באמצעים הומניטריים כ'אקורדיון', קידום ההסדרה האזרחית עם חמאס והגברת המוכנות לסיכולים של ראשי הארגון.",
+          "en": "The document also records decisions regarding Gaza: using humanitarian measures as an 'accordion,' advancing a civilian arrangement with Hamas, and increasing preparedness for eliminations of the organization's leaders.",
+          "paragraph": 5,
+          "id": "s10"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "מסמכים שפורסמו הערב בחדשות רשת מצטטים סטנוגרמות ומסמכים מישיבת הערכת מצב שנערכה ב-1 באוקטובר 2023, ובהן נרשמו החלטות בנוגע לעזה ולחמאס.",
+          "en": "Documents published tonight on Reshet News cite transcripts and papers from a situation assessment meeting held on October 1, 2023, in which decisions concerning Gaza and Hamas were recorded.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי הניו יורק טיימס, אותה הערכת מצב התקיימה שישה ימים לפני טבח ה-7 באוקטובר, והעיתון טען שנתניהו התעלם מהאזהרות שקיבל ולא הזכיר אותן בדיון.",
+          "en": "According to The New York Times, that situation assessment took place six days before the October 7 massacre, and the paper claimed that Netanyahu ignored the warnings he received and did not mention them in the discussion.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "בסטנוגרמות ובמסמכים הנכללים בפרסום נכתב במפורש כי הוחלט \"לקדם הסדרה אזרחית מול חמאס\" כחלק מההנחיות המדיניות.",
+          "en": "The transcripts and documents included in the publication explicitly state that a decision was made to \"advance a civilian arrangement with Hamas\" as part of the policy directives.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "מלשכת ראש הממשלה, לפי המסמך, נמסר כי הוחלט גם \"לקדם המוכנות המבצעית לסיכולים שהומלצו - ראשי חמאס\", תוך הדגשה למצבי חירום.",
+          "en": "From the prime minister's office, according to the document, it is stated that it was also decided to \"advance operational preparedness for recommended eliminations — Hamas leaders,\" with emphasis on emergency situations.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "על פי פרסום במגזין אטלנטיק, יממה לפני שיחת חיתוך המצב הגיע לישראל ראש המודיעין המצרי עבאס כאמל והזהיר מפני \"מתקפה גדולה\" של חמאס.",
+          "en": "According to a report in The Atlantic, one day before the cut-through status call the head of Egyptian intelligence, Abbas Kamel, arrived in Israel and warned of a \"large attack\" by Hamas.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "הניו יורק טיימס ודיווחים נוספים ציינו גם שמנהיג האמירויות מוחמד בן זאיד הזהיר את ראש הממשלה, ככל הנראה באותו שבוע.",
+          "en": "The New York Times and additional reports also noted that the leader of the Emirates, Mohammed bin Zayed, warned the prime minister, apparently during that same week.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "לפי הסטנוגרמה, ב-27 בספטמבר נערכה שיחת חיתוך מצב טלפונית שבה השתתפו בין היתר שר הביטחון דאז יואב גלנט, הרמטכ\"ל רא\"ל הרצי הלוי, וראשי המוסד והשב\"כ דדי ברנע ורונן בר.",
+          "en": "According to the transcript, on September 27 a telephonic cut-through status call took place which included, among others, then defense minister Yoav Gallant, Chief of Staff Lt. Gen. Herzi Halevi, and the heads of Mossad and Shin Bet, Dedi Barnea and Ronen Bar.",
+          "paragraph": 3,
+          "id": "s7"
+        },
+        {
+          "he": "בפתיחת אותה שיחה צוטט נתניהו במסמכים כאומר שיש מגמות שינוי בזירות שונות וכי יש לפעול לצמצום ההסלמה תוך היערכות להתלקחויות אם יידרש.",
+          "en": "At the opening of that call Netanyahu is quoted in the documents as saying there are changing trends in different arenas and that they must act to reduce escalation while preparing for flare-ups if required.",
+          "paragraph": 3,
+          "id": "s8"
+        },
+        {
+          "he": "עוד נכתב כי נתניהו הנחה על קיום \"הערכת מצב מעמיקה\" בקרוב והזמין \"התייעצות ביטחונית מצומצמת\" שתתמקד ב'מעשה בראשית', לפי הסטנוגרמה.",
+          "en": "It is also written that Netanyahu instructed to hold a \"deep situation assessment\" soon and invited a \"narrow security consultation\" to focus on the 'ma'aseh bereshit,' according to the transcript.",
+          "paragraph": 4,
+          "id": "s9"
+        },
+        {
+          "he": "הערכת המצב שקבעו אכן התקיימה ב-1 באוקטובר, ובמסמך נמסר כי ראש הממשלה חידד הנחיות ומדיניות לגזרות השונות; בנוגע לעזה נרשמו מספר החלטות ספציפיות.",
+          "en": "The scheduled situation assessment did take place on October 1, and the document states that the prime minister clarified directives and policy for various sectors; regarding Gaza several specific decisions were recorded.",
+          "paragraph": 5,
+          "id": "s10"
+        },
+        {
+          "he": "בין ההחלטות: הגברת השימוש באמצעים הומניטריים כ'אקורדיון' להשפעה על חמאס, קידום ההסדרה האזרחית עם חמאס, וקידום מוכנות לסיכולים של ראשי הארגון.",
+          "en": "Among the decisions: increasing use of humanitarian measures as an 'accordion' to influence Hamas, advancing the civilian arrangement with Hamas, and advancing preparedness for eliminations of the organization's leaders.",
+          "paragraph": 5,
+          "id": "s11"
+        },
+        {
+          "he": "הפרסומים מציינים כי לפני הדיונים הגיעו אזהרות חיצוניות, אך לפי המסמכים ההחלטות התקבלו באותו שבוע, כפי שנכתב ותועד.",
+          "en": "The reports note that external warnings arrived before the discussions, but according to the documents the decisions were taken that same week, as written and recorded.",
+          "paragraph": 6,
+          "id": "s12"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "הערכת מצב",
+        "en": "situation assessment"
+      },
+      {
+        "he": "להזהיר",
+        "en": "to warn"
+      },
+      {
+        "he": "הסדרה אזרחית",
+        "en": "civilian arrangement"
+      },
+      {
+        "he": "סיכולים",
+        "en": "eliminations / targeted killings"
+      },
+      {
+        "he": "מודיעין",
+        "en": "intelligence"
+      },
+      {
+        "he": "סטנוגרמה",
+        "en": "transcript"
+      },
+      {
+        "he": "המוסד",
+        "en": "Mossad"
+      },
+      {
+        "he": "שב\"כ",
+        "en": "Shin Bet"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "According to the documents, what two main decisions were recorded on October 1, 2023 regarding Hamas?",
+        "answer": "The documents record a decision to advance a civilian arrangement with Hamas and to advance operational preparedness for recommended eliminations of Hamas leaders."
+      },
+      {
+        "prompt": "Which foreign intelligence official is reported by The Atlantic to have arrived on September 26 and warned of a large attack?",
+        "answer": "The Atlantic reports that the head of Egyptian intelligence, Abbas Kamel, arrived on September 26 and warned of a 'large attack.'"
+      },
+      {
+        "prompt": "Who are named as participants in the September 27 telephone call, according to the transcript?",
+        "answer": "According to the transcript, participants included then defense minister Yoav Gallant, Chief of Staff Lt. Gen. Herzi Halevi, and the heads of Mossad and Shin Bet, Dedi Barnea and Ronen Bar."
+      },
+      {
+        "prompt": "What did The New York Times claim about Netanyahu's handling of the warnings, as referenced in the documents?",
+        "answer": "The New York Times claimed that Netanyahu ignored the warnings he had received and did not mention them in the October 1 situation assessment, six days before the October 7 massacre."
+      }
+    ],
+    "slug": "news-b6039b05f30d",
+    "categoryLabel": "ביטחון",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/hjrr2dbqmx",
+      "publishedAt": "2026-09-26T17:44:48.000Z",
+      "importedAt": "2026-09-26T18:52:31.804Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "0a9b1307d748b4e8b087353fd0b23e1e81eb7dfc0b96862191c76ae206e83977",
+      "generationVersion": 3
+    }
+  },
+  {
+    "titleHe": "אלמוג כהן: ההצהרות של בן גביר מכניסות את המחנה לשאננות",
+    "titleEn": "Almog Cohen: Ben Gvirs statements make the camp complacent",
+    "standfirst": "הודלפה הקלטה מ-2021 שבה כהן אומר שלכאורה היו ליכוד מגעים גם עם מפלגות ערביות; ההקלטה חזרה לכותרות אחרי שהצטרף לליכוד ועלה בפריימריז. כהן אומר שההקלטה מלפני חמש שנים ומדגיש את נכונותו להתמודד על תיקי ביטחון, לפי דבריו.",
+    "standfirstEn": "A leaked 2021 recording in which Cohen says the Likud reportedly held talks with Arab parties has resurfaced after he joined Likud and rose in the primaries. Cohen says the recording is five years old and stresses his readiness to seek security portfolios, according to him.",
+    "category": "politics",
+    "sentences": {
+      "easy": [
+        {
+          "he": "לפני כמה ימים הופצה ברשת הקלטה שהודלפה משיחה מ-2021 בין אלמוג כהן לפעיל פוליטי אחר.",
+          "en": "A few days ago a leaked recording from a 2021 conversation between Almog Cohen and another political activist was circulated online.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "על פי ההקלטה כהן טען שלכאורה היו לליכוד מגעים גם עם רע\"מ והרשימה המשותפת.",
+          "en": "According to the recording, Cohen claimed that reportedly the Likud held talks also with Raam and the Joint List.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "ההקלטה חזרה לכותרות כעת כי מעמד המפלגות הערביות חזר לדיון ציבורי וכי מאז כהן עבר מעוצמה יהודית לליכוד והגיע למקום ה-13 בפריימריז.",
+          "en": "The recording has returned to the headlines because the status of the Arab parties has reappeared on the public agenda and because Cohen has since moved from Otzma Yehudit to Likud and reached number 13 in the primaries.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "כאשר נדרש להתייחס לדבר הוא אמר שההקלטה היא מלפני חמש שנים ושהוא לא זז מהמצפן המוסרי שלו, כך לפי דבריו.",
+          "en": "When asked to comment he said the recording is from five years ago and that he will not move from his moral compass, according to him.",
+          "paragraph": 3,
+          "id": "s4"
+        },
+        {
+          "he": "כהן אמר על ההישג בפריימריז שההישג שלו פנומנלי ועל כך שהוא מגיע מאופקים ומרגיש בליכוד בבית, לפי דבריו.",
+          "en": "Cohen said his primary result is phenomenal and that he comes from Ofakim and feels at home in the Likud, according to him.",
+          "paragraph": 4,
+          "id": "s5"
+        },
+        {
+          "he": "הוא אמר שאם תקום ממשלת ימין הוא שואף למשרד לביטחון לאומי וכי יש לו ניסיון בתחום הביטחון, לפי דבריו.",
+          "en": "He said that if a right wing government is formed he aspires to the Ministry of National Security and that he has experience in the security field, according to him.",
+          "paragraph": 5,
+          "id": "s6"
+        },
+        {
+          "he": "כהן סיפר שלדבריו העיפו אותו מעוצמה יהודית אחרי שהצביע בעד תקציב המדינה בדצמבר 2024 והוציאו אותו מקבוצות הווטסאפ של המפלגה.",
+          "en": "Cohen said that, according to him, they threw him out of Otzma Yehudit after he voted for the state budget in December 2024 and removed him from the party WhatsApp groups.",
+          "paragraph": 6,
+          "id": "s7"
+        },
+        {
+          "he": "על דרישות לכניסה לממשלה אמר שכאמור דרישות לפני שניצחנו מכניסות את המחנה לשאננות ואדישות, כך לפי דבריו.",
+          "en": "On demands for entry into government he said that, as he put it, demands before we have won put the camp into complacency and indifference, according to him.",
+          "paragraph": 7,
+          "id": "s8"
+        },
+        {
+          "he": "כהן טען כי לגבי 7 באוקטובר יש אחריות גם לדרג הביטחוני וכי לדבריו הדרג הביטחוני הסתיר מידע מהדרג המדיני; הוא אמר שהוא חשף מקור שהעביר מידע על התכנסויות ברצועה, לפי דבריו.",
+          "en": "Cohen argued that regarding October 7 there is responsibility also for the security echelon and that, according to him, the security echelon concealed information from the political level; he said he exposed a source who provided information about gatherings in the Strip, according to him.",
+          "paragraph": 8,
+          "id": "s9"
+        },
+        {
+          "he": "הוא סיכם שעשה חשבון נפש והודה שלעיתים היה עדין מדי, והבטיח להיות נחרץ יותר בקדנציה הבאה, לפי דבריו.",
+          "en": "He concluded that he did soul-searching and admitted that at times he was too soft, and he promised to be more decisive in the next term, according to him.",
+          "paragraph": 9,
+          "id": "s10"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "בימים האחרונים הופצה ברשתות חברתיות הקלטה שהודלפה משיחה שהתקיימה ב-2021 בין אלמוג כהן – אז עוד לא חבר כנסת – לבין פעיל פוליטי אחר.",
+          "en": "In recent days a leaked recording from a 2021 conversation between Almog Cohen — then not yet a Knesset member — and another political activist circulated on social networks.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "על פי ההקלטה כהן צוטט כאומר שלכאורה ניהל הליכוד מגעים לא רק עם רע\"מ של מנסור עבאס אלא גם עם הרשימה המשותפת, כך לפי הדיווחים.",
+          "en": "According to the recording, Cohen was quoted as saying that reportedly the Likud held talks not only with Raam of Mansour Abbas but also with the Joint List, according to reports.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "הקליפ קיבל תוקף מחודש מכיוון שמעמדן של המפלגות הערביות חזר לראש סדר היום הפוליטי וכי מאז ההקלטה כהן עזב את עוצמה יהודית ונכנס לרשימת הליכוד במקום ה-13 בפריימריז, על פי הדיווח.",
+          "en": "The clip has gained renewed relevance because the status of the Arab parties has returned to the top of the political agenda and because since the recording Cohen left Otzma Yehudit and entered the Likud list at number 13 in the primaries, according to reports.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "כשנדרש להגיב השבוע כהן הדגיש שההקלטה היא מלפני חמש שנים והוסיף שלדעתו מי שביחסינו היה יושב עם מנסור עבאס יהיה 'על הגריל', כך לפי הציטוטים שפורסמו ממנו.",
+          "en": "When asked to respond this week Cohen emphasized that the recording is from five years ago and added that in his view anyone from their ranks who sat with Mansour Abbas would be 'on the grill', according to published quotes from him.",
+          "paragraph": 3,
+          "id": "s4"
+        },
+        {
+          "he": "על ההצלחה בפריימריז הוא אמר שהגיע מאופקים ושמרגיש בליכוד בבית, וכי ההישג נבע בין השאר מתמהיל של בוחרים חופשיים ודילים שונים שנכנסו לרשימה, לפי דבריו.",
+          "en": "On his success in the primaries he said he comes from Ofakim and feels at home in the Likud, and that the achievement stemmed in part from a mix of free voters and various deals that entered the list, according to him.",
+          "paragraph": 4,
+          "id": "s5"
+        },
+        {
+          "he": "לגבי ביטחון הפנים והמשילות כהן אמר שהוא חושב שהמשילות התרופפה ושהפשיעה גאתה, וכי אם תוקם ממשלת ימין הוא שואף לתיק משרד לביטחון לאומי, לפי דבריו.",
+          "en": "Regarding internal security and governance Cohen said he believes governance weakened and crime rose, and that if a right wing government is formed he aspires to the Ministry of National Security, according to him.",
+          "paragraph": 5,
+          "id": "s6"
+        },
+        {
+          "he": "כהן ציין שיש לו ניסיון מוכח בתחום הביטחון: 'שירתי 11 שנים ביס\"מ וביחידת הסוכנים וראיתי את כל סוגי הפשיעה בישראל', כך לפי דבריו שפורסמו.",
+          "en": "Cohen noted that he has proven experience in the security field: 'I served 11 years in Yisam and in an agents unit and saw all kinds of crime in Israel', according to his published remarks.",
+          "paragraph": 6,
+          "id": "s7"
+        },
+        {
+          "he": "על רקע הדרישות השבוע מאיתמר בן גביר לכאורה לתיקים אמר כהן שהצגת דרישות לפני ניצחון היא כמו לצעוק 'יש' לפני שהבקעת שער וכי זה מכניס את המחנה לשאננות, כך לפי דבריו.",
+          "en": "Against the backdrop of Itamar Ben Gvirs reported demands for portfolios this week, Cohen said that presenting demands before victory is like shouting 'goal' before scoring and that it puts the camp into complacency, according to him.",
+          "paragraph": 7,
+          "id": "s8"
+        },
+        {
+          "he": "כהן תיאר את יציאתו מעוצמה יהודית באומרו שלדבריו לא עזב אלא העיפו אותו אחרי שהצביע בעד תקציב המדינה בדצמבר 2024, ולפיו המפלגה פרסמה צילומי מסך שקשורים לכך, לפי הדיווח.",
+          "en": "Cohen described his departure from Otzma Yehudit by saying that, according to him, he did not leave but was thrown out after he voted for the state budget in December 2024, and that the party published screenshots related to this, according to reports.",
+          "paragraph": 8,
+          "id": "s9"
+        },
+        {
+          "he": "בהקשר הרחב יותר כהן טען שאחרי פיגועי 7 באוקטובר מרבית הציבור נוטה לראות סוגיות רבות בעין בעין וכי ההבדלים האידיאולוגיים בין מפלגות הגוש הצטמצמו, כך לפי דבריו.",
+          "en": "In the broader context Cohen claimed that after the October 7 attacks most of the public tends to see many issues alike and that ideological differences between the bloc parties have narrowed, according to him.",
+          "paragraph": 9,
+          "id": "s10"
+        },
+        {
+          "he": "כהן מחזיק בנרטיב שבו חלק מהאחריות ל-7 באוקטובר מוטל על הדרג הביטחוני, והוא טוען שדרג זה הסתיר מידע מהדרג המדיני; לדבריו הוא השתמש בחסינותו וחשף מקור שהעביר מידע על התכנסויות בעזה לפני הטבח, לפי הצהרותיו.",
+          "en": "Cohen holds a narrative in which part of the responsibility for October 7 is placed on the security echelons, and he claims that this echelon concealed information from the political level; he says he used his immunity and exposed a source who transmitted information about gatherings in Gaza before the massacre, according to his statements.",
+          "paragraph": 10,
+          "id": "s11"
+        },
+        {
+          "he": "לסיום, כהן אמר שעשה חשבון נפש והודה שאולי היה לעיתים עדין מדי, והוסיף שהוא מתחייב להיות נחרץ יותר בתקופת כהונה עתידית, לפי דבריו.",
+          "en": "In closing, Cohen said he did soul-searching and admitted he may at times have been too soft, and added that he commits to being more decisive in a future term, according to him.",
+          "paragraph": 11,
+          "id": "s12"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "הקלטה",
+        "en": "recording"
+      },
+      {
+        "he": "פריימריז",
+        "en": "primaries"
+      },
+      {
+        "he": "משרד לביטחון לאומי",
+        "en": "Ministry of National Security"
+      },
+      {
+        "he": "עוצמה יהודית",
+        "en": "Otzma Yehudit (party)"
+      },
+      {
+        "he": "הליכוד",
+        "en": "Likud"
+      },
+      {
+        "he": "משילות",
+        "en": "governance"
+      },
+      {
+        "he": "פשיעה",
+        "en": "crime"
+      },
+      {
+        "he": "שאננות",
+        "en": "complacency"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What was leaked and from what year?",
+        "answer": "A recording from 2021 was leaked."
+      },
+      {
+        "prompt": "Which parties did Cohen reportedly say the Likud held talks with in the recording?",
+        "answer": "He reportedly said the Likud held talks with Raam and the Joint List."
+      },
+      {
+        "prompt": "Why did the recording return to the headlines now?",
+        "answer": "Because Arab parties returned to the political agenda and Cohen joined Likud and rose to number 13 in the primaries."
+      },
+      {
+        "prompt": "What ministry does Cohen say he aims for if a right-wing government is formed?",
+        "answer": "He aims for the Ministry of National Security."
       }
     ],
     "slug": "news-f23cd88d3330",
-    "category": "חדשות",
-    "minutes": 2,
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
     "date": "September 26, 2026",
     "source": {
       "publisher": "Ynet",
       "url": "https://www.ynet.co.il/news/elections2026/article/yokra14908186",
       "publishedAt": "2026-09-26T16:44:57.000Z",
-      "importedAt": "2026-09-26T16:53:53.283Z",
+      "importedAt": "2026-09-26T18:53:22.139Z",
       "adapted": true,
-      "fingerprint": "6658755f03159505560dd3d09a627f06290ae7aff05c77aecf7f6d29d6238860",
-      "generationVersion": 2
+      "evidence": "full_text",
+      "fingerprint": "1cb3efb3363ecbd901ed5dddcf0853233c5c0195ef2d6e9559812b20b25611d1",
+      "generationVersion": 3
     }
   },
   {

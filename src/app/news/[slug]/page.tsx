@@ -1,10 +1,15 @@
-import NewsLingo from "@/components/NewsLingo";
-import { STORIES } from "@/lib/content";
+import { notFound } from "next/navigation";
+import { STORIES, getStory } from "@/lib/content";
+import StoryReader from "@/components/StoryReader";
 
 export function generateStaticParams() {
   return STORIES.map(({ slug }) => ({ slug }));
 }
 
 export default async function StoryPage({ params }: { params: Promise<{ slug: string }> }) {
-	return <NewsLingo initialStory={(await params).slug} />;
+  const story = getStory((await params).slug);
+  if (!story) notFound();
+  return <main className="content-wrap secondary-page">
+    <div className="edition-layout edition-layout-single"><StoryReader story={story} /></div>
+  </main>;
 }
