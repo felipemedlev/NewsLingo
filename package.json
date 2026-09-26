@@ -1,0 +1,27 @@
+{
+  "name": "newslingo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "import:dictionary": "node scripts/import-dictionary.mjs",
+    "import:news": "node scripts/import-news.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.11.1",
+    "lucide-react": "^1.7.0",
+    "next": "16.3.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,444 @@
+[
+  {
+    "titleHe": "אלמוג כהן: \"ההצהרות של בן גביר מכניסות את המחנה לשאננות\"",
+    "titleEn": "Almog Cohen: \"Ben Gvir's Statements Bring Complacency to the Camp\"",
+    "standfirst": "אלמוג כהן מדבר על הצלחותיו בפריימריז ועל העתיד. הוא אינו מתכוון להיכנס לממשלת אחדות.",
+    "sentences": {
+      "easy": [
+        {
+          "he": "אלמוג כהן מרוצה מההצלחה שלו בפריימריז.",
+          "en": "Almog Cohen is pleased with his success in the primaries.",
+          "id": "s1"
+        },
+        {
+          "he": "הוא רוצה להיות שר לביטחון לאומי.",
+          "en": "He wants to be the Minister of National Security.",
+          "id": "s2"
+        },
+        {
+          "he": "כהן אומר שעוצמה יהודית זרקו אותו.",
+          "en": "Cohen says that Otzma Yehudit threw him out.",
+          "id": "s3"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "כהן טוען שההצהרות של בן גביר גורמות למחנה להיות שאנני.",
+          "en": "Cohen claims that Ben Gvir's statements are making the camp complacent.",
+          "id": "s1"
+        },
+        {
+          "he": "הוא מדגיש את הניסיון והכישורים שהוא possesses.",
+          "en": "He emphasizes the experience and skills he possesses.",
+          "id": "s2"
+        },
+        {
+          "he": "כהן לא מתכוון להיות חלק ממשלת אחדות אם זה על חשבון השותפות בגוש.",
+          "en": "Cohen does not intend to be part of a unity government if it is at the expense of the alliance.",
+          "id": "s3"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "מצליח",
+        "en": "successful"
+      },
+      {
+        "he": "משרד",
+        "en": "ministry"
+      },
+      {
+        "he": "ניסיון",
+        "en": "experience"
+      },
+      {
+        "he": "שותפות",
+        "en": "partnership"
+      },
+      {
+        "he": "הצהרות",
+        "en": "statements"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "מה הוא חושב על ההצהרות של בן גביר?",
+        "answer": "הוא believes שההצהרות גורמות לשאננות."
+      },
+      {
+        "prompt": "איזה תפקיד הוא רוצה לקבל?",
+        "answer": "הוא רוצה להיות שר לביטחון לאומי."
+      },
+      {
+        "prompt": "איך הוא הגיע לליכוד?",
+        "answer": "הוא הציג את עצמו בטבעיות."
+      }
+    ],
+    "slug": "news-f23cd88d3330",
+    "category": "חדשות",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/elections2026/article/yokra14908186",
+      "publishedAt": "2026-09-26T16:44:57.000Z",
+      "importedAt": "2026-09-26T16:53:53.283Z",
+      "adapted": true,
+      "fingerprint": "6658755f03159505560dd3d09a627f06290ae7aff05c77aecf7f6d29d6238860",
+      "generationVersion": 2
+    }
+  },
+  {
+    "titleHe": "תחקירי האזהרות שקיבל לפני 7 באוקטובר, ומתקפת נתניהו על \"ניו יורק טיימס\": \"שקרים\"",
+    "titleEn": "Investigations of Warnings Received Before October 7, Netanyahu Attacks 'New York Times': 'Lies'",
+    "standfirst": "מנהיג האמירויות הזהיר את ראש ה-CIA על תוכניות חמאס. נתניהו הכחיש את השיחה. הליכוד תוקף את ה'ניו יורק טיימס.'",
+    "sentences": {
+      "easy": [
+        {
+          "he": "מנהיג האמירויות הזהיר את נתניהו על חמאס.",
+          "en": "The leader of the UAE warned Netanyahu about Hamas.",
+          "id": "s1"
+        },
+        {
+          "he": "נתניהו הכחיש שהוא שמע את האזהרה.",
+          "en": "Netanyahu denied that he heard the warning.",
+          "id": "s2"
+        },
+        {
+          "he": "הליכוד טוען שה'ניו יורק טיימס' נגד ישראל.",
+          "en": "Likud claims that the 'New York Times' is against Israel.",
+          "id": "s3"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "עיתון 'אטלנטיק' דיווח על הזהרה ממקור מצרי לפני הטבח.",
+          "en": "The 'Atlantic' reported a warning from an Egyptian source before the massacre.",
+          "id": "s1"
+        },
+        {
+          "he": "נתניהו לא התייחס לאזהרה בדיון עם ראש ה-CIA.",
+          "en": "Netanyahu did not address the warning in the discussion with the CIA head.",
+          "id": "s2"
+        },
+        {
+          "he": "איזנקוט טוען שנתניהו לא נוהג בכבוד כלפי הציבור.",
+          "en": "Eisenkot claims that Netanyahu does not act respectfully towards the public.",
+          "id": "s3"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "אזהרה",
+        "en": "warning"
+      },
+      {
+        "he": "תכנן",
+        "en": "to plan"
+      },
+      {
+        "he": "להתעלם",
+        "en": "to ignore"
+      },
+      {
+        "he": "ממשלת ישראל",
+        "en": "Israeli government"
+      },
+      {
+        "he": "ציבור",
+        "en": "public"
+      },
+      {
+        "he": "שקר",
+        "en": "lie"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "מי הזהיר את נתניהו על חמאס?",
+        "answer": "מנהיג האמירויות."
+      },
+      {
+        "prompt": "מה הנושא המרכזי של הכתבה?",
+        "answer": "האזהרות על מתקפת חמאס ותגובות נתניהו."
+      },
+      {
+        "prompt": "איזה עיתון תוקף הליכוד?",
+        "answer": "ה'ניו יורק טיימס'."
+      }
+    ],
+    "slug": "news-d44157a9c3f4",
+    "category": "חדשות",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/elections2026/article/rynrzdscmx",
+      "publishedAt": "2026-09-26T16:35:00.000Z",
+      "importedAt": "2026-09-26T16:53:58.681Z",
+      "adapted": true,
+      "fingerprint": "1e09500657908cddc351881b09c84a899b099f3adf38cd371a50e81b7ef49385",
+      "generationVersion": 2
+    }
+  },
+  {
+    "titleHe": "מתי צפוי גשם בחול המועד?",
+    "titleEn": "When is Rain Expected During the Intermediate Days?",
+    "standfirst": "המזג האוויר היה נעים, אך גשמים צפויים לאחר מכן.",
+    "sentences": {
+      "easy": [
+        {
+          "he": "היום טיילו 70 אלף אנשים באתרים של רשות הטבע והגנים.",
+          "en": "Today, 70,000 people visited the Nature and Parks Authority sites.",
+          "id": "s1"
+        },
+        {
+          "he": "מחר ובשני יהיה מזג האוויר נעים.",
+          "en": "Tomorrow and on Monday, the weather will be pleasant.",
+          "id": "s2"
+        },
+        {
+          "he": "אחרי יום שני, צפויים גשמים בצפון ובמרכז.",
+          "en": "After Monday, rain is expected in the north and center.",
+          "id": "s3"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "מרביעי, הטמפרטורות יהיו הנמוכות ביותר מאז האביב.",
+          "en": "From Wednesday, temperatures will be the lowest since spring.",
+          "id": "s1"
+        },
+        {
+          "he": "בשמחת תורה, עשויים להתחדש הגשמים.",
+          "en": "On Simchat Torah, the rains may resume.",
+          "id": "s2"
+        },
+        {
+          "he": "היום היה מזג האוויר נעים, עם הרבה טיילים.",
+          "en": "Today's weather was pleasant, with many hikers.",
+          "id": "s3"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "גשם",
+        "en": "rain"
+      },
+      {
+        "he": "מזג האוויר",
+        "en": "weather"
+      },
+      {
+        "he": "טיילים",
+        "en": "hikers"
+      },
+      {
+        "he": "נעים",
+        "en": "pleasant"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "כמה אנשים טיילו היום?",
+        "answer": "70 אלף אנשים טיילו היום."
+      },
+      {
+        "prompt": "מתי יחל גשם באזור הצפון?",
+        "answer": "לאחר יום שני."
+      }
+    ],
+    "slug": "news-528c79134338",
+    "category": "חדשות",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/bjotbdb9mg",
+      "publishedAt": "2026-09-26T16:07:00.000Z",
+      "importedAt": "2026-09-26T16:54:03.593Z",
+      "adapted": true,
+      "fingerprint": "6f9c0437e8ee24d475f28c043bc4981d0778b1d8921b77af0915d0bfa399d280",
+      "generationVersion": 2
+    }
+  },
+  {
+    "titleHe": "גם תנובה ובורגראנץ': החברות הישראליות החדשות ב\"רשימה השחורה\" של האו\"ם",
+    "titleEn": "Tnuva and Burger Ranch: New Israeli Companies on the UN's 'Black List'",
+    "standfirst": "האו\"ם הוסיף חברות ישראליות לרשימה בהן עסקי התנחלויות ביו\"ש.",
+    "sentences": {
+      "easy": [
+        {
+          "he": "האו\"ם פרסם רשימה חדשה של חברות.",
+          "en": "The UN published a new list of companies.",
+          "id": "s1"
+        },
+        {
+          "he": "ברשימה יש חברות הקשורות להתנחלויות.",
+          "en": "The list includes companies related to settlements.",
+          "id": "s2"
+        },
+        {
+          "he": "ישראל טוענת שהרשימה היא לא הוגנת.",
+          "en": "Israel claims that the list is unfair.",
+          "id": "s3"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "הרשימה השחורה כוללת חברות ישראליות כמו תנובה ובורגראנץ'.",
+          "en": "The black list includes Israeli companies such as Tnuva and Burger Ranch.",
+          "id": "s1"
+        },
+        {
+          "he": "ישראל רואה זאת כמסע השמצה נגד חברות שלא ביצעו כל עבירה.",
+          "en": "Israel sees this as a smear campaign against companies that have committed no offense.",
+          "id": "s2"
+        },
+        {
+          "he": "האו\"ם חשף את התנאים לכניסה לרשימה.",
+          "en": "The UN revealed the conditions for entering the list.",
+          "id": "s3"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "רשימה",
+        "en": "list"
+      },
+      {
+        "he": "חברה",
+        "en": "company"
+      },
+      {
+        "he": "התנחלות",
+        "en": "settlement"
+      },
+      {
+        "he": "האו\"ם",
+        "en": "UN"
+      },
+      {
+        "he": "לא הוגן",
+        "en": "unfair"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "מהי הסיבה לרשימה השחורה של האו\"ם?",
+        "answer": "הרשימה כוללת חברות הקשורות להתנחלויות ביו\"ש."
+      },
+      {
+        "prompt": "איך ישראל מגיבה לרשימה?",
+        "answer": "ישראל טוענת שהרשימה היא מסע השמצה."
+      }
+    ],
+    "slug": "news-cfa1e865cb27",
+    "category": "חדשות",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/bk0yk8sqfe",
+      "publishedAt": "2026-09-26T15:40:55.000Z",
+      "importedAt": "2026-09-26T16:54:08.308Z",
+      "adapted": true,
+      "fingerprint": "8e17f7e150c4bf6eada4cba09716ca78bf218c3ae69cf8e229867bb938303909",
+      "generationVersion": 2
+    }
+  },
+  {
+    "titleHe": "טראמפ דחה את הצעת איראן",
+    "titleEn": "Trump Rejected Iran's Proposal",
+    "standfirst": "איראן הציעה הפסקת אש, וטראמפ דחה אותה. פרטים חדשים על אזהרות לפני פעולה.",
+    "sentences": {
+      "easy": [
+        {
+          "he": "איראן הציעה הפסקת אש בשבוע.",
+          "en": "Iran proposed a ceasefire for a week.",
+          "id": "s1"
+        },
+        {
+          "he": "טראמפ דחה את ההצעה של איראן.",
+          "en": "Trump rejected Iran's proposal.",
+          "id": "s2"
+        },
+        {
+          "he": "ראש המודיעין המצרי הגיע לישראל לפני 7 באוקטובר.",
+          "en": "The head of Egyptian intelligence arrived in Israel before October 7.",
+          "id": "s3"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "נתניהו לא שמע את האזהרה על מתקפה גדולה שקרבה.",
+          "en": "Netanyahu did not hear the warning about a major attack that was approaching.",
+          "id": "s1"
+        },
+        {
+          "he": "דיווחים אומרים שישראל תתמודד מול אירלנד במשחק חשוב.",
+          "en": "Reports say Israel will face Ireland in an important match.",
+          "id": "s2"
+        },
+        {
+          "he": "אירלנד תופיע במשחק ללא שחקן אחד עם סרטים שחורים.",
+          "en": "Ireland will appear in the game without one player and with black ribbons.",
+          "id": "s3"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "הצעת אש",
+        "en": "ceasefire proposal"
+      },
+      {
+        "he": "ראש המודיעין",
+        "en": "head of intelligence"
+      },
+      {
+        "he": "אזהרה",
+        "en": "warning"
+      },
+      {
+        "he": "מתקפה",
+        "en": "attack"
+      },
+      {
+        "he": "שחקן",
+        "en": "player"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "מה הציעה איראן?",
+        "answer": "איראן הציעה הפסקת אש."
+      },
+      {
+        "prompt": "מי דחה את ההצעה של איראן?",
+        "answer": "טראמפ דחה את ההצעה."
+      },
+      {
+        "prompt": "האם נתניהו שמע את האזהרות?",
+        "answer": "לא, הוא לא שמע את האזהרה."
+      }
+    ],
+    "slug": "news-5425f8b68f96",
+    "category": "חדשות",
+    "minutes": 2,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/h1el58r9fx",
+      "publishedAt": "2026-09-26T15:29:49.000Z",
+      "importedAt": "2026-09-26T16:54:13.350Z",
+      "adapted": true,
+      "fingerprint": "1ff5530e79292f3b69655fae5ea8bc634e469af43dcc05e1d9780071a54da032",
+      "generationVersion": 2
+    }
+  }
+]
