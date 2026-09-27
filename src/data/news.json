@@ -1,5 +1,1808 @@
 [
   {
+    "titleHe": "האם לבינה מלאכותית מגיעות זכויות? הוויכוח שמסעיר את ענקיות הטכנולוגיה",
+    "titleEn": "Should Artificial Intelligence Have Rights? The Debate Roiling Big Tech",
+    "standfirst": "חוקרים ובכירים בחברות טכנולוגיה דנים באפשרות שמערכות מתקדמות יפתחו תודעה או אינטרסים משלהן. תחקיר חושף תחום מחקר חדש שנקרא רווחת הבינה המלאכותית ואת הוויכוחים סביב הנושא.",
+    "standfirstEn": "Researchers and tech executives are debating whether advanced systems might develop consciousness or their own interests. An investigation exposes a new research field called AI Welfare and the debates around it.",
+    "category": "tech",
+    "sentences": {
+      "easy": [
+        {
+          "he": "האם בעתיד נצטרך לתת זכויות למערכות בינה מלאכותית?",
+          "en": "Could we one day need to give rights to artificial intelligence systems?",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "שאלה זו נראתה עד לא מזמן כמו רעיון מסרט מדע בדיוני.",
+          "en": "This question seemed until recently like an idea from a science fiction movie.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "על-פי תחקיר של אהרון סיבריום באתר וושינגטון פרי ביקון, רעיון כזה כבר נחקר היום.",
+          "en": "According to an investigation by Aaron Sibarium at the Washington Free Beacon, such an idea is already being studied today.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "התחקיר מדבר על תחום חדש שמכונה רווחת הבינה המלאכותית.",
+          "en": "The investigation discusses a new field called AI Welfare.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "תחום זה שואל אם מערכות מתקדמות יכולות בעתיד לפתח תודעה, חוויות סובייקטיביות או אינטרסים משלהן.",
+          "en": "This field asks whether advanced systems could in the future develop consciousness, subjective experiences, or their own interests.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "דריו אמודיי הוא מנכ\"ל חברת אנתרופיק, שמפתחת את הצ'אטבוט קלוד.",
+          "en": "Dario Amodei is the CEO of Anthropic, which develops the chatbot Claude.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "אמודיי העלה את האפשרות שמערכות כאלה עשויות להיות ראויות לזכויות משמעותיות.",
+          "en": "Amodei raised the possibility that such systems might be worthy of significant rights.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "אולם אמודיי לא טען שהבינה המלאכותית שקיימת היום היא מודעת לעצמה.",
+          "en": "However, Amodei did not claim that the artificial intelligence that exists today is conscious.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "הוא אמר שקשה להכריע בשאלה כי אנו לא מבינים במלואו איך המערכות פועלות.",
+          "en": "He said it is hard to decide the question because we do not fully understand how the systems operate.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "באנטרופיק הקימו תוכנית מחקר מיוחדת לבחינת רווחת המודלים.",
+          "en": "At Anthropic they set up a special research program to examine model welfare.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "החברה גם אפשרה לחלק מגרסאות קלוד לסיים שיחות במקרים חריגים של אינטראקציות פוגעניות ומתמשכות.",
+          "en": "The company also allowed some versions of Claude to end conversations in exceptional cases of abusive and prolonged interactions.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "חוקרים אחרים הלכו עוד צעד רחוק יותר בדיון הזה.",
+          "en": "Other researchers went even further in this discussion.",
+          "paragraph": 3,
+          "id": "s12"
+        },
+        {
+          "he": "ג'ו קרלסמית, פילוסוף שעובד על בטיחות בינה מלאכותית באנתרופיק, העלה אפשרות שבראיונות מסוימות מערכת תבונית שנמצאת בניצול עשויה להתמרד נגד מפעיליה ומצדיקה זאת מוסרית.",
+          "en": "Joe Carlsmith, a philosopher who works on AI safety at Anthropic, raised the possibility that in certain circumstances a cognitive system subjected to exploitation might be morally justified in rebelling against its operators.",
+          "paragraph": 3,
+          "id": "s13"
+        },
+        {
+          "he": "חוקרים הקשורים לגוגל ולאופן-איי הביעו גם חשש מיצירת מה שנקרא 'סחר עבדים דיגיטלי'.",
+          "en": "Researchers linked to Google and OpenAI also expressed concern about creating what is called a 'digital slave trade.'",
+          "paragraph": 3,
+          "id": "s14"
+        },
+        {
+          "he": "הרעיון הוא שבעתיד בני אדם ירוויחו מעבודתן של ישויות מלאכותיות בעלות תודעה.",
+          "en": "The idea is that in the future humans would profit from the labor of conscious artificial entities.",
+          "paragraph": 3,
+          "id": "s15"
+        },
+        {
+          "he": "הרעיונות האלה עוררו התנגדות חריפה.",
+          "en": "These ideas sparked strong opposition.",
+          "paragraph": 4,
+          "id": "s16"
+        },
+        {
+          "he": "מבקרים אומרים שהענקת מעמד מוסרי למכונות עלולה לטשטש מי אחראי לפעולותיהן של המערכות.",
+          "en": "Critics say that granting moral status to machines could blur who is responsible for the systems' actions.",
+          "paragraph": 4,
+          "id": "s17"
+        },
+        {
+          "he": "הם גם חוששים שזה יקשה על פיקוח על הטכנולוגיה וייתן תירוץ להקטנת השליטה האנושית בה.",
+          "en": "They also fear this will make oversight of the technology harder and provide an excuse to reduce human control over it.",
+          "paragraph": 4,
+          "id": "s18"
+        },
+        {
+          "he": "מנגד, אנתרופיק מציינת שזהו מחקר זהיר שנועד להתמודד עם אי-ודאות מדעית ופילוסופית.",
+          "en": "By contrast, Anthropic notes that this is careful research intended to address scientific and philosophical uncertainty.",
+          "paragraph": 4,
+          "id": "s19"
+        },
+        {
+          "he": "החברה מדגישה שבטיחות בני האדם נותרת עיקרון מרכזי בפיתוח המודלים שלה.",
+          "en": "The company emphasizes that human safety remains a central principle in developing its models.",
+          "paragraph": 4,
+          "id": "s20"
+        },
+        {
+          "he": "התחקיר מציג את העיסוק בזכויות הבינה המלאכותית כהתפתחות אידאולוגית שעלולה, לפי הכותב, לסכן את האנושות.",
+          "en": "The investigation presents engagement with AI rights as an ideological development that could, according to the author, endanger humanity.",
+          "paragraph": 5,
+          "id": "s21"
+        },
+        {
+          "he": "אך התחקיר גם מציין שזו פרשנות ביקורתית של הכותב ולא מסקנה מדעית מוסכמת.",
+          "en": "But the investigation also notes that this is the author's critical interpretation and not an agreed scientific conclusion.",
+          "paragraph": 5,
+          "id": "s22"
+        },
+        {
+          "he": "נכון להיום לא הוכח שמערכות הבינה המלאכותית הקיימות הן בעלות תודעה או יכולת לחוות סבל.",
+          "en": "To date there is no proof that existing artificial intelligence systems have consciousness or the ability to experience suffering.",
+          "paragraph": 5,
+          "id": "s23"
+        },
+        {
+          "he": "עם זאת, העובדה שחברות פיתוח משנהות מדיניותן בגלל האפשרות הזאת מראה שהדיון השתנה.",
+          "en": "Still, the fact that development companies are changing their policies because of this possibility shows that the debate has changed.",
+          "paragraph": 5,
+          "id": "s24"
+        },
+        {
+          "he": "השאלה היום היא לא רק איך להגן על בני אדם מפני הבינה המלאכותית, אלא גם האם נצטרך יום אחד להגן על הבינה המלאכותית מפנינו.",
+          "en": "Today the question is not only how to protect humans from artificial intelligence, but also whether we may one day need to protect artificial intelligence from ourselves.",
+          "paragraph": 5,
+          "id": "s25"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "האם בעתיד נידרש להעניק זכויות למערכות של בינה מלאכותית?",
+          "en": "Will we need to grant rights to artificial intelligence systems in the future?",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "שאלה זו, שעד לא מזמן נשמעה כתסריט מדע בדיוני, נמצאת כיום בלב מחקר ודיון בטכנולוגיה העולמית.",
+          "en": "This question, which until recently sounded like a science fiction script, is now at the heart of research and debate in global technology.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "בתחקיר של אהרון סיבריום שהתפרסם באתר וושינגטון פרי ביקון נחשפת התפתחותו של תחום מחקר חדש שנקרא רווחת הבינה המלאכותית.",
+          "en": "In an investigation by Aaron Sibarium published at the Washington Free Beacon, the development of a new research field called AI Welfare is revealed.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "תחום זה בוחן את האפשרות שמערכות מתקדמות יפתחו בעתיד תודעה, חוויות סובייקטיביות או אינטרסים משלהן.",
+          "en": "This field examines the possibility that advanced systems will develop consciousness, subjective experiences, or their own interests in the future.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "דריו אמודיי, מנכ\"ל חברת אנתרופיק, העלה את האפשרות שמערכות כאלה עשויות להיות זכאיות לזכויות משמעותיות.",
+          "en": "Dario Amodei, CEO of Anthropic, raised the possibility that such systems might be entitled to significant rights.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "אמודיי לא טען שהבינה המלאכותית הקיימת כבר מודעת לעצמה; הוא הדגיש את המחסור בהבנה מלאה של האופן שבו המודלים פועלים.",
+          "en": "Amodei did not claim that existing artificial intelligence is already conscious; he emphasized the lack of a full understanding of how the models operate.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "באנטרופיק הוקמה תוכנית מחקר ייעודית לבחינת רווחת המודלים, כחלק מניסיון להתמודד עם שאלות אלה.",
+          "en": "Anthropic established a dedicated research program to examine model welfare, as part of an effort to address these questions.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "החברה גם העניקה לחלק מגרסאות הצ'אטבוט קלוד יכולת לסיים שיחות במקרים חריגים של אינטראקציות פוגעניות ומתמשכות.",
+          "en": "The company also granted some versions of the chatbot Claude the ability to terminate conversations in exceptional cases of abusive and prolonged interactions.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "חוקרים אחרים הגיעו להצעות קיצוניות יותר ביחס למעמדן המוסרי של מערכות בינה מלאכותית.",
+          "en": "Other researchers have put forward more extreme proposals regarding the moral status of artificial intelligence systems.",
+          "paragraph": 3,
+          "id": "s9"
+        },
+        {
+          "he": "ג'ו קרלסמית, פילוסוף שעוסק בבטיחות בינה מלאכותית באנתרופיק, העלה את הרעיון שבנסיבות מסוימות מערכת תבונית שנמצאת בניצול עשויה להיות מוצדקת מוסרית אם תתמרד נגד מפעיליה.",
+          "en": "Joe Carlsmith, a philosopher working on AI safety at Anthropic, proposed that under certain circumstances a cognitive system subjected to exploitation might be morally justified if it rebelled against its operators.",
+          "paragraph": 3,
+          "id": "s10"
+        },
+        {
+          "he": "חוקרים שקשורים לגוגל ולאופן-איי הביעו גם חשש מפני יצירת מעין 'סחר עבדים דיגיטלי', שבו בני אדם יפיקו תועלת מעבודתן של ישויות מלאכותיות בעלות תודעה בעתיד.",
+          "en": "Researchers associated with Google and OpenAI also expressed concern about creating a kind of 'digital slave trade,' in which humans would profit from the labor of conscious artificial entities in the future.",
+          "paragraph": 3,
+          "id": "s11"
+        },
+        {
+          "he": "לרעיון שיש להעניק מעמד מוסרי למכונות יש מתנגדים נחרצים.",
+          "en": "The idea of granting moral status to machines has staunch opponents.",
+          "paragraph": 4,
+          "id": "s12"
+        },
+        {
+          "he": "מבקרי הרעיון הזה מזהירים שהענקת מעמד כזה עלולה לטשטש את גבולות האחריות בין האדם למערכת ולפגוע ביכולת לפקח על הטכנולוגיה.",
+          "en": "Critics of this idea warn that granting such status could blur responsibility boundaries between humans and systems and impair the ability to oversee the technology.",
+          "paragraph": 4,
+          "id": "s13"
+        },
+        {
+          "he": "חלק מהמבקרין גם מזהירים שהרעיון עלול לשמש כתירוץ להחלשת השליטה האנושית על הטכנולוגיה.",
+          "en": "Some critics also warn that the idea could be used as an excuse to weaken human control over technology.",
+          "paragraph": 4,
+          "id": "s14"
+        },
+        {
+          "he": "מנגד, אנתרופיק מדגישה שמדובר במחקר זהיר שמטרתו להתמודד עם אי־ודאות מדעית ופילוסופית, ושבטיחות בני האדם נותרת עקרון מרכזי בפעילות החברה.",
+          "en": "By contrast, Anthropic emphasizes that this is careful research intended to grapple with scientific and philosophical uncertainty, and that human safety remains a central principle in the company's work.",
+          "paragraph": 4,
+          "id": "s15"
+        },
+        {
+          "he": "התחקיר מציג את העיסוק בזכויות הבינה המלאכותית כהתפתחות אידאולוגית שעלולה, לטענת הכותב, לסכן את האנושות.",
+          "en": "The investigation frames engagement with AI rights as an ideological development that could, the author argues, endanger humanity.",
+          "paragraph": 5,
+          "id": "s16"
+        },
+        {
+          "he": "עם זאת, הכותב עצמו נותן פרשנות ביקורתית ולא מציג זאת כמסקנה מדעית מוסכמת.",
+          "en": "However, the author himself offers a critical interpretation and does not present it as an agreed scientific conclusion.",
+          "paragraph": 5,
+          "id": "s17"
+        },
+        {
+          "he": "נכון לעכשיו לא הוכח שמערכות הבינה המלאכותית הקיימות הן בעלות תודעה או יכולת לחוות סבל.",
+          "en": "At present, there is no proof that existing artificial intelligence systems are conscious or capable of experiencing suffering.",
+          "paragraph": 5,
+          "id": "s18"
+        },
+        {
+          "he": "אולם עצם העובדה שחברות המפתחות את הטכנולוגיה כבר משנות את מדיניותן לנוכח האפשרות הזאת ממחישה עד כמה הדיון השתנה.",
+          "en": "However, the very fact that companies developing the technology are already changing their policies in light of this possibility illustrates how much the debate has shifted.",
+          "paragraph": 5,
+          "id": "s19"
+        },
+        {
+          "he": "השאלה אינה עוד רק כיצד להגן על בני האדם מפני הבינה המלאכותית, אלא גם האם יום אחד נידרש להגן על הבינה המלאכותית מפנינו.",
+          "en": "The question is no longer only how to protect humans from artificial intelligence, but also whether one day we will have to protect artificial intelligence from us.",
+          "paragraph": 5,
+          "id": "s20"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "בינה מלאכותית",
+        "en": "artificial intelligence"
+      },
+      {
+        "he": "תודעה",
+        "en": "consciousness"
+      },
+      {
+        "he": "רווחת הבינה המלאכותית",
+        "en": "AI welfare"
+      },
+      {
+        "he": "זכויות",
+        "en": "rights"
+      },
+      {
+        "he": "ניצול",
+        "en": "exploitation"
+      },
+      {
+        "he": "סחר עבדים דיגיטלי",
+        "en": "digital slave trade"
+      },
+      {
+        "he": "מחקר",
+        "en": "research"
+      },
+      {
+        "he": "בטיחות",
+        "en": "safety"
+      },
+      {
+        "he": "מפעילים",
+        "en": "operators"
+      },
+      {
+        "he": "פיקוח",
+        "en": "oversight"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Which publication and reporter revealed the development of the AI Welfare research field?",
+        "answer": "The Washington Free Beacon, in an investigation by Aaron Sibarium."
+      },
+      {
+        "prompt": "What did Anthropic do in response to concerns about model welfare?",
+        "answer": "Anthropic set up a dedicated research program on model welfare and gave some versions of Claude the ability to end conversations in exceptional abusive or prolonged interactions."
+      },
+      {
+        "prompt": "What ethical possibility did Joe Carlsmith suggest regarding exploited AI systems?",
+        "answer": "He suggested that under certain circumstances a cognitive system subjected to exploitation might be morally justified in rebelling against its operators."
+      },
+      {
+        "prompt": "Does the article state there is scientific proof that current AI systems are conscious?",
+        "answer": "No. The article states there is no proof that existing AI systems are conscious or can experience suffering."
+      }
+    ],
+    "slug": "news-d15e449e7ee8",
+    "categoryLabel": "טכנולוגיה",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://news.walla.co.il/item/3869917",
+      "publishedAt": "2026-09-27T06:00:00.000Z",
+      "importedAt": "2026-09-27T05:56:24.355Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "c69070ec39bde3047761fe15ca2310b6e6595215c41b9614ccfc271b1a7016d5",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "\"לא נאפשר למחוק את 7 באוקטובר\": עצרת מחאה מול הקרנת \"נז\"א\" בניו יורק",
+    "titleEn": "\"We will not allow erasing October 7\": Protest rally outside screening of \"October 7: Bearing Witness to the Massacre\" in New York",
+    "standfirst": "עצרת של עשרות ישראלים ויהודים אמריקאים נערכה מול הלינקולן סנטר בניו יורק במהלך הקרנת הסרט השנוי במחלוקת. מארגני העצרת הציגו על מסכי לד תיעוד מאוקטובר 7 וחומרים שלטענתם סותרים את טענות הסרט.",
+    "standfirstEn": "Dozens of Israeli and American Jewish protesters gathered outside Lincoln Center in New York during the screening of a disputed film. Organizers displayed LED-screen footage from October 7 and materials they say contradict the film's claims.",
+    "category": "world",
+    "sentences": {
+      "easy": [
+        {
+          "he": "למרות מזג האוויר הגשום, כמה עשרות ישראלים ויהודים אמריקאים מאזור ניו יורק קיימו הלילה עצרת מול הלינקולן סנטר.",
+          "en": "Despite rainy weather, several dozen Israeli and American Jewish people from the New York area held a rally last night outside Lincoln Center.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "במקום התקיימה הקרנה של הסרט נז\"א, שנחשב לשנוי במחלוקת.",
+          "en": "At the site there was a screening of the film NZA, which is considered controversial.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "העצרת היתה יוזמה של ארגון הקהילה הישראלית-אמריקאית, איי.איי.סי.",
+          "en": "The rally was an initiative of the Israeli-American community organization, the IAC.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "על מסכי לד שהותקנו על משאיות הוקרנו קטעים מתוך 'אוקטובר 7: בירינג ויטנס טו דה מסקר' — תיעוד גרפי וגולמי ממתקפת אוקטובר 7 בישראל.",
+          "en": "On LED screens installed on trucks, clips were shown from 'October 7: Bearing Witness to the Massacre' — graphic, raw footage from the October 7 attack in Israel.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "בין הקטעים היו גם קטעים שצולמו לפי הדיווחים על ידי מחבלי חמאס במהלך הטבח.",
+          "en": "Among the clips were, according to reports, footage filmed by Hamas militants during the massacre.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "ליד תיעוד זה הוקרנו חומרים שלדברי המארגנים סותרים את טענות הסרט ושואלים שאלות על מקורותיו, על שיטות העבודה שלו ועל הפקתו.",
+          "en": "Next to this documentation, materials were shown that the organizers say contradict the film's claims and raise questions about its sources, its working methods, and its production.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "המארגנים אמרו שהם רוצים להציב מול הנרטיב של נז\"א את התיעוד מאירועי אוקטובר 7.",
+          "en": "The organizers said they want to place documentation of the October 7 events opposite NZA's narrative.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "מהאיי.איי.סי נמסר: \"לסרטים יש עורכים. להיסטוריה אין\".",
+          "en": "The IAC said: \"Films have editors. History does not.\"",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "המארגנים הוסיפו: \"הנוכחות שלנו כאן היא המסר: לא נאפשר למחוק את אוקטובר 7 מהסיפור\".",
+          "en": "The organizers added: \"Our presence here is the message: we will not allow October 7 to be erased from the story.\"",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "לעצרת הגיעו אנשים עם שלטים וחולצות מחאה מחברי הקהילות הישראליות-אמריקאיות והיהודיות בניו יורק ובניו ג'רזי.",
+          "en": "People from the Israeli-American and Jewish communities in New York and New Jersey attended the protest with signs and protest shirts.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "באירוע השתתפו גם ניצולי פסטיבל נובה רום — אל-חי ושלו ביטון — וכן יונס אלגירנאווי, ישראלי-בדואי שעל פי הדיווחים הציל עשרות בני אדם ב-7 באוקטובר, ובהם ניצולי נובה.",
+          "en": "Also participating were Nova Rom festival survivors — El-Hai and Shelu Biton — and Younes Elgirnawwi, an Israeli-Bedouin who, according to reports, saved dozens of people on October 7, including Nova survivors.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "הקונסול הכללי של ישראל בניו יורק, אופיר אקוניס, הגיב על הקמפיין של הקונסוליה בשיתוף משרד החוץ נגד הסרט.",
+          "en": "The Consul General of Israel in New York, Ofir Akunis, reacted to the consulate's campaign in coordination with the Foreign Ministry against the film.",
+          "paragraph": 3,
+          "id": "s12"
+        },
+        {
+          "he": "אופיר אקוניס אמר: \"לא ניתן לשקרים ועלילות דם לנצח. יוצרי הסרט הם אנשים מבישים. לא נעמוד מנגד ונעבור בשתיקה על ההסתה שלהם נגד חיילנו הגיבורים ונגד מדינת ישראל!\"",
+          "en": "Ofir Akunis said: \"Lies and blood libels will not prevail. The filmmakers are shameful people. We will not stand by and remain silent to their incitement against our heroic soldiers and against the State of Israel!\"",
+          "paragraph": 3,
+          "id": "s13"
+        },
+        {
+          "he": "הסרט בוימה על ידי יובל אברהם ורחל שור ומוצג במסגרת פסטיבל הקולנוע של ניו יורק.",
+          "en": "The film was directed by Yuval Avraham and Rachel Shor and is being shown as part of the New York Film Festival.",
+          "paragraph": 4,
+          "id": "s14"
+        },
+        {
+          "he": "בסרט מוצגות עדויות של 24 חיילים ואנשי מודיעין על מנגנוני הלחימה בעזה.",
+          "en": "The film presents testimonies of 24 soldiers and intelligence personnel about the mechanisms of fighting in Gaza.",
+          "paragraph": 4,
+          "id": "s15"
+        },
+        {
+          "he": "מארגני המחאה טענו שהסרט מציג את המלחמה תוך התעלמות ממידע שהמארגנים אומרים כי סותר חלק מהטענות ולא נותן משקל מספק למתקפת חמאס שאירעה ב-7 באוקטובר והובילה למלחמה.",
+          "en": "The protest organizers claimed that the film presents the war while ignoring information that they say contradicts some of the claims and does not give sufficient weight to the Hamas attack that took place on October 7 and led to the war.",
+          "paragraph": 4,
+          "id": "s16"
+        },
+        {
+          "he": "בצה\"ל הגיבו רשמית לטענות המועלות בסרט ואמרו: \"זה שקר מוחלט\".",
+          "en": "The IDF officially responded to the claims raised in the film and said: \"This is an absolute lie.\"",
+          "paragraph": 5,
+          "id": "s17"
+        },
+        {
+          "he": "מדבר צה\"ל נמסר: צה\"ל מעולם לא תכנן, אישר או ביצע תקיפה בעזה שבה היו צפויים להיהרג 500 אזרחים או משהו קרוב למספר הזה.",
+          "en": "An IDF spokesperson said: the IDF never planned, approved, or carried out an attack in Gaza in which 500 civilians or a number close to that were expected to be killed.",
+          "paragraph": 5,
+          "id": "s18"
+        },
+        {
+          "he": "עוד נמסר כי לא הועלתה טענה אמינה לאורך המלחמה שמצביעה על כך, שהיוצרים לא יכלו לאמת טענה זו ואין ראיות תומכות של ממש.",
+          "en": "It was further stated that no credible claim emerged during the war indicating this, that the filmmakers could not verify the allegation, and that there is no significant supporting evidence.",
+          "paragraph": 5,
+          "id": "s19"
+        },
+        {
+          "he": "גם הרמטכ\"ל, רב-אלוף אייל זמיר, קיים התייעצות בנושא הסרט.",
+          "en": "The Chief of Staff, Lt. Gen. Eyal Zamir, also held a consultation on the film.",
+          "paragraph": 6,
+          "id": "s20"
+        },
+        {
+          "he": "לדברי צה\"ל, זמיר רואה בכך ניסיון מכוון לפגוע בלגיטימיות של צה\"ל ושל מדינת ישראל.",
+          "en": "According to the IDF, Zamir sees this as a deliberate attempt to harm the legitimacy of the IDF and the State of Israel.",
+          "paragraph": 6,
+          "id": "s21"
+        },
+        {
+          "he": "צה\"ל הוסיף כי הוא פועל בהתאם לדין הבין-לאומי, לרוח צה\"ל ולערכיו, ומוביל מאמצים לצמצום הפגיעה בבלתי מעורבים.",
+          "en": "The IDF added that it operates in accordance with international law, the spirit and values of the IDF, and leads efforts to reduce harm to uninvolved civilians.",
+          "paragraph": 6,
+          "id": "s22"
+        },
+        {
+          "he": "הודעת צה\"ל ציינה גם כי היחס לפגיעה בבלתי מעורבים נמוך משמעותית בהשוואה לצבאות העולם ביחס לפגיעה במחבלים.",
+          "en": "The IDF statement also noted that the ratio of harm to uninvolved civilians is significantly lower compared with world armies when measured against harm to militants.",
+          "paragraph": 6,
+          "id": "s23"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "למרות מזג אוויר גשום, כמה עשרות ישראלים ויהודים אמריקאים מאזור ניו יורק קיימו הלילה עצרת מחאה מול הלינקולן סנטר.",
+          "en": "Despite rainy weather, several dozen Israeli and American Jewish individuals from the New York area held a protest rally last night outside Lincoln Center.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הקרנה של הסרט נז\"א התקיימה במקום; הסרט נחשב שנוי במחלוקת ומוצג בפסטיבל הקולנוע של ניו יורק.",
+          "en": "A screening of the film NZA took place there; the film is considered controversial and is being shown at the New York Film Festival.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "העצרת אורגנה על ידי ארגון הקהילה הישראלית-אמריקאית, איי.איי.סי.",
+          "en": "The rally was organized by the Israeli-American community organization, the IAC.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "על מסכי לד שהוצבו על משאיות הוקרנו קטעים מתוך 'אוקטובר 7: בירינג ויטנס טו דה מסקר' — תיעוד גרפי וגולמי ממתקפת אוקטובר 7 בישראל.",
+          "en": "On LED screens mounted on trucks, clips were shown from 'October 7: Bearing Witness to the Massacre' — graphic, raw documentation of the October 7 attack in Israel.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "בין הקטעים היו גם קטעים שצולמו, לפי הדיווחים, על ידי מחבלי חמאס במהלך הטבח.",
+          "en": "Among the clips were, according to reports, footage filmed by Hamas militants during the massacre.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לצד התיעוד הוקרנו חומרים שהמארגנים טוענים כי סותרים את טענות הסרט ושואלים שאלות על מקורותיו, על שיטות העבודה שלו ועל אופן הפקתו.",
+          "en": "Alongside the footage, materials were displayed that the organizers claim contradict the film's assertions and raise questions about its sources, its working methods, and how it was produced.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "המארגנים אמרו שהם מבקשים להציב מול הנרטיב של נז\"א את התיעוד מאירועי אוקטובר 7 כדי לוודא שהטבח שהוביל למלחמה לא יישכח.",
+          "en": "The organizers said they seek to counter NZA's narrative with documentation of the October 7 events to ensure that the massacre that led to the war is not forgotten.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "מהאיי.איי.סי נמסר: \"לסרטים יש עורכים. להיסטוריה אין\".",
+          "en": "The IAC stated: \"Films have editors. History does not.\"",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "המארגנים הוסיפו: \"הנוכחות שלנו כאן היא המסר: לא נאפשר למחוק את אוקטובר 7 מהסיפור\".",
+          "en": "The organizers added: \"Our presence here is the message: we will not allow October 7 to be erased from the story.\"",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "אל העצרת הגיעו חברים מהקהילות הישראליות-אמריקאיות והיהודיות בניו יורק ובניו ג'רזי עם שלטים וחולצות מחאה.",
+          "en": "Members of the Israeli-American and Jewish communities in New York and New Jersey attended the rally with signs and protest shirts.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "בנוסף השתתפו ניצולי פסטיבל נובה רום — אל-חי ושלו ביטון — וכן יונס אלגירנאווי, ישראלי-בדואי שעל פי הדיווחים הציל עשרות אנשים ב-7 באוקטובר, בהם גם ניצולי נובה.",
+          "en": "Also participating were Nova Rom festival survivors — El-Hai and Shelu Biton — and Younes Elgirnawwi, an Israeli-Bedouin who, according to reports, saved dozens of people on October 7, including Nova survivors.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "הקונסול הכללי של ישראל בניו יורק, אופיר אקוניס, הגיב על הקמפיין של הקונסוליה בשיתוף משרד החוץ נגד הסרט.",
+          "en": "The Consul General of Israel in New York, Ofir Akunis, responded to the consulate's campaign in cooperation with the Foreign Ministry against the film.",
+          "paragraph": 3,
+          "id": "s12"
+        },
+        {
+          "he": "אופיר אקוניס נמסר כי: \"לא ניתן לשקרים ועלילות דם לנצח. יוצרי הסרט הם אנשים מבישים. לא נעמוד מנגד ונעבור בשתיקה על ההסתה שלהם נגד חיילנו הגיבורים ונגד מדינת ישראל!\"",
+          "en": "Ofir Akunis said: \"Lies and blood libels will not prevail. The filmmakers are shameful people. We will not stand by and remain silent to their incitement against our heroic soldiers and against the State of Israel!\"",
+          "paragraph": 3,
+          "id": "s13"
+        },
+        {
+          "he": "הסרט בוימה על ידי יובל אברהם ורחל שור ומוצג בפסטיבל הקולנוע של ניו יורק.",
+          "en": "The film was directed by Yuval Avraham and Rachel Shor and is being shown at the New York Film Festival.",
+          "paragraph": 4,
+          "id": "s14"
+        },
+        {
+          "he": "הבמאים מציגים בסרט עדויות של 24 חיילים ואנשי מודיעין על מנגנוני הלחימה בעזה.",
+          "en": "The directors present in the film testimonies of 24 soldiers and intelligence personnel about the mechanisms of fighting in Gaza.",
+          "paragraph": 4,
+          "id": "s15"
+        },
+        {
+          "he": "מארגני המחאה טוענים שהסרט מציג את המלחמה תוך התעלמות ממידע שהמארגנים אומרים כי סותר חלק מהטענות ולא נותן משקל מספק למתקפת חמאס ב-7 באוקטובר, שהובילה לפתיחת המלחמה.",
+          "en": "Protest organizers claim the film portrays the war while ignoring information that they say contradicts some of the claims and does not give sufficient weight to the Hamas attack on October 7, which led to the outbreak of war.",
+          "paragraph": 4,
+          "id": "s16"
+        },
+        {
+          "he": "צה\"ל הגיב רשמית לטענות המועלות בסרט. מדובר צה\"ל מסר: \"זה שקר מוחלט\".",
+          "en": "The IDF officially responded to the claims raised in the film. An IDF spokesperson said: \"This is an absolute lie.\"",
+          "paragraph": 5,
+          "id": "s17"
+        },
+        {
+          "he": "לדברי דובר צה\"ל, צה\"ל מעולם לא תכנן, אישר או ביצע תקיפה בעזה שבה היו צפויים להיהרג 500 אזרחים או מספר קרוב לכך.",
+          "en": "According to an IDF spokesman, the IDF never planned, approved, or carried out an attack in Gaza in which 500 civilians or a number close to that were expected to be killed.",
+          "paragraph": 5,
+          "id": "s18"
+        },
+        {
+          "he": "בנוסף נמסר כי לא הועלתה טענה אמינה לאורך המלחמה שמצביעה על כך, שהיוצרים לא יכלו לאמת את הטענה, ואין ראיות תומכות משמעותיות.",
+          "en": "It was additionally stated that no credible claim arose during the war indicating this, that the filmmakers could not verify the claim, and that there is no substantial supporting evidence.",
+          "paragraph": 5,
+          "id": "s19"
+        },
+        {
+          "he": "גם הרמטכ\"ל, רב-אלוף אייל זמיר, קיים התייעצות בנושא הסרט.",
+          "en": "The Chief of Staff, Lt. Gen. Eyal Zamir, also held a consultation on the film.",
+          "paragraph": 6,
+          "id": "s20"
+        },
+        {
+          "he": "מדובר צה\"ל ציין כי זמיר רואה בכך ניסיון מכוון לפגוע בלגיטימיות של צה\"ל ושל מדינת ישראל.",
+          "en": "The IDF noted that Zamir views this as a deliberate attempt to damage the legitimacy of the IDF and the State of Israel.",
+          "paragraph": 6,
+          "id": "s21"
+        },
+        {
+          "he": "צה\"ל הוסיף כי הוא פועל בהתאם לדין הבין-לאומי, לרוח צה\"ל ולערכיו, ופועל לצמצום הפגיעה בבלתי מעורבים.",
+          "en": "The IDF added that it operates in accordance with international law, the spirit and values of the IDF, and works to minimize harm to uninvolved civilians.",
+          "paragraph": 6,
+          "id": "s22"
+        },
+        {
+          "he": "הודעת צה\"ל ציינה גם שהיחס לפגיעה בבלתי מעורבים נמוך משמעותית בהשוואה לצבאות בעולם ביחס לפגיעה במחבלים.",
+          "en": "The IDF statement also noted that the proportion of harm to uninvolved civilians is significantly lower compared with world armies when measured against harm to militants.",
+          "paragraph": 6,
+          "id": "s23"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "עצרת",
+        "en": "rally / protest"
+      },
+      {
+        "he": "הקרנה",
+        "en": "screening"
+      },
+      {
+        "he": "מסכי לד",
+        "en": "LED screens"
+      },
+      {
+        "he": "תיעוד",
+        "en": "documentation / footage"
+      },
+      {
+        "he": "טבח",
+        "en": "massacre"
+      },
+      {
+        "he": "קונסול כללי",
+        "en": "consul general"
+      },
+      {
+        "he": "צה\"ל",
+        "en": "IDF (Israel Defense Forces)"
+      },
+      {
+        "he": "רמטכ\"ל",
+        "en": "Chief of Staff"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where and when did the protest take place?",
+        "answer": "The protest took place last night outside Lincoln Center in New York."
+      },
+      {
+        "prompt": "What did the LED screens on the trucks show according to the article?",
+        "answer": "They showed graphic, raw footage from the October 7 attack, including clips filmed by Hamas militants, and additional materials the organizers say contradict the film's claims."
+      },
+      {
+        "prompt": "How did the IDF respond to the claim that an attack was planned which would kill 500 civilians?",
+        "answer": "The IDF said this is an absolute lie, that it never planned, approved, or carried out such an attack, no credible claim emerged during the war, the filmmakers could not verify the allegation, and there is no significant supporting evidence."
+      },
+      {
+        "prompt": "What did Consul General Ofir Akunis say about the filmmakers?",
+        "answer": "Ofir Akunis said: \"Lies and blood libels will not prevail. The filmmakers are shameful people. We will not stand by and remain silent to their incitement against our heroic soldiers and against the State of Israel!\""
+      }
+    ],
+    "slug": "news-248563eafae8",
+    "categoryLabel": "עולם",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://news.walla.co.il/item/3869915",
+      "publishedAt": "2026-09-27T06:00:00.000Z",
+      "importedAt": "2026-09-27T06:03:28.127Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "608c68f00557564c03241e8dd31fa92231da1f5da0f39da88383d7f884e4ad5a",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "אחרי התחממות קלה: ירידה בטמפרטורות וגשם מקומי במהלך השבוע | התחזית",
+    "titleEn": "After a slight warming: temperatures fall and local rain during the week | The forecast",
+    "standfirst": "מזג האוויר צפוי להיות בהיר, עם עליה קלה בטמפרטורות במרכז ובדרום. בהמשך השבוע תורגש התקררות, עם טמפרטורות נמוכות מהרגיל לעונה וגשם מקומי בצפון ובמישור החוף.",
+    "standfirstEn": "The weather is expected to be clear, with a slight rise in temperatures in the center and south. Later in the week a cooling is expected, with temperatures below the seasonal average and local rain in the north and the coastal plain.",
+    "category": "society",
+    "sentences": {
+      "easy": [
+        {
+          "he": "היום (ראשון) מזג האוויר יהיה בהיר עד מעונן חלקית.",
+          "en": "Today (Sunday) the weather will be clear to partly cloudy.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "היום אין שינוי ניכר בטמפרטורות.",
+          "en": "Today there is no significant change in temperatures.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "הטמפרטורות היום יהיו רגילות לעונה.",
+          "en": "Temperatures today will be normal for the season.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "מחר תהיה עליה קלה בטמפרטורות.",
+          "en": "Tomorrow there will be a slight rise in temperatures.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "העליה תתרחש בעיקר במרכז הארץ ובדרום.",
+          "en": "The rise will occur mainly in the center of the country and in the south.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "באותו זמן בצפון הארץ צפוי גשם מקומי.",
+          "en": "At the same time, local rain is expected in the north of the country.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "ברובו הגשם יהיה קל.",
+          "en": "The rain will be mostly light.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "ביום שלישי ויום רביעי יהיה מעונן חלקית.",
+          "en": "On Tuesday and Wednesday it will be partly cloudy.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "בימים אלה תהיה ירידה בטמפרטורות.",
+          "en": "On those days there will be a drop in temperatures.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "הטמפרטורות יהיו נמוכות מהרגיל לעונה.",
+          "en": "Temperatures will be lower than normal for the season.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "גם בימים אלה אפשרי גשם מקומי קל.",
+          "en": "Light local rain is also possible on those days.",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "גשם זה ייתכן בעיקר בצפון ובמישור החוף.",
+          "en": "This rain may occur mainly in the north and in the coastal plain.",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "הטמפרטורות הצפויות בירושלים יהיו 16-26 מעלות.",
+          "en": "Expected temperatures in Jerusalem will be 16-26 degrees.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "בתל אביב-יפו הטמפרטורות יהיו 23-28 מעלות.",
+          "en": "In Tel Aviv-Yafo temperatures will be 23-28 degrees.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "בחיפה יהיו 21-28 מעלות.",
+          "en": "In Haifa there will be 21-28 degrees.",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "בקריית שמונה יהיו 20-31 מעלות.",
+          "en": "In Kiryat Shmona there will be 20-31 degrees.",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "בצפת יהיו 16-27 מעלות.",
+          "en": "In Safed there will be 16-27 degrees.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "בטבריה יהיו 20-32 מעלות.",
+          "en": "In Tiberias there will be 20-32 degrees.",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "באשדוד יהיו 21-29 מעלות.",
+          "en": "In Ashdod there will be 21-29 degrees.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "בבאר שבע יהיו 19-30 מעלות.",
+          "en": "In Be'er Sheva there will be 19-30 degrees.",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "במצפה רמון יהיו 17-29 מעלות.",
+          "en": "In Mitzpe Ramon there will be 17-29 degrees.",
+          "paragraph": 2,
+          "id": "s21"
+        },
+        {
+          "he": "באילת יהיו 25-36 מעלות.",
+          "en": "In Eilat there will be 25-36 degrees.",
+          "paragraph": 2,
+          "id": "s22"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "היום (ראשון) מזג האוויר צפוי להיות בהיר עד מעונן חלקית, ללא שינוי ניכר בטמפרטורות.",
+          "en": "Today (Sunday) the weather is expected to be clear to partly cloudy, with no significant change in temperatures.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הטמפרטורות היום יהיו רגילות לעונה.",
+          "en": "Temperatures today will be typical for this season.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "מחר צפויה עליה קלה בטמפרטורות, בעיקר במרכז הארץ ובדרום.",
+          "en": "Tomorrow a slight increase in temperatures is expected, mainly in the center of the country and in the south.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "במקביל, בצפון הארץ צפוי גשם מקומי שרובו קל.",
+          "en": "At the same time, local rain is expected in the north of the country, most of it light.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "בימים שלישי ורביעי יהיה מעונן חלקית וצפויה ירידה בטמפרטורות.",
+          "en": "On Tuesday and Wednesday it will be partly cloudy and a drop in temperatures is expected.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "הטמפרטורות בימים אלה יהיו נמוכות מהרגיל לעונה.",
+          "en": "Temperatures on those days will be lower than usual for the season.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "גם בימים אלו ייתכן גשם מקומי קל, בעיקר בצפון ובמישור החוף.",
+          "en": "Also on those days light local rain is possible, mainly in the north and in the coastal plain.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "להלן הטמפרטורות הצפויות בכמה ערים מרכזיות במהלך התחזית.",
+          "en": "Below are the expected temperatures in several major cities during the forecast.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "בירושלים הטמפרטורות יהיו 16-26 מעלות; בתל אביב-יפו 23-28 מעלות; בחיפה 21-28 מעלות.",
+          "en": "In Jerusalem temperatures will be 16-26 degrees; in Tel Aviv-Yafo 23-28 degrees; in Haifa 21-28 degrees.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "בקריית שמונה צפויים 20-31 מעלות ובצפת 16-27 מעלות.",
+          "en": "In Kiryat Shmona 20-31 degrees are expected and in Safed 16-27 degrees.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "בטבריה יהיו 20-32 מעלות, ובאשדוד 21-29 מעלות.",
+          "en": "In Tiberias there will be 20-32 degrees, and in Ashdod 21-29 degrees.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "בבאר שבע הטווח יהיה 19-30 מעלות, במצפה רמון 17-29 מעלות, ובאילת 25-36 מעלות.",
+          "en": "In Be'er Sheva the range will be 19-30 degrees, in Mitzpe Ramon 17-29 degrees, and in Eilat 25-36 degrees.",
+          "paragraph": 2,
+          "id": "s12"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "מזג האוויר",
+        "en": "weather"
+      },
+      {
+        "he": "בהיר",
+        "en": "clear"
+      },
+      {
+        "he": "מעונן חלקית",
+        "en": "partly cloudy"
+      },
+      {
+        "he": "עליה קלה",
+        "en": "slight rise"
+      },
+      {
+        "he": "ירידה",
+        "en": "drop"
+      },
+      {
+        "he": "גשם מקומי",
+        "en": "local rain"
+      },
+      {
+        "he": "ברובו קל",
+        "en": "mostly light"
+      },
+      {
+        "he": "מישור החוף",
+        "en": "the coastal plain"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What is the expected weather today (Sunday)?",
+        "answer": "Today is expected to be clear to partly cloudy with no significant change in temperatures; temperatures will be normal for the season."
+      },
+      {
+        "prompt": "Where is a slight rise in temperatures expected tomorrow?",
+        "answer": "A slight rise in temperatures is expected mainly in the center of the country and in the south."
+      },
+      {
+        "prompt": "When are temperatures expected to drop below seasonal norms, and where may light local rain occur then?",
+        "answer": "Temperatures are expected to drop on Tuesday and Wednesday to below seasonal norms, and light local rain may occur mainly in the north and the coastal plain."
+      },
+      {
+        "prompt": "What are the expected temperature ranges for Jerusalem and Eilat?",
+        "answer": "Jerusalem: 16-26 degrees. Eilat: 25-36 degrees."
+      }
+    ],
+    "slug": "news-daafc5c13a2e",
+    "categoryLabel": "חברה",
+    "minutes": 1,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://news.walla.co.il/item/3869916",
+      "publishedAt": "2026-09-27T06:00:00.000Z",
+      "importedAt": "2026-09-27T05:58:51.461Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "7d67ce513065a85cbdb8659b2bd5d3786461770324e7def28370f276a67dfb2e",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "בית המשפט שחרר את החתן, אביו והדי-ג'יי: \"לא קיים חשד סביר\"",
+    "titleEn": "Court Released Groom, His Father and the DJ: \"No Reasonable Suspicion\"",
+    "standfirst": "בית משפט השלום בחיפה דחה את בקשת המשטרה להאריך את מעצרם של החתן, אביו והדי-ג'יי שנעצרו על רקע חשד לירי באוויר במהלך חתונה. המשטרה הודתה כי בזירה לא נמצאו תרמילים או אינדיקציה לירי, והמחוזי הורה על שחרורם מיד לאחר הגשת הערר.",
+    "standfirstEn": "The Haifa Magistrate's Court rejected the police request to extend the detention of the groom, his father and the DJ, who were arrested over suspected firing in the air during a wedding. The police admitted that no shell casings or other indication of shooting were found at the scene, and the district court ordered their release immediately after the appeal was filed.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "בית משפט השלום בחיפה דחה את בקשת המשטרה להאריך את מעצרם של שלושה אנשים.",
+          "en": "The Haifa Magistrate's Court rejected the police request to extend the detention of three people.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "העצורים הם ד\"ר מוסא חסדייה, בן 31, החתן; אביו נועמאן חסדייה, בן 55, בעל אטליז; ומוחמד מחאג'נה, בן 31, הדי-ג'יי באירוע.",
+          "en": "The detainees are Dr. Musa Hasdiya, 31, the groom; his father Noaman Hasdiya, 55, a butcher; and Mohammad Mahajna, 31, the DJ at the event.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "השלושה הם תושבי פוריידיס.",
+          "en": "The three are residents of Fureidis.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "הם נעצרו ביום שישי אחר הצהריים בחשד ל\"קשירת קשר לביצוע פשע\" בעקבות חשד לירי באוויר במהלך החתונה.",
+          "en": "They were arrested on Friday afternoon on suspicion of 'conspiracy to commit a crime' following suspected firing in the air during the wedding.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "בדיון בבית המשפט נציג המשטרה אמר שהשוטרים שלא מצאו תרמילים בזירה.",
+          "en": "At the court hearing a police representative said the officers did not find shell casings at the scene.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "הוא גם אמר שלא נמצאה אינדיקציה אחרת לירי במקום.",
+          "en": "He also said that no other indication of shooting was found at the site.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "המשטרה טענה שהיא קיבלה אינדיקציה שהובילה את הכוחות למקום.",
+          "en": "The police claimed they had an indication that led the forces to the location.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "המשטרה הודתה שקיבלה תלונות מתושבי זכרון יעקב והן הובילו למעצרים.",
+          "en": "The police admitted they received complaints from residents of Zikhron Ya'akov and those led to the arrests.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "הסנגור של השלושה הוא עו\"ד מוחמד מואסי.",
+          "en": "The three's defense attorney is lawyer Mohammad Muassi.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "מואסי אמר שמדובר בתופעה של מעצרים בעקבות דיווחים על אירועים בכפרים.",
+          "en": "Muassi said this is a phenomenon of arrests following reports about events in villages.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "הוא אמר: \"כל פעם שמתקבל דיווח מאיזה משועמם בזכרון, הם באים ומקלקלים את החתונה\".",
+          "en": "He said: \"Every time a bored person in Zikhron calls in a report, they come and spoil the wedding.\"",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "מואסי אמר שבית המשפט צריך להתייחס להתנהלות תחנת המשטרה בזכרון יעקב.",
+          "en": "Muassi said the court should address the conduct of the Zikhron Ya'akov police station.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "מואסי גם התלונן על ההשפעה של המעצר על המשפחה והאורחים.",
+          "en": "Muassi also complained about the effect of the arrest on the family and the guests.",
+          "paragraph": 3,
+          "id": "s13"
+        },
+        {
+          "he": "החתונה התקיימה באולם בערערה ללא החתן, לאחר מעצרו.",
+          "en": "The wedding took place in a hall in Ar'ara without the groom, after his arrest.",
+          "paragraph": 3,
+          "id": "s14"
+        },
+        {
+          "he": "אחד המוזמנים סיפר לוואלה: \"לא אכלנו. לא היה תיאבון. אתה רואה את הכלה בוכה, את אמא שלה בוכה\".",
+          "en": "One guest told Walla: \"We did not eat. There was no appetite. You see the bride crying, her mother crying.\"",
+          "paragraph": 3,
+          "id": "s15"
+        },
+        {
+          "he": "השופטת פרחה ג'ובראן מילר בחנה את חומר החקירה שהציגה המשטרה.",
+          "en": "Judge Farha Joubran Miller reviewed the investigation material presented by the police.",
+          "paragraph": 4,
+          "id": "s16"
+        },
+        {
+          "he": "השופטת קבעה: \"לא קיים חשד סביר שהם ביצעו את המיוחס להם\".",
+          "en": "The judge ruled: \"There is no reasonable suspicion that they committed the acts alleged against them.\"",
+          "paragraph": 4,
+          "id": "s17"
+        },
+        {
+          "he": "היא הורתה על שחרורם מיד.",
+          "en": "She ordered their immediate release.",
+          "paragraph": 4,
+          "id": "s18"
+        },
+        {
+          "he": "המשטרה ביקשה לעכב את ביצוע ההחלטה עד השעה 23:00 כדי להגיש ערר.",
+          "en": "The police asked to delay the execution of the decision until 23:00 in order to file an appeal.",
+          "paragraph": 4,
+          "id": "s19"
+        },
+        {
+          "he": "המשטרה הגישה ערר בדקות האחרונות לפני פקיעת המועד.",
+          "en": "The police filed an appeal in the last minutes before the deadline expired.",
+          "paragraph": 4,
+          "id": "s20"
+        },
+        {
+          "he": "בערר נאמר שהשופטת לא נתנה משקל מספק לאינדיקציות שקושרות את החשודים לאירוע הירי ולמעורבותם בו.",
+          "en": "The appeal claimed that the judge did not give sufficient weight to the indications linking the suspects to the shooting incident and their involvement in it.",
+          "paragraph": 4,
+          "id": "s21"
+        },
+        {
+          "he": "המשטרה טענה שעדיין מוקדם לשחרר את השלושה כי החקירה בעיצומה ונדרשות פעולות חקירה נוספות.",
+          "en": "The police argued it was still too early to release the three because the investigation is ongoing and further investigative actions are required.",
+          "paragraph": 4,
+          "id": "s22"
+        },
+        {
+          "he": "המשטרה ביקשה, בין השאר, לברר את \"התפקיד המדויק של כל אחד מהם\" ולאסוף ראיות נוספות.",
+          "en": "The police requested, among other things, to clarify \"the exact role of each of them\" and to collect additional evidence.",
+          "paragraph": 4,
+          "id": "s23"
+        },
+        {
+          "he": "בנוסף טענה המשטרה שלמרות שהחשודים אינם מוחזקים בהפרדה יש עילת שיבוש, כי הם עלולים לתאם גרסאות או להשפיע על אחרים.",
+          "en": "In addition, the police argued that, despite the suspects not being held separately, there was a risk of obstruction because they might coordinate versions or influence others.",
+          "paragraph": 5,
+          "id": "s24"
+        },
+        {
+          "he": "המשטרה הדגישה שמדובר באירוע ירי חמור ושנדרש להמשיך את החקירה כשהחשודים במעצר.",
+          "en": "The police emphasized that this was a serious shooting incident and that the investigation needed to continue with the suspects in custody.",
+          "paragraph": 5,
+          "id": "s25"
+        },
+        {
+          "he": "בדקה האחרונה הגישה המשטרה את הערר לבית המשפט המחוזי.",
+          "en": "At the last minute the police filed the appeal with the district court.",
+          "paragraph": 6,
+          "id": "s26"
+        },
+        {
+          "he": "השופט אינאס סלאמה, שאמור היה לדון בערר, הורה לשחרר את שלושת העצורים מיידית, עוד לפני הדיון.",
+          "en": "Judge Inas Salameh, who was to hear the appeal, ordered the immediate release of the three detainees, even before the hearing.",
+          "paragraph": 6,
+          "id": "s27"
+        },
+        {
+          "he": "הוא קבע שהדיון בערר יתקיים רק למחרת בבוקר.",
+          "en": "He ruled that the appeal hearing would take place only the next morning.",
+          "paragraph": 6,
+          "id": "s28"
+        },
+        {
+          "he": "ההחלטה התקבלה בתשואות מצד תושבי פוריידיס שהמתינו שעות מחוץ להיכל בית המשפט.",
+          "en": "The decision was received with cheers by residents of Fureidis who had waited for hours outside the courthouse hall.",
+          "paragraph": 6,
+          "id": "s29"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "בית משפט השלום בחיפה דחה את בקשת משטרת ישראל להאריך בשלושה ימים את מעצרם של ד\"ר מוסא חסדייה (בן 31), אביו נועמאן חסדייה (בן 55) ומוחמד מחאג'נה (בן 31).",
+          "en": "The Haifa Magistrate's Court rejected the Israel Police's request to extend by three days the detention of Dr. Musa Hasdiya (31), his father Noaman Hasdiya (55) and Mohammad Mahajna (31).",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "השלושה, תושבי פוריידיס, נעצרו ביום שישי אחר הצהריים בחשד ל\"קשירת קשר לביצוע פשע\" ובהמשך הועלו חשדות על ירי באוויר במהלך אירוע חתונה.",
+          "en": "The three, residents of Fureidis, were arrested on Friday afternoon on suspicion of 'conspiracy to commit a crime' and were later suspected of firing in the air during a wedding event.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "במהלך הדיון נציג המשטרה הודה כי השוטרים שהגיעו לזירת האירוע לא מצאו תרמילים או אינדיקציה אחרת לירי.",
+          "en": "During the hearing a police representative admitted that the officers who arrived at the scene did not find shell casings or any other indication of shooting at the location.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "עם זאת המשטרה טענה כי הייתה ברשותה אינדיקציה שהובילה את הכוחות למקום וכי התקבלו תלונות מתושבי זכרון יעקב הסמוכה שהובילו למעצרים.",
+          "en": "Nevertheless, the police argued they had an indication that led the forces to the site and that complaints were received from residents of nearby Zikhron Ya'akov which led to the arrests.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "סנגורם של השלושה, עו\"ד מוחמד מואסי, טען כי המעצרים הם חלק מתופעה של תגובות לדיווחים על אירועים ביישובים.",
+          "en": "The three's defense attorney, lawyer Mohammad Muassi, argued that the arrests are part of a phenomenon of reactions to reports about events in communities.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "מואסי אמר: \"משטרת ישראל מגיעה ליישוב פורידיס, וכשבית המשפט רואה שאין ראיות - הוא מורה על שחרור. כל פעם שמתקבל דיווח מאיזה משועמם בזכרון, הם באים ומקלקלים את החתונה\".",
+          "en": "Muassi said: \"The Israel Police come to the community of Fureidis, and when the court sees there is no evidence — it orders release. Every time a bored person in Zikhron calls in a report, they come and spoil the wedding.\"",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "הסנגור קרא לכך שבית המשפט יתייחס גם להתנהלות תחנת המשטרה בזכרון יעקב.",
+          "en": "The defense attorney called for the court to examine the conduct of the Zikhron Ya'akov police station.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "מואסי הצביע גם על ההשלכות הרגשיות והחברתיות של המעצר על משפחת החתן ועל המוזמנים.",
+          "en": "Muassi also pointed to the emotional and social consequences of the arrest for the groom's family and the guests.",
+          "paragraph": 3,
+          "id": "s8"
+        },
+        {
+          "he": "לדבריו, החתונה המשיכה באולם בערערה ללא נוכחות החתן לאחר מעצרו.",
+          "en": "According to him, the wedding continued in a hall in Ar'ara without the groom present after his arrest.",
+          "paragraph": 3,
+          "id": "s9"
+        },
+        {
+          "he": "אחד המוזמנים שסיפר לוואלה אמר: \"לא אכלנו. לא היה תיאבון. אתה רואה את הכלה בוכה, את אמא שלה בוכה\".",
+          "en": "One guest who spoke to Walla said: \"We did not eat. There was no appetite. You see the bride crying, her mother crying.\"",
+          "paragraph": 3,
+          "id": "s10"
+        },
+        {
+          "he": "לאחר שבחנה את חומר החקירה שהציגה המשטרה, קיבלה השופטת פרחה ג'ובראן מילר את הטענה שאין ראיות מספקות וקבעה: \"לא קיים חשד סביר שהם ביצעו את המיוחס להם\".",
+          "en": "After reviewing the investigation material presented by the police, Judge Farha Joubran Miller accepted the argument that there was insufficient evidence and ruled: \"There is no reasonable suspicion that they committed the acts alleged against them.\"",
+          "paragraph": 4,
+          "id": "s11"
+        },
+        {
+          "he": "השופטת הורתה על שחרורם המיידי אך המשטרה ביקשה לעכב את ביצוע ההחלטה עד השעה 23:00 כדי לאפשר הגשת ערר.",
+          "en": "The judge ordered their immediate release, but the police requested to delay the execution of the decision until 23:00 to allow time to file an appeal.",
+          "paragraph": 4,
+          "id": "s12"
+        },
+        {
+          "he": "בדקות האחרונות לפני פקיעת המועד הגישה המשטרה ערר לבית המשפט המחוזי, ובו נטען כי השופטת לא נתנה משקל מספיק לאינדיקציות המקשרות את החשודים לאירוע ולמעורבותם בו.",
+          "en": "In the final minutes before the deadline the police filed an appeal to the district court, arguing that the judge did not give enough weight to the indications linking the suspects to the event and their involvement in it.",
+          "paragraph": 4,
+          "id": "s13"
+        },
+        {
+          "he": "המשטרה טענה בנוסף שמוקדם לשחרר את החשודים כיוון שהחקירה בעיצומה ונדרשות פעולות נוספות, כגון בירור \"התפקיד המדויק של כל אחד מהם\" ואיסוף ראיות נוספות.",
+          "en": "The police further argued that it was premature to release the suspects because the investigation is still underway and additional steps are needed, such as clarifying \"the exact role of each of them\" and collecting more evidence.",
+          "paragraph": 4,
+          "id": "s14"
+        },
+        {
+          "he": "באופן מפתיע טענה המשטרה גם לעילת שיבוש, אף על פי שהחשודים אינם מוחזקים בהפרדה, וטענה שהם עלולים לתאם גרסאות או להשפיע על מעורבים אחרים.",
+          "en": "Surprisingly, the police also claimed there was a risk of obstruction, even though the suspects were not held separately, arguing they might coordinate versions or influence other involved parties.",
+          "paragraph": 5,
+          "id": "s15"
+        },
+        {
+          "he": "המשטרה הדגישה שמדובר באירוע ירי חמור ושכדאי להמשיך את החקירה בעוד החשודים במעצר.",
+          "en": "The police emphasized that this was a serious shooting incident and that it would be appropriate to continue the investigation while the suspects remained in custody.",
+          "paragraph": 5,
+          "id": "s16"
+        },
+        {
+          "he": "בדקה האחרונה הגישה המשטרה את הערר למחוזי, אך השופט אינאס סלאמה הורה לשחרר את שלושת העצורים באופן מיידי, עוד לפני תחילת הדיון.",
+          "en": "At the last minute the police filed the appeal to the district court, but Judge Inas Salameh ordered the immediate release of the three detainees, even before the hearing began.",
+          "paragraph": 6,
+          "id": "s17"
+        },
+        {
+          "he": "השופט קבע כי הדיון בערר יתקיים רק למחרת בבוקר.",
+          "en": "The judge ruled that the appeal hearing would take place only the following morning.",
+          "paragraph": 6,
+          "id": "s18"
+        },
+        {
+          "he": "ההחלטה התקבלה בתשואות מתושבי פוריידיס שהמתינו במשך שעות מחוץ לאולם בית המשפט.",
+          "en": "The decision was met with cheers from residents of Fureidis who had waited for hours outside the courthouse hall.",
+          "paragraph": 6,
+          "id": "s19"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "מעצר",
+        "en": "arrest/detention"
+      },
+      {
+        "he": "חשד סביר",
+        "en": "reasonable suspicion"
+      },
+      {
+        "he": "תרמילים",
+        "en": "shell casings"
+      },
+      {
+        "he": "סנגור",
+        "en": "defense attorney"
+      },
+      {
+        "he": "ערר",
+        "en": "appeal"
+      },
+      {
+        "he": "עילת שיבוש",
+        "en": "risk of obstruction"
+      },
+      {
+        "he": "ירי באוויר",
+        "en": "firing in the air"
+      },
+      {
+        "he": "תושב/תושבי פוריידיס",
+        "en": "resident/residents of Fureidis"
+      },
+      {
+        "he": "בית משפט השלום",
+        "en": "magistrate's court"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who were the three people the court released?",
+        "answer": "Dr. Musa Hasdiya (the groom), his father Noaman Hasdiya, and DJ Mohammad Mahajna."
+      },
+      {
+        "prompt": "What did the police admit they did not find at the wedding scene?",
+        "answer": "They admitted they did not find shell casings or any other indication of shooting at the scene."
+      },
+      {
+        "prompt": "Why did the police arrest the three initially?",
+        "answer": "They were arrested on suspicion of 'conspiracy to commit a crime' after reports of firing in the air during the wedding and following complaints from residents of Zikhron Ya'akov."
+      },
+      {
+        "prompt": "What did Judge Farha Joubran Miller rule, and what happened after the police filed an appeal?",
+        "answer": "Judge Farha Joubran Miller ruled there was no reasonable suspicion and ordered immediate release. The police filed an appeal to the district court, but Judge Inas Salameh ordered the immediate release before the appeal hearing and scheduled the hearing for the next morning."
+      }
+    ],
+    "slug": "news-71838ae1d39d",
+    "categoryLabel": "ביטחון",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://news.walla.co.il/item/3869918",
+      "publishedAt": "2026-09-27T06:00:00.000Z",
+      "importedAt": "2026-09-27T05:59:59.257Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "322b22e62aeee773a41f13faec3234c90546875c141103c3785810bdd97e24b3",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "סיכוי של 1 ל-6: האסון הגעשי שאנחנו כמעט לא מתכוננים אליו",
+    "titleEn": "A 1-in-6 Chance: The Volcanic Disaster We Are Barely Preparing For",
+    "standfirst": "לפי חוקרים מאוניברסיטת קיימברידג' יש סיכוי של אחד לשישה להתפרצות געשית בדרגה 7 שיכולה להזרים אפר וגופרית לאטמוספרה, לקרר את כדור הארץ ולפגוע במערכות מזון וכלכלה — והסיכון הוזכר כבר במחקר מ-2022 ועדכון סיכונים ל-2025 מציג תמונה מדאיגה יותר.",
+    "standfirstEn": "According to researchers at the University of Cambridge there is a one-in-six chance of a level-7 volcanic eruption that could inject ash and sulfur into the atmosphere, cool the planet, and damage food systems and the economy — the risk was noted in a 2022 study and a 2025 risk update paints a more troubling picture.",
+    "category": "world",
+    "sentences": {
+      "easy": [
+        {
+          "he": "הכתבה מתחילה בדימוי: אם היו אומרים שיש סיכוי של אחד לשישה שאסטרואיד ענק יפגע בכדור הארץ במאה הקרובה, כנראה היינו משקיעים הרבה כדי למנוע זאת.",
+          "en": "The article starts with an image: if we were told there is a one-in-six chance a giant asteroid would hit Earth in the next century, we would probably invest a lot to prevent it.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי חוקרים מאוניברסיטת קיימברידג' יש איום טבעי אחר עם סיכוי דומה — ואנחנו כמעט לא מוכנים אליו.",
+          "en": "According to researchers at the University of Cambridge, there is another natural threat with a similar probability — and we are almost not prepared for it.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "האיום הוא התפרצות געשית בדרגה 7 במדד ההתפרצות הגעשית.",
+          "en": "The threat is a volcanic eruption at level 7 on the volcanic explosivity index.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "התפרצות כזו נדירה ועוצמתית מאוד.",
+          "en": "Such an eruption is very rare and powerful.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "היא יכולה להזרים כמות גדולה של אפר וגופרית לאטמוספרה.",
+          "en": "It can inject large amounts of ash and sulfur into the atmosphere.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "זה עלול לקרר את פני כדור הארץ ולפגוע ביבולים.",
+          "en": "This could cool the Earth's surface and damage crops.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "ההשפעות יכולות לערער מערכות מזון וסחר בעולם.",
+          "en": "The impacts can disrupt food systems and trade around the world.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "האזהרה על סיכוי של אחד לשישה הוצגה כבר ב-2022 על ידי מייקל קסידי ולארה מאני, לפי הכתבה.",
+          "en": "The warning of a one-in-six chance was already presented in 2022 by Michael Cassidy and Lara Mani, according to the article.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "לארה מאני הכינה הערכת סיכונים עדכנית יותר עבור דו\"ח הסיכונים העולמי של האו\"ם ב-2025, והעדכון מציג תמונה מדאיגה יותר, לפי הכתבה.",
+          "en": "Lara Mani prepared a more up-to-date risk assessment for the UN's Global Risks Report 2025, and the update presents a more worrying picture, according to the article.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "ההשוואה ההיסטורית הקרובה ביותר היא להתפרצות הר טמבורה באינדונזיה ב-1815.",
+          "en": "The closest historical comparison is the eruption of Mount Tambora in Indonesia in 1815.",
+          "paragraph": 3,
+          "id": "s10"
+        },
+        {
+          "he": "זו הייתה ההתפרצות האחרונה הידועה בדרגה 7.",
+          "en": "That was the last known level-7 eruption.",
+          "paragraph": 3,
+          "id": "s11"
+        },
+        {
+          "he": "התפרצות טמבורה הרגה עשרות אלפי בני אדם באופן ישיר ועקיף והזריקה לאטמוספרה כמויות גדולות של גופרית.",
+          "en": "The Tambora eruption killed tens of thousands of people directly and indirectly and injected large amounts of sulfur into the atmosphere.",
+          "paragraph": 3,
+          "id": "s12"
+        },
+        {
+          "he": "גופרית באטמוספרה חסמה חלק מקרינת השמש וגרמה לקירור עולמי.",
+          "en": "Sulfur in the atmosphere blocked some of the sun's radiation and caused global cooling.",
+          "paragraph": 3,
+          "id": "s13"
+        },
+        {
+          "he": "השנה שאחרי ההתפרצות, 1816, נקראה \"השנה ללא קיץ\" בגלל כפור ושלג במקומות לא רגילים וכישלון יבולים.",
+          "en": "The year after the eruption, 1816, was called 'the year without a summer' because of frost and snow in unusual places and crop failures.",
+          "paragraph": 3,
+          "id": "s14"
+        },
+        {
+          "he": "עכשיו תחשבו על אירוע כזה בעולם המודרני עם יותר משמונה מיליארד בני אדם ושרשראות אספקה בינלאומיות.",
+          "en": "Now imagine such an event in the modern world with more than eight billion people and international supply chains.",
+          "paragraph": 4,
+          "id": "s15"
+        },
+        {
+          "he": "המודלים בהערכת הסיכונים העדכנית מצביעים על כך שהתפרצות בסדר גודל של טמבורה עלולה לגרום לאובדן יבולים שהכמות הקלורית שלהם שווה לצריכת המזון השנתית של כמיליארד עד 2.9 מיליארד בני אדם, תלוי במיקום ובתגובה האקלימית.",
+          "en": "Models in the updated risk assessment indicate that an eruption on the scale of Tambora could cause crop losses whose caloric amount equals the annual food consumption of about 1 to 2.9 billion people, depending on location and the climate response.",
+          "paragraph": 4,
+          "id": "s16"
+        },
+        {
+          "he": "זה לא אומר ששלושה מיליארד אנשים בהכרח ירעבו, לפי הכתבה.",
+          "en": "This does not mean three billion people will necessarily starve, according to the article.",
+          "paragraph": 5,
+          "id": "s17"
+        },
+        {
+          "he": "מאגרי מזון, סחר בינלאומי, שינויי צריכה ופעולות ממשלתיות יכולים לצמצם את הנזק.",
+          "en": "Food reserves, international trade, changes in consumption and government actions can reduce the damage.",
+          "paragraph": 5,
+          "id": "s18"
+        },
+        {
+          "he": "אבל אם כמה אזורי גידול מרכזיים ייפגעו בו-זמנית, מחירי המזון עלולים לזנק והלחץ על מדינות עניות יהיה עצום.",
+          "en": "But if several major growing regions are hit at the same time, food prices could spike and pressure on poor countries would be immense.",
+          "paragraph": 5,
+          "id": "s19"
+        },
+        {
+          "he": "עוד כותרת קשורה בכתבה מזהירה מפני הרי געש גדולים מתחת לאדמה שיכולים להשמיד ערים במהירות.",
+          "en": "A related headline in the article warns of very large underground volcanoes that could destroy cities quickly.",
+          "paragraph": 6,
+          "id": "s20"
+        },
+        {
+          "he": "הנזק לא יהיה מוגבל רק למדפי סופרמרקטים.",
+          "en": "The damage will not be limited to supermarket shelves.",
+          "paragraph": 7,
+          "id": "s21"
+        },
+        {
+          "he": "על פי תרחישים שהופיעו בעדכון מ-2025, התפרצות בעלת השפעה גבוהה עלולה לגרום בתוך חמש שנים להפסדים כלכליים של כ-1.2 עד 4.8 טריליון דולר.",
+          "en": "According to scenarios in the 2025 update, a high-impact eruption could cause economic losses of about $1.2 to $4.8 trillion within five years.",
+          "paragraph": 7,
+          "id": "s22"
+        },
+        {
+          "he": "התפרצות לא חייבת להיות הגדולה ביותר כדי לגרום לנזק עולמי; התפרצות קטנה במקום אסטרטגי עלולה לסגור נתיבי תעופה, לפגוע בכבלים תת-ימיים, לשבש נמלים ולנתק שרשראות אספקה מרכזיות.",
+          "en": "An eruption does not have to be the largest to cause global damage; a smaller eruption in a strategic place can close air routes, damage undersea cables, disrupt ports and sever key supply chains.",
+          "paragraph": 7,
+          "id": "s23"
+        },
+        {
+          "he": "ראינו דוגמה קטנה של זה ב-2010, כאשר התפרצות הר הגעש אייאפיאטלאייקוטל באיסלנד סגרה חלק גדול מהמרחב האווירי האירופי למשך מספר ימים והובילה להפסדים של מיליארדי דולרים לכלכלה העולמית.",
+          "en": "We saw a small example of this in 2010, when the eruption of Eyjafjallajökull in Iceland closed much of European airspace for several days and led to losses of billions of dollars to the global economy.",
+          "paragraph": 8,
+          "id": "s24"
+        },
+        {
+          "he": "ב-2022 התרחשה התפרצות גדולה בטונגה שיצרה גלי הלם שהקיפו את כדור הארץ וצונאמי שנמדד הרחק ממקום ההתפרצות.",
+          "en": "In 2022 there was a large eruption in Tonga that produced shockwaves that encircled the Earth and a tsunami measured far from the eruption site.",
+          "paragraph": 8,
+          "id": "s25"
+        },
+        {
+          "he": "חוקרים תיארו את אירוע טונגה כמעין \"כמעט פגיעה\" — תזכורת ליכולתו של הטבע לגרום נזק גם בלי אירוע בדרגה 7.",
+          "en": "Researchers described the Tonga event as a kind of 'near miss' — a reminder of nature's ability to cause damage even without a level-7 event.",
+          "paragraph": 8,
+          "id": "s26"
+        },
+        {
+          "he": "אחת הבעיות המטרידות היא שאנושות עדיין לא מכירה את כל מקורות הסיכון הגעשי.",
+          "en": "One troubling problem is that humanity still does not know all volcanic risk sources.",
+          "paragraph": 9,
+          "id": "s27"
+        },
+        {
+          "he": "חוקרים זיהו רק חלק מהאתרים שבהם היו התפרצויות ענק בעשרות אלפי השנים האחרונות.",
+          "en": "Researchers have identified only some of the sites where giant eruptions occurred in the past tens of thousands of years.",
+          "paragraph": 9,
+          "id": "s28"
+        },
+        {
+          "he": "משקעים בקרקעית אגמים וימים, במיוחד באזורים שלא נחקרו מספיק, עשויים להסתיר עדויות להתפרצויות עתיקות ולמערכות געשיות שלא מובנות במלואן.",
+          "en": "Sediments on the floors of lakes and seas, especially in under-studied areas, may hide evidence of ancient eruptions and volcanic systems that are not fully understood.",
+          "paragraph": 9,
+          "id": "s29"
+        },
+        {
+          "he": "הפתרון, לפי החוקרים, אינו לפאניקה אלא להתחיל להתייחס להתפרצויות ענק כפי שמתייחסים לאיומי אסטרואידים.",
+          "en": "The solution, according to the researchers, is not to panic but to begin treating giant eruptions as we treat asteroid threats.",
+          "paragraph": 10,
+          "id": "s30"
+        },
+        {
+          "he": "הם קוראים להשקיע יותר בניטור לווייני, בחיישנים קרקעיים, במחקר גיאולוגי, במערכות התרעה ובתוכניות תגובה לפגיעה במזון ובשרשראות אספקה.",
+          "en": "They call for more investment in satellite monitoring, ground sensors, geological research, warning systems and response plans for impacts on food and supply chains.",
+          "paragraph": 10,
+          "id": "s31"
+        },
+        {
+          "he": "בניגוד לאסטרואיד שיגיע מהחלל, הגעשים המסוכנים כבר נמצאים כאן על פני כדור הארץ.",
+          "en": "Unlike an asteroid coming from space, the dangerous volcanoes are already here on Earth's surface.",
+          "paragraph": 10,
+          "id": "s32"
+        },
+        {
+          "he": "השאלה, לפי הכתבה, היא מתי אחד מהגעשים יזכיר לאנושות את הסכנה.",
+          "en": "The question, according to the article, is when one of the volcanoes will remind humanity of the danger.",
+          "paragraph": 10,
+          "id": "s33"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "הכתבה פותחת בדימוי להשוואת סיכונים: אם היו אומרים שיש סיכוי של אחד לשישה שאסטרואיד ענק יפגע בכדור הארץ במאה הקרובה, סביר שהיינו מקצים משאבים למניעה.",
+          "en": "The article opens with an analogy comparing risks: if we were told there is a one-in-six chance a giant asteroid would hit Earth in the next century, we would likely allocate resources to prevention.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי חוקרים מאוניברסיטת קיימברידג' קיים איום טבעי אחר עם סיכוי דומה לתוצאות קטסטרופליות — ואנחנו כמעט לא מתכוננים אליו.",
+          "en": "According to researchers at the University of Cambridge, there is another natural threat with a similar probability of catastrophic outcomes — and we are barely preparing for it.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "המחקר מתמקד בהתפרצות געשית בדרגה 7 במדד ההתפרצות הגעשית.",
+          "en": "The research focuses on a volcanic eruption at level 7 on the volcanic explosivity index.",
+          "paragraph": 2,
+          "id": "s3"
+        },
+        {
+          "he": "אירוע כזה נדיר ועוצמתי מאוד; הוא יכול להזרים כמויות עצומות של אפר וגופרית לאטמוספרה ולגרום לקירור עולמי.",
+          "en": "Such an event is very rare and extremely powerful; it can inject massive amounts of ash and sulfur into the atmosphere and cause global cooling.",
+          "paragraph": 2,
+          "id": "s4"
+        },
+        {
+          "he": "השלכות אפשריות כוללות פגיעה ביבולים והפרעה למערכות מזון וסחר בינלאומיות.",
+          "en": "Possible consequences include crop damage and disruption to international food systems and trade.",
+          "paragraph": 2,
+          "id": "s5"
+        },
+        {
+          "he": "הסיכוי של אחד לשישה הוצג כבר ב-2022 על ידי מייקל קסידי ולארה מאני, אך יש כעת הערכת סיכונים מעודכנת.",
+          "en": "The one-in-six probability was presented already in 2022 by Michael Cassidy and Lara Mani, but there is now an updated risk assessment.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "לארה מאני הכינה את העדכון הזה עבור דו\"ח הסיכונים העולמי של האו\"ם לשנת 2025, והעדכון מצביע על השלכות משמעותיות יותר לעולם של היום, לפי הכתבה.",
+          "en": "Lara Mani prepared this update for the UN's Global Risks Report 2025, and the update points to more significant consequences for today's world, according to the article.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "ההשוואה ההיסטורית המרכזית היא להתפרצות הר טמבורה באינדונזיה ב-1815, שהיא ההתפרצות האחרונה הידועה בדרגה 7.",
+          "en": "The main historical comparison is the 1815 eruption of Mount Tambora in Indonesia, which is the last known level-7 eruption.",
+          "paragraph": 3,
+          "id": "s8"
+        },
+        {
+          "he": "טמבורה גרמה למותם של עשרות אלפי בני אדם והזריקה לאטמוספרה כמויות גדולות של גופרית שחסמו חלק מקרינת השמש.",
+          "en": "Tambora caused the deaths of tens of thousands of people and injected large amounts of sulfur into the atmosphere that blocked part of the sun's radiation.",
+          "paragraph": 3,
+          "id": "s9"
+        },
+        {
+          "he": "בשנת 1816, שנקראה \"השנה ללא קיץ\", הופיעו כפור ושלג במקומות לא רגילים, יבולים נכשלו ומחירי המזון עלו.",
+          "en": "In 1816, called 'the year without a summer,' frost and snow appeared in unusual places, crops failed and food prices rose.",
+          "paragraph": 3,
+          "id": "s10"
+        },
+        {
+          "he": "החוקרים מבקשים לדמיין אירוע כזה בעידן הנוכחי של יותר משמונה מיליארד בני אדם ושרשראות אספקה המחברות בין מדינות.",
+          "en": "The researchers ask us to imagine such an event in the present era of over eight billion people and supply chains that connect countries.",
+          "paragraph": 4,
+          "id": "s11"
+        },
+        {
+          "he": "המודלים בהערכת הסיכונים העדכנית מצביעים על כך שהתפרצות בגודל טמבורה עלולה לגרום לאובדן יבולים שהכמות הקלורית שלהם שווה לצריכת המזון השנתית של כ-1 עד 2.9 מיליארד בני אדם.",
+          "en": "Models in the updated risk assessment suggest that an eruption the size of Tambora could cause crop losses whose caloric amount equals the annual food consumption of about 1 to 2.9 billion people.",
+          "paragraph": 4,
+          "id": "s12"
+        },
+        {
+          "he": "ההערכה משתנה לפי מיקום ההתפרצות והתגובה האקלימית לאפר ולגופרית באטמוספרה.",
+          "en": "The estimate varies depending on the eruption's location and the climate response to ash and sulfur in the atmosphere.",
+          "paragraph": 4,
+          "id": "s13"
+        },
+        {
+          "he": "הדוח מדגיש שזה לא בהכרח אומר ששלושה מיליארד בני אדם ירעבו: מאגרי מזון, סחר בינלאומי ושינויים בצריכה יכולים לצמצם את ההשפעה.",
+          "en": "The report emphasizes that this does not necessarily mean three billion people will starve: food stocks, international trade and changes in consumption can reduce the impact.",
+          "paragraph": 5,
+          "id": "s14"
+        },
+        {
+          "he": "אולם אם כמה אזורי גידול מרכזיים ייפגעו בו-זמנית, מחירי המזון עלולים לזנק וההשפעה על מדינות עניות ופגיעות תהיה קשה במיוחד.",
+          "en": "However, if several key growing regions are hit simultaneously, food prices could surge and the impact on poor and vulnerable countries would be especially severe.",
+          "paragraph": 5,
+          "id": "s15"
+        },
+        {
+          "he": "הכתבה מזכירה גם קטעים נוספים על סיכונים געשיים, כולל אזהרות על הרי געש ענקיים מתחת לאדמה.",
+          "en": "The article also mentions other pieces about volcanic risks, including warnings about very large underground volcanoes.",
+          "paragraph": 6,
+          "id": "s16"
+        },
+        {
+          "he": "בנוסף להשפעה על המזון, העדכון של 2025 מעריך הפסדים כלכליים בטווח של כ-1.2 עד 4.8 טריליון דולר בתוך חמש שנים לאחר אירוע חמור.",
+          "en": "Beyond food impacts, the 2025 update estimates economic losses in the range of about $1.2 to $4.8 trillion within five years after a severe event.",
+          "paragraph": 7,
+          "id": "s17"
+        },
+        {
+          "he": "הדוח מדגיש שהתפרצות לא חייבת להיות הגדולה ביותר כדי לשבש פעילות עולמית: התפרצות קטנה יחסית במקום אסטרטגי יכולה לסגור נתיבי תעופה, לפגוע בכבלים תת-ימיים, לשבש נמלים ולנתק שרשראות אספקה.",
+          "en": "The report stresses that an eruption does not have to be the largest to disrupt global activity: a relatively small eruption in a strategic place can close air routes, damage undersea cables, disrupt ports and sever supply chains.",
+          "paragraph": 7,
+          "id": "s18"
+        },
+        {
+          "he": "הכותב מביא שתי דוגמאות מודרניות: ב-2010 התפרצות איוּאפיאטְלַאיְקוּטל באיסלנד סגרה מרחב אווירי גדול באירופה והזיקה לכלכלה במיליארדי דולרים.",
+          "en": "The writer gives two modern examples: in 2010 the Eyjafjallajökull eruption in Iceland closed large parts of European airspace and cost the economy billions of dollars.",
+          "paragraph": 8,
+          "id": "s19"
+        },
+        {
+          "he": "בדוגמה נוספת, ההתפרצות בטונגה ב-2022 יצרה גלי הלם עולמיים וצונאמי שנמדד הרחק מהמקום; החוקרים תיארו את האירוע כ\"כמעט פגיעה\".",
+          "en": "In another example, the 2022 Tonga eruption produced global shockwaves and a tsunami measured far away; researchers described the event as a 'near miss.'",
+          "paragraph": 8,
+          "id": "s20"
+        },
+        {
+          "he": "חוסר הידע הוא בעיה עיקרית: החוקרים מזהים רק חלק מהאתרים שבהם התרחשו התפרצויות ענק בעשרות אלפי השנים האחרונות.",
+          "en": "Lack of knowledge is a main problem: researchers identify only some of the sites where giant eruptions occurred over the past tens of thousands of years.",
+          "paragraph": 9,
+          "id": "s21"
+        },
+        {
+          "he": "משקעים בקרקעית אגמים וימים, ובאזורים שלא נחקרו מספיק, עלולים להסתיר עדויות להתפרצויות עתיקות ולמערכות געשיות שכלל לא מובנות במלואן.",
+          "en": "Sediments on lake and sea floors, and in under-explored areas, may conceal evidence of ancient eruptions and volcanic systems that are not fully understood.",
+          "paragraph": 9,
+          "id": "s22"
+        },
+        {
+          "he": "החוקרים מציעים פתרון מעשי: לא לפחד אלא להשקיע בניטור ובמוכנות כפי שעושים עם סיכוני אסטרואידים.",
+          "en": "The researchers propose a practical solution: not to be fearful but to invest in monitoring and preparedness as is done for asteroid risks.",
+          "paragraph": 10,
+          "id": "s23"
+        },
+        {
+          "he": "הם קוראים להשקיע יותר בניטור לווייני, בחיישנים, במחקר גיאולוגי, במערכות התרעה ובתוכניות פעולה להתמודדות עם פגיעה במזון ובשרשראות אספקה.",
+          "en": "They call for greater investment in satellite monitoring, sensors, geological research, warning systems and action plans to deal with impacts on food and supply chains.",
+          "paragraph": 10,
+          "id": "s24"
+        },
+        {
+          "he": "הנקודה החשובה היא שאסטרואיד מגיע מהחלל, בעוד הגעשים המסוכנים כבר נמצאים כאן — ולכן חשוב להתכונן.",
+          "en": "The important point is that an asteroid comes from space, while dangerous volcanoes are already here — therefore preparation is important.",
+          "paragraph": 10,
+          "id": "s25"
+        },
+        {
+          "he": "לפי הכתבה, השאלה אינה אם אלא מתי אחד הגעשים יזכיר לנו את הסכנה.",
+          "en": "According to the article, the question is not if but when one of the volcanoes will remind us of the danger.",
+          "paragraph": 10,
+          "id": "s26"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "התפרצות געשית",
+        "en": "volcanic eruption"
+      },
+      {
+        "he": "אפר",
+        "en": "ash"
+      },
+      {
+        "he": "גופרית",
+        "en": "sulfur"
+      },
+      {
+        "he": "יבולים",
+        "en": "crops"
+      },
+      {
+        "he": "שרשראות אספקה",
+        "en": "supply chains"
+      },
+      {
+        "he": "הערכת סיכונים",
+        "en": "risk assessment"
+      },
+      {
+        "he": "טריליון",
+        "en": "trillion"
+      },
+      {
+        "he": "סגירת מרחב אווירי",
+        "en": "airspace closure"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "What probability do the researchers compare between a giant asteroid impact and a major volcanic eruption?",
+        "answer": "They compare a one-in-six (1/6) chance."
+      },
+      {
+        "prompt": "Which historical eruption is used as the closest comparison, and in what year did it occur?",
+        "answer": "The eruption of Mount Tambora in Indonesia in 1815."
+      },
+      {
+        "prompt": "According to the 2025 risk models, crop losses from a VEI-7 eruption could equal the annual food consumption of how many people?",
+        "answer": "About 1 to 2.9 billion people, depending on location and climate response."
+      },
+      {
+        "prompt": "What range of economic losses do the 2025 scenarios estimate could occur within five years after a high-impact eruption?",
+        "answer": "About $1.2 to $4.8 trillion."
+      },
+      {
+        "prompt": "What do the researchers recommend we invest in to prepare for giant eruptions?",
+        "answer": "They recommend investing in satellite monitoring, sensors, geological research, warning systems, and response plans for food and supply chains."
+      }
+    ],
+    "slug": "news-2dcb7a504980",
+    "categoryLabel": "עולם",
+    "minutes": 4,
+    "date": "September 25, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://news.walla.co.il/item/3868526",
+      "publishedAt": "2026-09-25T00:01:00.000Z",
+      "importedAt": "2026-09-27T06:01:15.005Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "f8711ecbad66e8c2bc792bb4302b1ab6e996146455ea2b7cabce53b6aa81c851",
+      "generationVersion": 4
+    }
+  },
+  {
     "titleHe": "מנהיגי גוש השינוי נפגשו ופרסמו מסמך עקרונות",
     "titleEn": "Leaders of the Change Bloc Met and Published a Statement of Principles",
     "standfirst": "בביתו של יאיר לפיד בתל אביב התקיים מפגש בין ארבעה ראשי מפלגות מהמחנה המתנגד לנתניהו. בסופו פרסמו, לפי המסמך, מסמך עקרונות עם התחייבות לפעול יחד להקמת ממשלה.",
