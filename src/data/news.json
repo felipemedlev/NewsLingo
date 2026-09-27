@@ -1,5 +1,2190 @@
 [
   {
+    "titleHe": "צה\"ל מאשר: חוסל, לפי הצבא, המחבל שלפי טענות חטף את נועה ארגמני",
+    "titleEn": "IDF confirms: according to the army, the militant accused of kidnapping Noa Argamany was killed",
+    "standfirst": "צה\"ל והשב\"כ אמרו כי המחבל שאותו צה\"ל מזוהה כמי שחטף את נועה ארגמני וסיפק אמצעי לחימה לחמאס חוסל בנוסיראת. אביה של ארגמני הגיב.",
+    "standfirstEn": "The IDF and the Shin Bet said the militant whom the IDF identifies as the one who kidnapped Noa Argamany and who supplied weapons to Hamas was killed in Nuseirat. Argamany's father responded.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "לפי צה\"ל, סאהר נדאל לטפי צקר הוא האיש שמזוהה כחוטף של נועה ארגמני בבוקר ה-7 באוקטובר.",
+          "en": "According to the IDF, Saher Naddal Latfi Zakr is the man identified as the kidnapper of Noa Argamany on the morning of October 7.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי צה\"ל והשב\"כ, צקר חוסל הבוקר (ראשון).",
+          "en": "According to the IDF and the Shin Bet, Zakr was killed this morning (Sunday).",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "לפי ההודעות, הפעולה בוצעה בשיתוף צה\"ל, השב\"כ ויחידת הגדעונים של משטרת ישראל.",
+          "en": "According to the statements, the operation was carried out jointly by the IDF, the Shin Bet and the Gideon unit of the Israel Police.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "הפעולה בוצעה במחנה הפליטים נוסיראת שבמרכז רצועת עזה, לפי צה\"ל.",
+          "en": "The operation took place in the Nuseirat refugee camp in central Gaza, according to the IDF.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לפי צה\"ל, צקר היה פעיל בארגוני ג'יהאד עולמי שפעלו ברצועת עזה.",
+          "en": "According to the IDF, Zakr was active in global jihad organizations that operated in the Gaza Strip.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לפי צה\"ל, הוא סיפק בין היתר אמצעי לחימה לחמאס במהלך המלחמה.",
+          "en": "According to the IDF, he provided, among other things, weapons to Hamas during the war.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "לפי צה\"ל, צקר שימש כנהג האופנוע שהסיע את נועה אל תוך הרצועה בעת החטיפה.",
+          "en": "According to the IDF, Zakr served as the motorcycle driver who transported Noa into the Gaza Strip during the kidnapping.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "צה\"ל מסר שלפי הערכותיו, בתקופה האחרונה הוא קידם מתווי טרור נגד כוחות צה\"ל ואזרחי מדינת ישראל.",
+          "en": "The IDF said that, according to its assessments, in recent times he promoted terror plans against IDF forces and Israeli civilians.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "לפי צה\"ל, הוא פעל בשיתוף עם פעילי הזרוע הצבאית של חמאס והג'יהאד האסלאמי הפלסטיני.",
+          "en": "According to the IDF, he acted in cooperation with activists from the military wing of Hamas and the Palestinian Islamic Jihad.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "צה\"ל אף אמר שהוא הפר שיטתית את הסכם הפסקת האש, לפי ההודעה שלו.",
+          "en": "The IDF also said that he systematically violated the ceasefire agreement, according to its statement.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "אביה של נועה, יעקב ארגמני, הגיב לחיסול ואמר: \"יש לנו צבא חכם ומתוחכם. הכי חשוב שנועה פה בבית\".",
+          "en": "Noa's father, Yaakov Argamany, reacted to the killing and said: \"We have a smart and sophisticated army. The most important thing is that Noa is here at home.\"",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "גורם רשמי בצה\"ל מסר שצקר חוסל בתקיפה אווירית, על בסיס מידע מודיעיני מדויק של השב\"כ.",
+          "en": "An official source in the IDF said Zakr was killed in an airstrike, based on precise intelligence from the Shin Bet.",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "המקור הוסיף שלפי השב\"כ, שעקב אחריו במשך זמן ממושך, הוא היה פעמים רבות על הכוונת של גופי הביטחון.",
+          "en": "The source added that according to the Shin Bet, which had followed him for a long time, he had been targeted several times by security agencies.",
+          "paragraph": 1,
+          "id": "s13"
+        },
+        {
+          "he": "צה\"ל ציין שסיכול זה הוא המשך ישיר של סיכולים ממוקדים שהשב\"כ מוביל במסגרת התארגנות בשם נילי.",
+          "en": "The IDF noted that this elimination is a direct continuation of targeted operations that the Shin Bet is leading within an organization called Nili.",
+          "paragraph": 1,
+          "id": "s14"
+        },
+        {
+          "he": "לפי צה\"ל, נילי אוספת מודיעין ועובדת עם צה\"ל כדי לסגור מעגלי אש סביב מעורבים ב-7 באוקטובר.",
+          "en": "According to the IDF, Nili collects intelligence and works with the IDF to close circles of fire around those involved in October 7.",
+          "paragraph": 1,
+          "id": "s15"
+        },
+        {
+          "he": "לזכור: נועה ארגמני נחטפה יחד עם בן זוגה דאז, אבינתן אור, ממסיבת הנובה ב-7 באוקטובר.",
+          "en": "To recall: Noa Argamany was kidnapped together with her then-partner, Avintan Or, from the Nova party on October 7.",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "בסרטון אכזרי שפורסם ניתן היה לראות כיצד מפרידים בין השניים, לפי הדיווח.",
+          "en": "In a brutal video that was published, it was possible to see how the two were separated, according to reports.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "בסרטון נועה מובלת על אופנוע אל תוך רצועת עזה כשהיא מוקפת במחבלים.",
+          "en": "In the video, Noa is led on a motorcycle into the Gaza Strip while surrounded by militants.",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "בסרטון נראה אבינתן אור מובל רגלית על ידי מחבלים נוספים.",
+          "en": "In the video, Avintan Or is seen being led on foot by other militants.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "נועה חולצה מהשבי לאחר 245 ימים במבצע ארנון.",
+          "en": "Noa was rescued from captivity after 245 days in an operation called Operation Arnon.",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "אבינתן שוחרר במסגרת עסקה לאחר 738 ימים, לפי הדיווחים.",
+          "en": "Avintan was released as part of a deal after 738 days in captivity, according to reports.",
+          "paragraph": 2,
+          "id": "s21"
+        },
+        {
+          "he": "בינואר 25' בראיון לרשת סי.בי.אס האמריקנית, סיפרה נועה על תקופת שהותה בשבי.",
+          "en": "In January '25 in an interview with the American network CBS, Noa spoke about her time in captivity.",
+          "paragraph": 2,
+          "id": "s22"
+        },
+        {
+          "he": "היא אמרה: \"חייתי בפחד כל יום\".",
+          "en": "She said: \"I lived in fear every day.\"",
+          "paragraph": 2,
+          "id": "s23"
+        },
+        {
+          "he": "היא הוסיפה: \"לא רציתי שהשומרים יאבדו שליטה פתאום ויהרגו אותי\".",
+          "en": "She added: \"I did not want the guards to suddenly lose control and kill me.\"",
+          "paragraph": 2,
+          "id": "s24"
+        },
+        {
+          "he": "נועה סיפרה שכל המחבלים היו חמושים בכלי נשק רבים, כולל סכינים ורימונים.",
+          "en": "Noa said that all the militants were armed with many weapons, including knives and grenades.",
+          "paragraph": 2,
+          "id": "s25"
+        },
+        {
+          "he": "היא הבהירה: \"חייתי באזור מלחמה\" ושה\"כל שנייה הרגישה כמו השנייה האחרונה בחיי\".",
+          "en": "She clarified: \"I lived in a war zone\" and that \"every second felt like the last second of my life.\"",
+          "paragraph": 2,
+          "id": "s26"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "לפי הודעת צה\"ל, סאהר נדאל לטפי צקר, המזוהה כאדם שחטף את נועה ארגמני במתקפת ה-7 באוקטובר, חוסל הבוקר (ראשון).",
+          "en": "According to an IDF statement, Saher Naddal Latfi Zakr, identified as the person who kidnapped Noa Argamany in the October 7 attack, was killed this morning (Sunday).",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הצהרת הצבא ציינה שהפעולה בוצעה בשיתוף עם השב\"כ ועם יחידת הגדעונים של משטרת ישראל.",
+          "en": "The army statement noted that the operation was carried out in cooperation with the Shin Bet and the Gideon unit of the Israel Police.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "לפי ההודעה, הפעולה התבצעה במחנה הפליטים נוסיראת, שבמרכז רצועת עזה.",
+          "en": "According to the announcement, the operation took place in the Nuseirat refugee camp in central Gaza.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "הצהרות רשמיות של צה\"ל טוענות כי צקר היה פעיל בארגוני ג'יהאד עולמי שפעלו ברצועת עזה.",
+          "en": "Official IDF statements claim that Zakr was active in global jihad organizations operating in the Gaza Strip.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לפי צה\"ל, בין פעילותו נכללו אספקת אמצעי לחימה לחמאס במהלך המלחמה.",
+          "en": "According to the IDF, among his activities was supplying weapons to Hamas during the war.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "הצבא גם טען כי צקר שימש כנהג האופנוע שהסיע את נועה אל תוך הרצועה בעת החטיפה, לפי ההודעה.",
+          "en": "The army also claimed that Zakr served as the motorcycle driver who transported Noa into the Strip during the kidnapping, according to the announcement.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "לפי צה\"ל, בתקופה האחרונה הוא קידם מתווי טרור נגד כוחות צה\"ל ואזרחי מדינת ישראל בשיתוף פעילי הזרוע הצבאית של חמאס והג'יהאד האסלאמי הפלסטיני.",
+          "en": "According to the IDF, in recent times he promoted terror plans against IDF forces and Israeli civilians in cooperation with activists from the military wing of Hamas and the Palestinian Islamic Jihad.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "הצהרת הצבא הוסיפה שהפעולות מצד זה נעשו תוך הפרה שיטתית, לפי צה\"ל, של הסכם הפסקת האש.",
+          "en": "The army's statement added that these actions were carried out in, according to the IDF, a systematic violation of the ceasefire agreement.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "בהודעה נמסר שאביה של נועה, יעקב ארגמני, הגיב ואמר: \"יש לנו צבא חכם ומתוחכם. הכי חשוב שנועה פה בבית\".",
+          "en": "The announcement reported that Noa's father, Yaakov Argamany, responded and said: \"We have a smart and sophisticated army. The most important thing is that Noa is here at home.\"",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "גורם רשמי בצה\"ל מסר שצקר חוסל בתקיפה אווירית, על בסיס מידע מודיעיני מדויק שהשב\"כ אסף ועקב אחריו לאורך זמן.",
+          "en": "An official source in the IDF said Zakr was killed in an airstrike, based on precise intelligence that the Shin Bet collected and which had followed him over time.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "המסר ציין שהוא היה פעמים רבות על הכוונת של גופי הביטחון לפני החיסול.",
+          "en": "The message noted that he had been on the targeting list of security agencies several times before the killing.",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "צה\"ל הדגיש שסיכול זה מהווה המשך ישיר לגל של סיכולים ממוקדים שמוביל השב\"כ במסגרת התארגנות מיוחדת הנקראת נילי.",
+          "en": "The IDF emphasized that this elimination constitutes a direct continuation of a series of targeted killings led by the Shin Bet within a special organization called Nili.",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "לפי צה\"ל, נילי אוספת מודיעין וסוגרת מעגלי אש בתיאום עם צה\"ל סביב כל מי שלפי ההערכות היה מעורב ב-7 באוקטובר.",
+          "en": "According to the IDF, Nili collects intelligence and closes circles of fire in coordination with the IDF around anyone who, according to its assessments, was involved on October 7.",
+          "paragraph": 1,
+          "id": "s13"
+        },
+        {
+          "he": "כדי להזכיר את המקרה: נועה ארגמני נחטפה יחד עם בן זוגה דאז, אבינתן אור, ממסיבת הנובה ב-7 באוקטובר.",
+          "en": "To recall the case: Noa Argamany was kidnapped together with her then-partner, Avintan Or, from the Nova party on October 7.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "בסרטון אכזרי שפורסם ניתן היה לראות כיצד מפרידים בין השניים, כך לדברי הדיווחים וההקלטות.",
+          "en": "In a brutal video that was published, it was possible to see how the two were separated, according to reports and the recordings.",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "בקטע מהסרטון נועה מובלת על אופנוע אל תוך רצועת עזה בזמן שהיא מוקפת במחבלים.",
+          "en": "In a clip from the video, Noa is led on a motorcycle into the Gaza Strip while she is surrounded by militants.",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "באותו סרטון נראה אבינתן אור מוביל רגלית על ידי מחבלים אחרים.",
+          "en": "In the same video, Avintan Or is seen being led on foot by other militants.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "לפי ההודעות, נועה חולצה מהשבי לאחר 245 ימים במבצע שנקרא מבצע ארנון.",
+          "en": "According to the announcements, Noa was rescued from captivity after 245 days in an operation called Operation Arnon.",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "אבינתן שוחרר במסגרת עסקה לאחר 738 ימים בשבי, לפי הדיווחים הרשמיים.",
+          "en": "Avintan was released as part of a deal after 738 days in captivity, according to official reports.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "בינואר 25' בריאיון לרשת סי.בי.אס האמריקנית סיפרה נועה על תקופת השבי שלה.",
+          "en": "In January '25, in an interview with the American network CBS, Noa spoke about her period in captivity.",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "היא תיארה: \"חייתי בפחד כל יום\", ואמרה שהיא חששה שהשומרים יאבדו שליטה ויהרגו אותה פתאום.",
+          "en": "She described: \"I lived in fear every day,\" and said she feared the guards would lose control and kill her suddenly.",
+          "paragraph": 2,
+          "id": "s21"
+        },
+        {
+          "he": "היא הוסיפה שכל המחבלים היו חמושים בכלי נשק רבים, כולל סכינים ורימונים.",
+          "en": "She added that all the militants were armed with many weapons, including knives and grenades.",
+          "paragraph": 2,
+          "id": "s22"
+        },
+        {
+          "he": "נועה סיכמה: \"חייתי באזור מלחמה\" ושכל שנייה הרגישה כמו השנייה האחרונה בחייה, כהתיאור שלה.",
+          "en": "Noa concluded: \"I lived in a war zone\" and that every second felt like the last second of her life, according to her description.",
+          "paragraph": 2,
+          "id": "s23"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "חוסל",
+        "en": "was killed / eliminated"
+      },
+      {
+        "he": "מחבל",
+        "en": "militant / terrorist"
+      },
+      {
+        "he": "חטיפה",
+        "en": "kidnapping"
+      },
+      {
+        "he": "אמצעי לחימה",
+        "en": "weapons / means of warfare"
+      },
+      {
+        "he": "חיסול ממוקד",
+        "en": "targeted killing / targeted elimination"
+      },
+      {
+        "he": "מחנה הפליטים נוסיראת",
+        "en": "Nuseirat refugee camp"
+      },
+      {
+        "he": "תקיפה אווירית",
+        "en": "airstrike"
+      },
+      {
+        "he": "מודיעין",
+        "en": "intelligence"
+      },
+      {
+        "he": "מבצע ארנון",
+        "en": "Operation Arnon"
+      },
+      {
+        "he": "עסקה",
+        "en": "deal / agreement"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where, according to the IDF, was Saher Naddal Latfi Zakr killed?",
+        "answer": "He was killed in the Nuseirat refugee camp in central Gaza."
+      },
+      {
+        "prompt": "Which agencies did the IDF say took part in the operation?",
+        "answer": "The IDF said the Shin Bet and the police Gideon unit participated alongside the IDF."
+      },
+      {
+        "prompt": "How long was Noa Argamany held captive before she was rescued?",
+        "answer": "She was held for 245 days before being rescued in Operation Arnon."
+      },
+      {
+        "prompt": "What did Noa say about her experience in captivity in the January interview?",
+        "answer": "She said she \"lived in fear every day,\" feared the guards would lose control and kill her, and that the militants were armed with many weapons, including knives and grenades."
+      }
+    ],
+    "slug": "news-b972c32cdffa",
+    "categoryLabel": "ביטחון",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/military/383955444",
+      "publishedAt": "2026-09-27T05:45:55.000Z",
+      "importedAt": "2026-09-27T08:23:17.512Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "e23f7c5fbf4512fe579d417b225eda800e7f89d142d3e62b96d93c70b0b4f42c",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "חיזבאללה שיגר רחפן לעבר חיילים; צה\"ל תקף בתגובה",
+    "titleEn": "Hezbollah Launched a Drone Toward Soldiers; IDF Struck in Response",
+    "standfirst": "צה\"ל מסר כי במהלך הלילה שוגר רחפן נפץ מדרום לבנון. בתגובה תקף צה\"ל מטרות של הארגון. בצה\"ל גם מותחים ביקורת על צבא לבנון בנושא מזכר ההבנות.",
+    "standfirstEn": "The IDF said an explosive drone was launched from southern Lebanon during the night. In response the IDF struck the group's targets. The IDF also criticized the Lebanese army over the memorandum of understandings.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "דובר צה\"ל מסר הבוקר (ראשון) כי במהלך הלילה שיגרו מחבלי חיזבאללה רחפן נפץ לעבר כוחות צה\"ל במרחב הביטחוני בדרום לבנון.",
+          "en": "The IDF spokesman said this morning (Sunday) that during the night Hezbollah militants launched an explosive drone toward IDF forces in the security zone in southern Lebanon.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "על פי הדיווח, אין נפגעים בתקרית.",
+          "en": "According to the report, there were no casualties in the incident.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "בתגובה לשיגור תקף צה\"ל מהאוויר מטרות של ארגון הטרור במספר מרחבים בדרום לבנון.",
+          "en": "In response to the launch, the IDF attacked from the air targets of the terrorist organization in several areas of southern Lebanon.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "בצה\"ל ציינו כי בין המטרות שהותקפו היו אתרים ששימשו את מחבלי הארגון לשיגור רחפני נפץ וטילי נ\"ט לעבר כוחותינו.",
+          "en": "The IDF noted that among the targets struck were sites used by the group's militants to launch explosive drones and anti-tank missiles toward our forces.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "הותקפו גם תשתיות טרור נוספות, כך על פי ההודעה של צה\"ל.",
+          "en": "Other terror infrastructures were also attacked, according to the IDF statement.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "צה\"ל הבהיר: \"כל הפעלת כוח משטח לבנון במטרה לפגוע באזרחי מדינת ישראל או בכוחות צה\"ל תענה בעוצמה רבה\" - כך נמסר.",
+          "en": "The IDF clarified: \"Any use of force from Lebanese territory aimed at harming Israeli civilians or IDF forces will be answered with great force,\" the statement said.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "בצה\"ל הדגישו כי הארגון ממשיך להיות מחויב להסכם בין ישראל ללבנון.",
+          "en": "The IDF emphasized that the organization continues to be committed to the agreement between Israel and Lebanon.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "בצה\"ל ממשיכים למתוח ביקורת על התנהלות צבא לבנון בכל הנוגע למזכר ההבנות בין ביירות לירושלים.",
+          "en": "The IDF continues to criticize the conduct of the Lebanese army regarding the memorandum of understandings between Beirut and Jerusalem.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "על המזכר סוכם ברומא, כך נאמר בדיווחים על ההבנות.",
+          "en": "The memorandum was agreed in Rome, according to reports about the understandings.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "\"הם הולכים מסביב\", אמר גורם ישראלי בכיר שמצוי בפרטי ההבנות, בהתייחס לצבא לבנון.",
+          "en": "\"They are going around it,\" said a senior Israeli source who is privy to the details of the understandings, referring to the Lebanese army.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "הגורם הוסיף כי \"צבא לבנון חושש מאוד לצאת נגד חיזבאללה, לאסוף נשק, להשמיד תשתיות - מה שבפועל מצופה ממנו\".",
+          "en": "The source added that \"the Lebanese army is very afraid to act against Hezbollah, to collect weapons, to destroy infrastructure—what is in practice expected of it.\"",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "לדברי אותו גורם, צבא לבנון כבר נכשל במבחן הזה.",
+          "en": "According to that source, the Lebanese army has already failed this test.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "הגורם גם אמר: \"הם עסוקים בקוסמטיקה עם חיזבאללה, הם לא מטפלים בשורשים שלו בדרום לבנון ומשאירים את העבודה לצה\"ל או לזמן, בתקווה שנפילת המשטר בטהרן תביא לאפקט דומינו\".",
+          "en": "The source also said: \"They are occupied with cosmetics with Hezbollah, they do not deal with its roots in southern Lebanon and leave the work to the IDF or to time, hoping that the fall of the regime in Tehran will bring a domino effect.\"",
+          "paragraph": 2,
+          "id": "s13"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "בצה\"ל מסרו הבוקר (ראשון) כי במהלך הלילה שיגרו מחבלי חיזבאללה רחפן נפץ לעבר כוחות הצבא הפועלים במרחב הביטחוני בדרום לבנון.",
+          "en": "The IDF said this morning (Sunday) that during the night Hezbollah militants launched an explosive drone toward army forces operating in the security zone in southern Lebanon.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "על פי הדיווח, לא נרשמו נפגעים בתקרית.",
+          "en": "According to the report, no casualties were recorded in the incident.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "בתגובה לאירוע תקף צה\"ל מהאוויר מטרות של ארגון הטרור במספר מרחבים בדרום לבנון.",
+          "en": "In response to the event, the IDF attacked from the air targets of the terrorist organization in several areas of southern Lebanon.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "בצה\"ל ציינו כי בין המטרות היו אתרים ששימשו לשיגור רחפני נפץ וטילי נ\"ט לעבר כוחותינו וכן תשתיות טרור נוספות.",
+          "en": "The IDF noted that among the targets were sites used to launch explosive drones and anti-tank missiles toward our forces, as well as additional terror infrastructures.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "צה\"ל הבהיר: \"כל הפעלת כוח משטח לבנון במטרה לפגוע באזרחי מדינת ישראל או בכוחות צה\"ל תענה בעוצמה רבה\", אך הדגיש כי הארגון ממשיך להיות מחויב להסכם בין ישראל ללבנון.",
+          "en": "The IDF clarified: \"Any use of force from Lebanese territory aimed at harming Israeli civilians or IDF forces will be answered with great force,\" but stressed that the organization continues to be committed to the agreement between Israel and Lebanon.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "בנוסף, בצה\"ל ממשיכים למתוח ביקורת על התנהלות צבא לבנון בכל הנוגע למזכר ההבנות שנחתם בין ביירות לירושלים.",
+          "en": "Additionally, the IDF continues to criticize the conduct of the Lebanese army regarding the memorandum of understandings signed between Beirut and Jerusalem.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "על מסמך ההבנות סוכם ברומא, כך נאמר בדיווחים על ההסכם.",
+          "en": "The understandings document was agreed in Rome, according to reports on the agreement.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "\"הם הולכים מסביב\", אמר גורם ישראלי בכיר שמצוי בפרטי ההבנות, בהתייחס לאופן שבו פועל צבא לבנון מול חיזבאללה.",
+          "en": "\"They are going around it,\" said a senior Israeli source privy to the details of the understandings, referring to how the Lebanese army acts toward Hezbollah.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "הגורם הוסיף כי צבא לבנון חושש מאוד לצאת נגד חיזבאללה ולאסוף נשק או להשמיד תשתיות - פעולות שנחשבות מצופות ממנו בפועל.",
+          "en": "The source added that the Lebanese army is very reluctant to act against Hezbollah, to collect weapons, or to destroy infrastructure—actions that are in practice expected of it.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "לפי אותו גורם, צבא לבנון כבר נכשל במבחן הזה והוא \"עסוק בקוסמטיקה עם חיזבאללה\" ומשאיר את הטיפול בשורשים בדרום לבנון לצה\"ל או לזמן, בתקווה לנפילת המשטר בטהרן שתיצור אפקט דומינו.",
+          "en": "According to the same source, the Lebanese army has already failed this test and is \"occupied with cosmetics with Hezbollah\" and leaves dealing with the roots in southern Lebanon to the IDF or to time, hoping for the fall of the regime in Tehran to create a domino effect.",
+          "paragraph": 2,
+          "id": "s10"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "רחפן",
+        "en": "drone"
+      },
+      {
+        "he": "נפץ",
+        "en": "explosive"
+      },
+      {
+        "he": "כוחות צה\"ל",
+        "en": "IDF forces"
+      },
+      {
+        "he": "דרום לבנון",
+        "en": "southern Lebanon"
+      },
+      {
+        "he": "תקף",
+        "en": "attacked"
+      },
+      {
+        "he": "מטרות",
+        "en": "targets"
+      },
+      {
+        "he": "תשתיות",
+        "en": "infrastructure"
+      },
+      {
+        "he": "צבא לבנון",
+        "en": "Lebanese army"
+      },
+      {
+        "he": "מזכר ההבנות",
+        "en": "memorandum of understandings"
+      },
+      {
+        "he": "רומא",
+        "en": "Rome"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who launched the explosive drone and toward whom was it launched?",
+        "answer": "Hezbollah militants launched the explosive drone toward IDF forces operating in the security zone in southern Lebanon."
+      },
+      {
+        "prompt": "Were there any casualties in the incident?",
+        "answer": "No, the report says there were no casualties."
+      },
+      {
+        "prompt": "How did the IDF respond to the drone launch?",
+        "answer": "The IDF responded with air strikes on targets of the terrorist organization in several areas of southern Lebanon."
+      },
+      {
+        "prompt": "What criticism did a senior Israeli source make about the Lebanese army?",
+        "answer": "The source said the Lebanese army is very reluctant to act against Hezbollah, to collect weapons, and to destroy infrastructure; he said it has already failed the test and is 'occupied with cosmetics' rather than dealing with Hezbollah's roots in southern Lebanon."
+      },
+      {
+        "prompt": "What did the IDF say about the organization's commitment to the Israel-Lebanon agreement?",
+        "answer": "The IDF said the organization continues to be committed to the agreement between Israel and Lebanon, while warning that any use of force from Lebanese territory against Israeli civilians or IDF forces will be answered with great force."
+      }
+    ],
+    "slug": "news-62a8d1928042",
+    "categoryLabel": "ביטחון",
+    "minutes": 2,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/military/383955450",
+      "publishedAt": "2026-09-27T06:42:55.000Z",
+      "importedAt": "2026-09-27T08:24:09.394Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "689701fb70ee32d4a230ba912d91df8abcd336d9dea92cfb213a02ecd6e8b6b1",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "מירב בן ארי מסמנת את התפקיד הבא",
+    "titleEn": "Merav Ben-Ari Signals the Next Role",
+    "standfirst": "חברת הכנסת מירב בן ארי נותנת ראיון על המטרה של מפלגת השינוי, היחסים בתוך הגוש והתפקידים האפשריים עבורה בממשלה.",
+    "standfirstEn": "MK Merav Ben-Ari gives an interview about the Change party's goals, relations inside the bloc, and possible government roles for her.",
+    "category": "politics",
+    "sentences": {
+      "easy": [
+        {
+          "he": "חברת הכנסת מירב בן ארי נתנה ראיון היום (ראשון).",
+          "en": "Member of Knesset Merav Ben-Ari gave an interview today (Sunday).",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הראיון היה בתוכנית של גדעון אוקו ועמיחי אתאלי ב־103 אף־אם.",
+          "en": "The interview was on the program of Gideon Ocko and Amichai Etali on 103 FM.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "בן ארי אמרה: \"הסוגייה המרכזית בעינינו היא להחליף את נתניהו.\"",
+          "en": "Ben-Ari said: \"The main issue for us is to replace Netanyahu.\"",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "היא הוסיפה: \"לבחור מנהיג? זה יקרה - ולא יהיו סכסוכים ומריבות.\"",
+          "en": "She added: \"To choose a leader? That will happen - and there will be no conflicts and fights.\"",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "על מפגש ראשי מפלגות השינוי היא אמרה שיש הרבה דברים משותפים ביניהם.",
+          "en": "About the meeting of the heads of the Change parties she said there are many things in common between them.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "היא אמרה: \"יש לנו כל כך הרבה דברים משותפים בינינו, דברים שהציבור שלנו רוצה.\"",
+          "en": "She said: \"We have so many things in common between us, things our public wants.\"",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "בן ארי הוסיפה על גדי: \"ברור שגדי רוצה, אבל גם כל השאר רוצים לנצח.\"",
+          "en": "Ben-Ari added about Gadi: \"Of course Gadi wants to, but all the others also want to win.\"",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "כשנשאלה על הדיווחים על 'אש שנורתה בתוך הגוש' היא הפחיתה בחשיבותם והכחישה אותם.",
+          "en": "When asked about reports of 'fire shot inside the bloc' she downplayed them and denied them.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "היא ציטטה את דברי בנט ואמרה: \"אעשה הכול כדי להקים ממשלה כולל להיות גלגל חמישי — זאת אש?\"",
+          "en": "She quoted Bennett's words and said: \"I will do everything to form a government including being a fifth wheel — is that fire?\"",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "בן ארי אמרה שהם לא במקום הזה ושבימים אלה הם מתעסקים בהגדלת הגוש.",
+          "en": "Ben-Ari said they are not at that stage and that these days they are focused on enlarging the bloc.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "היא נמנעה מלהגיב ישירות האם היא לוטשת עיניים לתפקיד בממשלה בעתיד.",
+          "en": "She avoided directly answering whether she is eyeing a government role in the future.",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "בן ארי אמרה: \"אני לא אוהבת את זה. קודם כל ננצח, איפה שתשימו אותי — אני אעבוד.\"",
+          "en": "Ben-Ari said: \"I don't like it. First we will win; wherever you put me — I will work.\"",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "היא הוסיפה: \"אני כבר עשר שנים חברת כנסת, צברתי מספיק ניסיון לקחת חלק בתפקיד החשוב הזה — להיות שר.\"",
+          "en": "She added: \"I have been an MK for ten years, I have gained enough experience to take part in this important role — to be a minister.\"",
+          "paragraph": 1,
+          "id": "s13"
+        },
+        {
+          "he": "בן ארי ציינה תפקידים שהם קרובים אליה: פנים, רווחה, ביטחון פנים והגנת הסביבה.",
+          "en": "Ben-Ari listed portfolios that are close to her: Interior, Welfare, Internal Security, and Environmental Protection.",
+          "paragraph": 1,
+          "id": "s14"
+        },
+        {
+          "he": "היא אמרה: \"כל דבר שיעשה טוב — אהיה שם.\"",
+          "en": "She said: \"Anything that will do good — I will be there.\"",
+          "paragraph": 1,
+          "id": "s15"
+        },
+        {
+          "he": "בן ארי אמרה שאי אפשר להתעלם מההבדל בין גוש הימין בראשות נתניהו לבין הגוש שנגדו.",
+          "en": "Ben-Ari said one cannot ignore the difference between the right-wing bloc led by Netanyahu and the bloc against him.",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "היא הצהירה: \"סירבתי להתרגש. יש אצלנו קטע ששונה מהצד השני.\"",
+          "en": "She declared: \"I refused to get excited. We have something different from the other side.\"",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "בן ארי הדגישה: \"אין לנו פולחן אישיות — יש לנו פלורליזם וריבוי דעות.\"",
+          "en": "Ben-Ari stressed: \"We do not have a personality cult — we have pluralism and a multiplicity of opinions.\"",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "עם זאת היא קיבלה שהאירוע של 'הירי בנגמ\"ש' לא עשה להם טוב.",
+          "en": "Nevertheless she acknowledged that the event of the 'shooting at the APC' did not do them any good.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "בן ארי אמרה: \"המחנה שלנו סבל מכל מה שקרה בחודשיים האחרונים.\"",
+          "en": "Ben-Ari said: \"Our camp suffered from everything that happened in the last two months.\"",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "היא סיפרה שהיא הגיעה לחוגי בית ופגשה שם אנשים מאוד כועסים.",
+          "en": "She said she went to house meetings and met very angry people there.",
+          "paragraph": 2,
+          "id": "s21"
+        },
+        {
+          "he": "לפי בן ארי להם יש את המשימה הכי גדולה — להעיף את \"ממשלת הטבח\" ולהביא ממשלה טובה.",
+          "en": "According to Ben-Ari, they have the biggest task — to remove the \"government of slaughter\" and bring a good government.",
+          "paragraph": 2,
+          "id": "s22"
+        },
+        {
+          "he": "ביחס להשוואה בין מפלגת לפיד לבין 'ישר' של איזנקוט היא אמרה שהיתרון הבולט הוא הניסיון.",
+          "en": "Regarding the comparison between Lapid's party and Eisenkot's 'Yashar', she said the clear advantage is experience.",
+          "paragraph": 3,
+          "id": "s23"
+        },
+        {
+          "he": "היא ציינה את מספר 16 ברשימתם, ולדימיר בליאק, וקראה לו 'אחד התותחים בכנסת.'",
+          "en": "She noted number 16 on their list, Vladimir Beliak, and called him 'one of the heavy hitters in the Knesset.'",
+          "paragraph": 3,
+          "id": "s24"
+        },
+        {
+          "he": "בן ארי אמרה שלמדו בממשלת השינוי שמי שקובע את סדר היום הוא הכנסת.",
+          "en": "Ben-Ari said that they learned in the change government that whoever sets the agenda is the Knesset.",
+          "paragraph": 3,
+          "id": "s25"
+        },
+        {
+          "he": "היא הדגישה: \"אני לא מזלזלת בניסיון של גדי, אבל אלה האנשים שהיו אופוזיציה בכנסת מאוד מורכבת ומאתגרת.\"",
+          "en": "She emphasized: \"I do not belittle Gadi's experience, but these are the people who were the opposition in a very complex and challenging Knesset.\"",
+          "paragraph": 3,
+          "id": "s26"
+        },
+        {
+          "he": "בן ארי סיכמה: \"תראו מיהם מספר 14 או 16. אני יודעת שאצלנו יש אנשים מאוד חזקים.\"",
+          "en": "Ben-Ari concluded: \"Look who are numbers 14 or 16. I know that we have very strong people.\"",
+          "paragraph": 3,
+          "id": "s27"
+        },
+        {
+          "he": "היא הוסיפה שאנשים שהגיעו ממפלגת 'ביחד' גם הוכיחו עשייה למען המדינה.",
+          "en": "She added that people who came from the 'Together' party have also proven action for the state.",
+          "paragraph": 3,
+          "id": "s28"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "חברת הכנסת מירב בן ארי נשאה ראיון היום (ראשון) בתוכנית של גדעון אוקו ועמיחי אתאלי ב־103 אף־אם.",
+          "en": "Member of Knesset Merav Ben-Ari gave an interview today (Sunday) on the program of Gideon Ocko and Amichai Etali on 103 FM.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "בתחילת הראיון היא קבעה: \"הסוגייה המרכזית בעינינו היא להחליף את נתניהו.\"",
+          "en": "At the start of the interview she stated: \"The central issue for us is to replace Netanyahu.\"",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "לשאלה על בחירת מנהיג היא השיבה: \"לבחור מנהיג? זה יקרה - ולא יהיו סכסוכים ומריבות.\"",
+          "en": "When asked about choosing a leader she replied: \"To choose a leader? That will happen - and there will be no conflicts and fights.\"",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "על מפגש ראשי מפלגות השינוי היא אמרה שיש הרבה קווים משותפים שחשובים לציבור שלהם.",
+          "en": "About the meeting of the heads of the Change parties she said there are many common lines that are important to their public.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "היא אמרה: \"יש לנו כל כך הרבה דברים משותפים בינינו, דברים שהציבור שלנו רוצה.\"",
+          "en": "She said: \"We have so many things in common between us, things our public wants.\"",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "בהתייחסות לגדי היא הוסיפה: \"ברור שגדי רוצה, אבל גם כל השאר רוצים לנצח.\"",
+          "en": "Referring to Gadi she added: \"Of course Gadi wants to, but all the others want to win as well.\"",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "כשנשאלה על הדיווחים על 'אש בתוך הגוש' היא הפחיתה בחשיבות והכחישה את הממצא.",
+          "en": "When asked about reports of 'fire within the bloc' she downplayed them and denied the claim.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "בן ארי ציטטה את דברי בנט: \"אעשה הכול כדי להקים ממשלה כולל להיות גלגל חמישי,\" ואז שאלה רטורית: \"זאת אש?\"",
+          "en": "Ben-Ari quoted Bennett's words: \"I will do everything to form a government including being a fifth wheel,\" and then asked rhetorically: \"Is that fire?\"",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "היא הדגישה שהם לא נמצאים במצב הזה ושבימים אלה הם מתמקדים בהגדלת הגוש.",
+          "en": "She emphasized they are not in that situation and that these days they are focused on enlarging the bloc.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "בן ארי נמנעה מלהגיב ישירות על השאלה האם היא מעוניינת בתפקיד בממשלה בעתיד.",
+          "en": "Ben-Ari avoided directly answering whether she is interested in a future government position.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "עם זאת היא אמרה: \"אני לא אוהבת את זה. קודם כל ננצח, איפה שתשימו אותי — אני אעבוד.\"",
+          "en": "Nevertheless she said: \"I don't like it. First we will win; wherever you put me — I will work.\"",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "היא ציינה את ניסיונה הפוליטי: \"אני כבר עשר שנים חברת כנסת, צברתי מספיק ניסיון... להיות שר.\"",
+          "en": "She noted her political experience: \"I have been an MK for ten years, I have gained enough experience... to be a minister.\"",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "היא ציינה תפקידים שמקרבים אליה: פנים, רווחה, ביטחון פנים והגנת הסביבה, ואמרה: \"כל דבר שיעשה טוב — אהיה שם.\"",
+          "en": "She listed portfolios close to her: Interior, Welfare, Internal Security and Environmental Protection, and said: \"Anything that will do good — I will be there.\"",
+          "paragraph": 1,
+          "id": "s13"
+        },
+        {
+          "he": "בן ארי הבהירה שניתן לראות הבדל ברור בין גוש הימין בראשות נתניהו לבין הגוש היריב שבו לא ברור מי עומד בראש.",
+          "en": "Ben-Ari clarified that one can see a clear difference between the right-wing bloc led by Netanyahu and the opposing bloc where it is unclear who is in charge.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "היא אמרה: \"סירבתי להתרגש. יש אצלנו קטע ששונה מהצד השני.\"",
+          "en": "She said: \"I refused to get excited. We have a thing that is different from the other side.\"",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "בן ארי הדגישה: \"אין לנו פולחן אישיות — יש לנו פלורליזם וריבוי דעות.\"",
+          "en": "Ben-Ari stressed: \"We do not have a personality cult — we have pluralism and a multiplicity of opinions.\"",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "עם זאת היא הכירה בכך שהאירוע של ה'ירי בנגמ\"ש' הזיק למחנה שלהם.",
+          "en": "However she acknowledged that the event of the 'shooting at the APC' harmed their camp.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "לפי דבריה, המחנה שלהם סבל מכל מה שקרה בחודשיים האחרונים והיא פגשה אנשים זועמים בחוגי בית.",
+          "en": "According to her, their camp suffered from everything that happened in the last two months and she met angry people at house meetings.",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "בן ארי סיכמה שהמשימה המרכזית היא להוריד את \"ממשלת הטבח\" ולהביא ממשלה טובה יותר.",
+          "en": "Ben-Ari concluded that the central task is to remove the \"government of slaughter\" and bring a better government.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "בהשוואה בין מפלגת יאיר לפיד לבין 'ישר' של איזנקוט היא הצביעה על יתרון של ניסיון.",
+          "en": "Comparing Yair Lapid's party to Eisenkot's 'Yashar', she pointed to an advantage of experience.",
+          "paragraph": 3,
+          "id": "s20"
+        },
+        {
+          "he": "היא התייחסה במיוחד למספר 16 ברשימתם, ולדימיר בליאק, וקראה לו \"אחד התותחים בכנסת.\"",
+          "en": "She referred specifically to number 16 on their list, Vladimir Beliak, calling him \"one of the heavy hitters in the Knesset.\"",
+          "paragraph": 3,
+          "id": "s21"
+        },
+        {
+          "he": "בן ארי אמרה שלמדו בממשלת השינוי שמי שקובע את סדר היום הוא הכנסת ולא רק מי שמוביל את המפלגה.",
+          "en": "Ben-Ari said that they learned in the change government that the Knesset sets the agenda and not only party leaders.",
+          "paragraph": 3,
+          "id": "s22"
+        },
+        {
+          "he": "היא הדגישה שהיא לא מזלזלת בניסיון של גדי, אך ציינה ששתי הקבוצות הביאו ניסיון אופוזיציוני משמעותי בכנסת מאתגרת.",
+          "en": "She emphasized that she does not belittle Gadi's experience, but noted that both groups brought significant opposition experience in a challenging Knesset.",
+          "paragraph": 3,
+          "id": "s23"
+        },
+        {
+          "he": "בן ארי סיכמה: \"תראו מיהם מספר 14 או 16. אני יודעת שאצלנו יש אנשים מאוד חזקים.\"",
+          "en": "Ben-Ari summed up: \"Look who are numbers 14 or 16. I know that we have very strong people.\"",
+          "paragraph": 3,
+          "id": "s24"
+        },
+        {
+          "he": "היא הוסיפה שאנשים שהגיעו ממפלגת 'ביחד' גם הם הוכיחו עשייה למען המדינה.",
+          "en": "She added that people who came from the 'Together' party have also proven they take action for the state.",
+          "paragraph": 3,
+          "id": "s25"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "חברת הכנסת",
+        "en": "Member of Knesset (MK)"
+      },
+      {
+        "he": "ראיון",
+        "en": "interview"
+      },
+      {
+        "he": "מפלגות השינוי",
+        "en": "the Change parties"
+      },
+      {
+        "he": "גוש",
+        "en": "bloc"
+      },
+      {
+        "he": "לוטשת עיניים",
+        "en": "eyeing (seeking) a position"
+      },
+      {
+        "he": "שר",
+        "en": "minister"
+      },
+      {
+        "he": "ניסיון",
+        "en": "experience"
+      },
+      {
+        "he": "הכנסת",
+        "en": "the Knesset"
+      },
+      {
+        "he": "אופוזיציה",
+        "en": "opposition"
+      },
+      {
+        "he": "ממשלת הטבח",
+        "en": "\"government of slaughter\" (quoted phrase from the article)"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where and when did Merav Ben-Ari give the interview?",
+        "answer": "Today (Sunday) on the program of Gideon Ocko and Amichai Etali on 103 FM."
+      },
+      {
+        "prompt": "What did Ben-Ari say is the main issue for her camp?",
+        "answer": "The main issue is to replace Netanyahu and to choose a leader without conflicts."
+      },
+      {
+        "prompt": "How did Ben-Ari respond to reports of 'fire' inside the bloc?",
+        "answer": "She downplayed and denied the reports, quoted Bennett's words about doing everything to form a government including being a 'fifth wheel', and said they are focused on enlarging the bloc."
+      },
+      {
+        "prompt": "Which ministerial areas did Ben-Ari say are close to her?",
+        "answer": "Interior, Welfare, Internal Security, and Environmental Protection."
+      },
+      {
+        "prompt": "Who did Ben-Ari mention as number 16 on their list?",
+        "answer": "Vladimir Beliak."
+      }
+    ],
+    "slug": "news-182ecd5f2c84",
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/politics/383955443",
+      "publishedAt": "2026-09-27T05:39:08.000Z",
+      "importedAt": "2026-09-27T08:25:18.051Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "521a8832f3b78a357f3c658d8f823b61e3f31d6472382b68f473c95a201060cd",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "מחדל: שומר הראש של הנייה קיבל אזרחות בריטית - ותכנן פיגועים",
+    "titleEn": "Failure: Haniyeh's bodyguard received British citizenship — and planned attacks",
+    "standfirst": "דיווח ב'הסאנדיי טיימס' טוען ששומר ראש לשעבר של איסמעיל הנייה קיבל מקלט ואזרחות בבריטניה, ואז נעצר בחשד למזימה לתקוף יהודים וישראלים באירופה.",
+    "standfirstEn": "The Sunday Times reports that a former bodyguard of Ismail Haniyeh received asylum and British citizenship, and was later arrested on suspicion of plotting attacks against Jews and Israelis in Europe.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "העיתון הבריטי 'הסאנדיי טיימס' דיווח הבוקר כי שומר הראש לשעבר של מנהיג חמאס, איסמעיל הנייה, קיבל מקלט מדיני ואזרחות בבריטניה.",
+          "en": "The British newspaper The Sunday Times reported this morning that the former bodyguard of Hamas leader Ismail Haniyeh received political asylum and British citizenship in the UK.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי הדיווח, הוא נעצר בחשד לתכנון מתקפת טרור נגד קהילות יהודיות ואזרחים ישראלים באירופה.",
+          "en": "According to the report, he was arrested on suspicion of planning a terrorist attack against Jewish communities and Israeli citizens in Europe.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "המתקפה תוכננה להיערך סביב יום השנה השני לטבח של 7 באוקטובר, כך נמסר בעיתון.",
+          "en": "The attack was planned to take place around the second anniversary of the October 7 massacre, the newspaper said.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "על פי התחקיר, החשוד מוגדר כ'מר איקס' וזהותו אסורה לפרסום מסיבות משפטיות.",
+          "en": "According to the investigation, the suspect is identified as 'Mr X' and his identity is legally restricted from publication.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לפני שעבר לבריטניה לפני יותר מעשור, מר איקס שירת בצוות האבטחה האישי של הנייה בעזה, נמסר בעיתון.",
+          "en": "Before moving to Britain more than a decade ago, Mr X served on Ismail Haniyeh's personal security team in Gaza, the paper reported.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לפי הדיווח, בעת שקיבל מעמד פליט היה ידוע שהוא עבד אצל מנהיג הארגון ושהוא נעצר בעבר במצרים על הפעלת מנהרת הברחת נשק לעזה.",
+          "en": "The report says that when he obtained refugee status it was known he had worked for the organization's leader and that he was previously arrested in Egypt for operating a weapons smuggling tunnel to Gaza.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "למרות זאת הוא קיבל מקלט בממלכה המאוחדת, נמסר בעיתון.",
+          "en": "Despite that, he was granted refuge in the United Kingdom, the paper reported.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "העיתון כתב שהוא חי באנגליה תחת מעטה אזרחי כיועץ מחשבים ושינה את שמו החוקי כמה פעמים.",
+          "en": "The newspaper wrote that he lived in England under civilian cover as a computer consultant and changed his legal name several times.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "כעת הוא עומד בפני בקשת הסגרה לגרמניה, שם מואשם כגורם מרכזי במזימה לתקוף מרכזים קהילתיים יהודיים, דיפלומטים ישראלים והפגנות תומכי ישראל.",
+          "en": "He now faces an extradition request to Germany, where he is accused as a central figure in a plot to attack Jewish community centers, Israeli diplomats, and pro-Israel demonstrations.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "לפי הדיווח, סוכני אכיפה של סוכנות הפשיעה הלאומית הבריטית עצרו אותו במרכז לונדון בנובמבר, אחרי שהמוסד ושירותי הביון הגרמניים חשפו את המזימה.",
+          "en": "According to the report, agents of Britain's National Crime Agency arrested him in central London in November after the Mossad and German intelligence services exposed the plot.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "כתב האישום, שנחשף לראשונה בעיתון הגרמני 'בילד', מתאר העברה של אקדחים, תחמושת וציוד הסוואה מברלין לווינה.",
+          "en": "The indictment, first revealed in the German newspaper Bild, describes the transfer of guns, ammunition, and disguise equipment from Berlin to Vienna.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "לפי כתב האישום, מר איקס גם צילם מראש סרטון שבו הופיע רעול פנים וחמוש על רקע דגל חמאס.",
+          "en": "According to the indictment, Mr X also pre-recorded a video in which he appeared masked and armed against a Hamas flag.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "בכתב האישום נמסר שהוא ציין בסרטון שההתקפה היא פעולת תגמול בשם גדודי עז א־דין אל־קסאם.",
+          "en": "The indictment states that in the video he described the planned attack as a revenge action in the name of the Izz ad-Din al-Qassam Brigades.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "גורם אכיפת חוק תיאר אותו כ'דמות חיונית' במזימה, כך דווח בעיתון.",
+          "en": "A law enforcement source described him as a 'key figure' in the plot, the newspaper reported.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "הדיווח ציין שמר איקס הגיע לבריטניה ב־2012 וככל הנראה עזב אז את רצועת עזה בפעם האחרונה.",
+          "en": "The report noted that Mr X arrived in Britain in 2012 and apparently left the Gaza Strip at that time for the last time.",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "ב־2015 הגיש בקשת מקלט וקיבל אישור שהייה קבוע ממשרד הפנים הבריטי, בזמן שתרזה מיי כיהנה כשרת הפנים, ולאחר מכן הוענקה לו אזרחות בריטית לפי הדיווח.",
+          "en": "In 2015 he applied for asylum and received indefinite leave to remain from the British Home Office while Theresa May was Home Secretary, and he was later granted British citizenship, the report said.",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "גורמי ביטחון בגרמניה הזהירו כי העובדה שהוא נע בחופשיות ברחבי אירופה באמצעות הדרכון הבריטי שלו מצביעה על מעבר מסוכן בטקטיקה של חמאס להרחיב את הפעילות מעבר למזרח התיכון גם לתוך אירופה.",
+          "en": "Security officials in Germany warned that the fact he moved freely across Europe using his British passport indicates a dangerous shift in Hamas tactics to expand activity beyond the Middle East and into Europe, the report said.",
+          "paragraph": 2,
+          "id": "s17"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "העיתון הבריטי 'הסאנדיי טיימס' דיווח הבוקר כי שומר הראש לשעבר של מנהיג חמאס איסמעיל הנייה קיבל מקלט מדיני ואזרחות בבריטניה, לפני שנעצר בחשד לתכנון מתקפת טרור באירופה.",
+          "en": "The British newspaper The Sunday Times reported this morning that the former bodyguard of Hamas leader Ismail Haniyeh received political asylum and British citizenship before being arrested on suspicion of planning a terrorist attack in Europe.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי הדיווח, המתקפה תוכננה להתבצע סביב יום השנה השני לטבח של 7 באוקטובר.",
+          "en": "According to the report, the attack was planned to take place around the second anniversary of the October 7 massacre.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "התחקיר מגדיר את החשוד כ'מר איקס' וציין כי זהותו אסורה לפרסום משיקולים משפטיים.",
+          "en": "The investigation identifies the suspect as 'Mr X' and notes that his identity is legally prohibited from publication for legal reasons.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "על פי 'הסאנדיי טיימס', מר איקס שירת בצוות האבטחה האישי של הנייה בעזה לפני שעבר לבריטניה לפני יותר מעשור.",
+          "en": "According to The Sunday Times, Mr X served on Haniyeh's personal security team in Gaza before he moved to Britain more than a decade ago.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "העיתון מדווח כי בעת קבלת מעמד הפליט היה ידוע שלחשוד היו קשרים לעבודה אצל מנהיג הארגון וכי הוא נעצר בעבר במצרים בגין הפעלת מנהרת הברחת נשק לעזה.",
+          "en": "The paper reports that when he obtained refugee status it was known that the suspect had worked for the organization's leader and that he had been previously arrested in Egypt for operating a weapons-smuggling tunnel to Gaza.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "למרות המידע הזה הוא קיבל מקלט בממלכה המאוחדת, נכתב בתחקיר.",
+          "en": "Despite this information, he was granted refuge in the United Kingdom, the investigation wrote.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "בהסוואה אזרחית מר איקס חי באנגליה כיועץ מחשבים, החליף את שמו החוקי כמה פעמים וניהל חיים שנראו נורמטיביים, לפי הדיווח.",
+          "en": "Under civilian cover, Mr X lived in England as a computer consultant, changed his legal name several times, and led a life that appeared normal, according to the report.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "כיום הוא מתמודד עם בקשת הסגרה לגרמניה, שם הוא מואשם כגורם מרכזי במזימה לתקוף מרכזים קהילתיים יהודיים, דיפלומטים ישראלים והפגנות פרו־ישראליות במדינה או באוסטריה השכנה, לפי התביעה הגרמנית.",
+          "en": "He is currently facing an extradition request to Germany, where he is accused as a central figure in a plot to attack Jewish community centers, Israeli diplomats, and pro-Israel demonstrations in the country or in neighboring Austria, according to the German indictment.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "כוחות של סוכנות הפשיעה הלאומית הבריטית עצרו אותו במרכז לונדון בנובמבר, לאחר שהמוסד ושירותי הביון הגרמניים חשפו את המזימה, נמסר בתחקיר.",
+          "en": "Forces of Britain's National Crime Agency arrested him in central London in November after the Mossad and German intelligence services exposed the plot, the investigation reported.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "כתב האישום, שנחשף לראשונה בעיתון הגרמני 'בילד', מפרט כיצד מר איקס העביר אקדחים, תחמושת וציוד הסוואה מברלין לווינה.",
+          "en": "The indictment, first revealed in the German newspaper Bild, details how Mr X transferred handguns, ammunition, and disguise equipment from Berlin to Vienna.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "בנוסף, לפי כתב האישום, הוא צילם מראש סרטון שבו הופיע רעול פנים וחמוש על רקע דגל חמאס ותיאר את הפעולה המתוכננת כפעולת תגמול בשם גדודי עז א־דין אל־קסאם.",
+          "en": "Additionally, according to the indictment, he pre-recorded a video in which he appeared masked and armed against a Hamas flag and described the planned operation as a revenge action in the name of the Izz ad-Din al-Qassam Brigades.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "גורם אכיפת חוק צוטט בתקשורת ותיאר אותו כדמות חיונית במזימה, כך דווח בעיתונות הגרמנית והבריטית.",
+          "en": "A law enforcement source was quoted in the media describing him as a key figure in the plot, the German and British press reported.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "הדיווח מזכיר שמר איקס הגיע לבריטניה ב־2012 ונראה כי אז עזב את רצועת עזה בפעם האחרונה.",
+          "en": "The report mentions that Mr X arrived in Britain in 2012 and it appears that at that time he left the Gaza Strip for the last time.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "בשנת 2015 הוא הגיש בקשת מקלט וקיבל אישור שהייה קבוע מהמשרד לביטחון הפנים הבריטי בזמן שתרזה מיי כיהנה כשרת הפנים, ולאחר מכן הוענקה לו אזרחות בריטית, לפי הדיווח.",
+          "en": "In 2015 he filed an asylum application and received indefinite leave to remain from the British Home Office while Theresa May was Home Secretary, and he was later granted British citizenship, according to the report.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "גורמי ביטחון בגרמניה הזהירו כי המעורבות שלו, שנע בחופשיות ברחבי אירופה באמצעות הדרכון הבריטי שלו, משקפת מעבר מסוכן בטקטיקה של חמאס שנועדה להרחיב את טווח פעילות הטרור מעבר למזרח התיכון גם לתוך יבשת אירופה.",
+          "en": "Security officials in Germany warned that his involvement, moving freely across Europe using his British passport, reflects a dangerous shift in Hamas tactics aimed at expanding the range of terror activity beyond the Middle East and into the European continent, the report said.",
+          "paragraph": 2,
+          "id": "s15"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "שומר ראש",
+        "en": "bodyguard"
+      },
+      {
+        "he": "מקלט מדיני",
+        "en": "political asylum"
+      },
+      {
+        "he": "אזרחות",
+        "en": "citizenship"
+      },
+      {
+        "he": "מזימה",
+        "en": "plot"
+      },
+      {
+        "he": "הסגרה",
+        "en": "extradition"
+      },
+      {
+        "he": "תחמושת",
+        "en": "ammunition"
+      },
+      {
+        "he": "הסוואה",
+        "en": "disguise"
+      },
+      {
+        "he": "המוסד",
+        "en": "the Mossad"
+      },
+      {
+        "he": "רצועת עזה",
+        "en": "Gaza Strip"
+      },
+      {
+        "he": "דרכון",
+        "en": "passport"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who was the former bodyguard alleged to have worked for?",
+        "answer": "He was alleged to have worked for Ismail Haniyeh, the Hamas leader."
+      },
+      {
+        "prompt": "When and where was the suspect arrested, according to the report?",
+        "answer": "He was arrested in central London in November, according to the report."
+      },
+      {
+        "prompt": "What items did the indictment say were transferred from Berlin to Vienna?",
+        "answer": "The indictment said guns (handguns), ammunition, and disguise equipment were transferred from Berlin to Vienna."
+      },
+      {
+        "prompt": "To which country is the suspect facing extradition?",
+        "answer": "He is facing extradition to Germany."
+      },
+      {
+        "prompt": "When did he arrive in Britain and when did he apply for asylum?",
+        "answer": "He arrived in Britain in 2012 and applied for asylum in 2015."
+      }
+    ],
+    "slug": "news-db7c8cdf25d7",
+    "categoryLabel": "ביטחון",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/world/383955441",
+      "publishedAt": "2026-09-27T04:15:57.000Z",
+      "importedAt": "2026-09-27T08:26:19.089Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "3a6d5c87f2625de26f21850f054ff8c570bc2818131609e58b8f7f5917884ae1",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "השר שיקלי נגד השאיפות של וינטר: \"משחקי נדמה לי\"",
+    "titleEn": "Minister Shikli against Winter's ambitions: \"Guessing games\"",
+    "standfirst": "בראיון ברדיו דיבר שר התפוצות עמיחי שיקלי על התמודדותו של עופר וינטר ועל ההתרעות של אמ\"ן לפני 7 באוקטובר.",
+    "standfirstEn": "In a radio interview Diaspora Minister Amichai Shikli spoke about Ofir Winter's candidacy and AMAN warnings before October 7.",
+    "category": "politics",
+    "sentences": {
+      "easy": [
+        {
+          "he": "בראיון ברדיו 103 דיבר שר התפוצות עמיחי שיקלי.",
+          "en": "In a radio interview on 103, Diaspora Minister Amichai Shikli spoke.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "הוא תקף היום (ראשון) את יו\"ר עמך ישראל, עופר וינטר.",
+          "en": "Today (Sunday) he attacked the chair of Amach Yisrael, Ofir Winter.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "שיקלי אמר שהתמודדותו של וינטר מסכנת את גוש הימין כולו.",
+          "en": "Shikli said Winter's candidacy endangers the entire right-wing bloc.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "שיקלי שמע את וינטר מצהיר שהוא מעוניין להיות שר ביטחון עצמאי.",
+          "en": "Shikli heard Winter declare that he wants to be an independent defense minister.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "שיקלי שאל: \"מה זה שר ביטחון עצמאי? הוא פועל במנותק מהממשלה? במנותק מהקואליציה? הוא לא כפוף לקבינט?\".",
+          "en": "Shikli asked: \"What is an independent defense minister? Does he act detached from the government? Detached from the coalition? Is he not subject to the cabinet?\"",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לדבריו, \"העיסוק מי יהיה שר הביטחון הוא במשחקי נדמה לי, בשלב הזה זה בכלל לא רלוונטי\".",
+          "en": "According to him, \"the concern over who will be defense minister is, I think, guessing games; at this stage it is not relevant at all.\"",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "הוא הוסיף שהוא אכזב מהעובדה שאין לו מחויבות לגוש.",
+          "en": "He added that he was disappointed by the fact that Winter has no commitment to the bloc.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "שיקלי אמר: \"הוא טען שהוא חלק מהגוש ואז הוא בא באמירה שסותרת את עצמה\".",
+          "en": "Shikli said: \"He claimed he is part of the bloc and then made a statement that contradicts itself.\"",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "שיקלי אמר שאין לו אנטי אישי כלפי וינטר: \"אין לי אנטי כלפיו\".",
+          "en": "Shikli said he has no personal grudge against Winter: \"I have no anti toward him.\"",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "הוא אמר שאם זו הייתה מפלגה יציבה של 7-8 מנדטים, הוא היה בימין החדש.",
+          "en": "He said that if it had been a stable party of 7-8 seats, he would have been in Yamin Hadash.",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "שיקלי אמר שהוא מכיר היטב את האכזריות של הדבר שנקרא אחוז חסימה.",
+          "en": "Shikli said he knows well the harshness of what is called the electoral threshold.",
+          "paragraph": 1,
+          "id": "s11"
+        },
+        {
+          "he": "הוא הזהיר: \"אם אתה בסקרים טובים נמצא עד ארבעה מנדטים חודש לפני הבחירות - אתה נמצא באזור אדום בוהק\".",
+          "en": "He warned: \"If you are polling well up to four seats a month before the elections — you are in a bright red zone.\"",
+          "paragraph": 1,
+          "id": "s12"
+        },
+        {
+          "he": "שיקלי התייחס גם לדיווחים בתקשורת העולמית שלימים האחרונים על אזהרות לפני 7 באוקטובר.",
+          "en": "Shikli also addressed reports in the international media in recent days about warnings before October 7.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "הדיווחים טענו שגם מצרים התריעה כי חמאס עלול לפעול נגד ישראל.",
+          "en": "The reports claimed that Egypt also warned that Hamas might act against Israel.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "שיקלי אמר: \"כל אותן אזהרות שהיו בימי הרפורמה... מדברות באופן מאוד כללי\".",
+          "en": "Shikli said: \"All those warnings that were during the days of the reform... spoke in very general terms.\"",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "לדבריו: \"לא על עזה, לא על חומות יריחו\".",
+          "en": "He said: \"Not about Gaza, not about Homat Yericho.\"",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "שיקלי הוסיף שאנחנו רואים שגם עמית סער ז\"ל כתב במאמר על איך נמנעים ממיסקלקולציה.",
+          "en": "Shikli added that we also see that Amit Saar, of blessed memory, wrote in an article about how we avoid miscalculation.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "הוא ציין בתסכול: \"יש דברים שהן ברמת הצבא ומערכת ביטחון\".",
+          "en": "He said in frustration: \"There are things that are at the level of the army and the security system.\"",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "שיקלי תקף את אמ\"ן: \"הסיפור של אמ\"ן זה כשל לוגי מטורף\".",
+          "en": "Shikli attacked AMAN: \"The AMAN story is a crazy logical failure.\"",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "הוא טען שאמ\"ן השאיר את הגזרה בלי מפקדים ו-50% מסדר הכוחות - זה אבסורד.",
+          "en": "He claimed that AMAN left the sector without commanders and that 50% of the order of forces — that is absurd.",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "לכן, אמר, הסיפור של ההתרעות הוא מביך.",
+          "en": "Therefore, he said, the warnings story is embarrassing.",
+          "paragraph": 2,
+          "id": "s21"
+        },
+        {
+          "he": "שיקלי טען שאף אחת מההתרעות של אמ\"ן לא עסקה בעזה, לא בפשיטה, לא בחומות יריחו.",
+          "en": "Shikli claimed that none of AMAN's warnings dealt with Gaza, with the raid, or with Homat Yericho.",
+          "paragraph": 2,
+          "id": "s22"
+        },
+        {
+          "he": "הוא תקף בחריפות את גדי איזנקוט שאמר כי אם ראש הממשלה ידע על ההתרעות הללו ולא עדכן את מערכת הביטחון, מדובר במעשה הגובל בבגידה.",
+          "en": "He sharply attacked Gadi Eizenkot who said that if the prime minister knew of these warnings and did not update the security system, it amounts to behavior bordering on treason.",
+          "paragraph": 2,
+          "id": "s23"
+        },
+        {
+          "he": "שיקלי כינה את הטענה הזאת \"טענה שערורייתית שעולה כדי דיבה\".",
+          "en": "Shikli called that claim \"a scandalous allegation amounting to slander.\"",
+          "paragraph": 2,
+          "id": "s24"
+        },
+        {
+          "he": "הוא סיכם ש\"מי שרואה אם סימים נדלקים או לא, אם נעים כוחות או לא, מי שיושב על מערכות קשר והתצפיות הוא אמ\"ן\".",
+          "en": "He concluded: \"The one who sees whether SIM cards light up or not, whether forces move or not, the one who sits on communications and observation systems is AMAN.\"",
+          "paragraph": 2,
+          "id": "s25"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "בראיון ברדיו 103 היום (ראשון) תקף שר התפוצות עמיחי שיקלי את יו\"ר מפלגת עמך ישראל, עופר וינטר.",
+          "en": "In an interview on radio 103 today (Sunday), Diaspora Minister Amichai Shikli attacked the chair of the Amach Yisrael party, Ofir Winter.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "שיקלי טען שעצם התמודדותו של וינטר מסכנת את גוש הימין כולו.",
+          "en": "Shikli claimed that Winter's very candidacy endangers the entire right-wing bloc.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "הוא אמר ששמע את וינטר מצהיר שהוא מעוניין להיכנס כשר ביטחון עצמאי.",
+          "en": "He said he heard Winter declare that he intends to enter as an independent defense minister.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "שיקלי תהה בדבריו: \"מה זה שר ביטחון עצמאי? הוא פועל במנותק מהממשלה? במנותק מהקואליציה? הוא לא כפוף לקבינט?\".",
+          "en": "Shikli questioned: \"What is an independent defense minister? Does he operate detached from the government? Detached from the coalition? Is he not subordinate to the cabinet?\"",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לדבריו, ההתמקדות בשאלה מי יהיה שר הביטחון היא \"משחקי נדמה לי\" ולא רלוונטית בשלב זה.",
+          "en": "According to him, focusing on who will be defense minister is \"guessing games\" and not relevant at this stage.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "הוא הוסיף שהוא מתוסכל מהיעדר מחויבות של וינטר לגוש הימין.",
+          "en": "He added that he is disappointed by Winter's lack of commitment to the right-wing bloc.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "שיקלי ציטט: \"הוא טען שהוא חלק מהגוש ואז הוא בא באמירה שסותרת את עצמה\".",
+          "en": "Shikli quoted: \"He claimed he is part of the bloc and then came with a statement that contradicts itself.\"",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "באותו ראיון אמר שיקלי שאין לו אנטי אישי כלפי וינטר, אך העריך שאם המפלגה הייתה יציבה עם 7-8 מנדטים הוא היה מצטרף אליה בימין החדש.",
+          "en": "In the same interview Shikli said he has no personal antipathy toward Winter, but estimated that if the party were stable with 7-8 seats he would have joined it in Yamin Hadash.",
+          "paragraph": 1,
+          "id": "s8"
+        },
+        {
+          "he": "הוא הזהיר מפני סכנת ההישארות מחוץ לפרלמנט עקב אחוז החסימה.",
+          "en": "He warned of the danger of remaining out of parliament due to the electoral threshold.",
+          "paragraph": 1,
+          "id": "s9"
+        },
+        {
+          "he": "שיקלי אמר: \"אם אתה בסקרים טובים נמצא עד ארבעה מנדטים חודש לפני הבחירות - אתה נמצא באזור אדום בוהק\".",
+          "en": "Shikli said: \"If polls show you up to four seats a month before the elections — you are in a bright red zone.\"",
+          "paragraph": 1,
+          "id": "s10"
+        },
+        {
+          "he": "בהמשך התייחס שיקלי לדיווחים בתקשורת העולמית שלפיהם גם מצרים התריעה לקראת 7 באוקטובר שחמאס עלול לפעול כנגד ישראל.",
+          "en": "Subsequently, Shikli referred to reports in the international media that Egypt also warned before October 7 that Hamas might act against Israel.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "לדבריו, כל אותן אזהרות הוצגו בימי הרפורמה והיו מנוסחות באופן כללי ולא ממוקד.",
+          "en": "According to him, all those warnings were issued during the days of the reform and were phrased in a general and unfocused way.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "שיקלי אמר: \"דיברו על זה שהאויב רואה את החוסן הפנימי שנחלש כתוצאה מהסרבנות, ומדברות באופן מאוד כללי\".",
+          "en": "Shikli said: \"They talked about the enemy seeing the internal resilience that weakened as a result of the refusal, and they spoke in very general terms.\"",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "הוא הוסיף: \"לא על עזה, לא על חומות יריחו\".",
+          "en": "He added: \"Not about Gaza, not about Homat Yericho.\"",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "שיקלי ציין גם שעמית סער ז\"ל כתב במאמר על חשיבות הימנעות ממיסקלקולציה.",
+          "en": "Shikli also noted that Amit Saar, of blessed memory, wrote in an article about the importance of avoiding miscalculation.",
+          "paragraph": 2,
+          "id": "s15"
+        },
+        {
+          "he": "בתסכול אמר: \"יש דברים שהן ברמת הצבא ומערכת ביטחון\".",
+          "en": "In frustration he said: \"There are things that are at the level of the army and the security system.\"",
+          "paragraph": 2,
+          "id": "s16"
+        },
+        {
+          "he": "הוא תקף את אמ\"ן וקבע שזה \"כשל לוגי מטורף\": אמ\"ן, אמר, השאיר את הגזרה בלי מפקדים ועם 50% מסדר הכוחות - זה אבסורד.",
+          "en": "He attacked AMAN and stated it was a \"crazy logical failure\": AMAN, he said, left the sector without commanders and with 50% of the order of forces — that is absurd.",
+          "paragraph": 2,
+          "id": "s17"
+        },
+        {
+          "he": "אחר כך הסביר שזה הסיבה שסיפורי ההתרעות נראים לו מביכים וכי אף אחת מההתרעות לא עסקה באופן ספציפי בעזה או בפשיטה או בחומות יריחו.",
+          "en": "He then explained that this is why the warnings stories appear embarrassing to him and that none of the warnings specifically dealt with Gaza or the raid or Homat Yericho.",
+          "paragraph": 2,
+          "id": "s18"
+        },
+        {
+          "he": "שיקלי תקף בחריפות את גדי איזנקוט על אמירתו שאם ראש הממשלה ידע ולא עדכן את מערכת הביטחון זה גבול לבגידה.",
+          "en": "Shikli sharply criticized Gadi Eizenkot for saying that if the prime minister knew and did not inform the security system, that borders on treason.",
+          "paragraph": 2,
+          "id": "s19"
+        },
+        {
+          "he": "הוא כינה את הטענה הזו \"טענה שערורייתית שעולה כדי דיבה\".",
+          "en": "He called that claim \"a scandalous allegation amounting to slander.\"",
+          "paragraph": 2,
+          "id": "s20"
+        },
+        {
+          "he": "לבסוף הבהיר שיקלי שתחום המעקב על תנועות כוחות, על מערכות קשר ותצפיות הוא באחריות אמ\"ן.",
+          "en": "Finally, Shikli clarified that the area of monitoring force movements, communications systems and observations is the responsibility of AMAN.",
+          "paragraph": 2,
+          "id": "s21"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "שר התפוצות",
+        "en": "Diaspora Minister"
+      },
+      {
+        "he": "התמודדות",
+        "en": "candidacy"
+      },
+      {
+        "he": "גוש",
+        "en": "bloc"
+      },
+      {
+        "he": "מחויבות",
+        "en": "commitment"
+      },
+      {
+        "he": "אחוז חסימה",
+        "en": "electoral threshold"
+      },
+      {
+        "he": "סקרים",
+        "en": "polls"
+      },
+      {
+        "he": "אזהרות",
+        "en": "warnings"
+      },
+      {
+        "he": "אמ\"ן",
+        "en": "AMAN (Military Intelligence)"
+      },
+      {
+        "he": "מפקדים",
+        "en": "commanders"
+      },
+      {
+        "he": "פשיטה",
+        "en": "raid"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who criticized Ofir Winter and on which radio station did he speak?",
+        "answer": "Diaspora Minister Amichai Shikli criticized Ofir Winter in an interview on radio 103."
+      },
+      {
+        "prompt": "What did Shikli say about the nature of the warnings reported in the international press before October 7?",
+        "answer": "Shikli said the warnings were issued during the days of the reform, were very general, and that none specifically dealt with Gaza, the raid, or Homat Yericho."
+      },
+      {
+        "prompt": "Why was Shikli concerned about Winter's party and its poll numbers?",
+        "answer": "Shikli warned that if polls showed up to four seats a month before the elections the party would be in a 'bright red zone,' and he noted the danger posed by the electoral threshold; he said he would have joined if the party had been stable with 7-8 seats."
+      },
+      {
+        "prompt": "How did Shikli describe Gadi Eizenkot's claim about the prime minister's knowledge of the warnings?",
+        "answer": "Shikli called Eizenkot's claim 'a scandalous allegation amounting to slander.'"
+      }
+    ],
+    "slug": "news-24af2ac5c443",
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/politics/383955449",
+      "publishedAt": "2026-09-27T06:36:15.000Z",
+      "importedAt": "2026-09-27T08:27:39.360Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "77efa07503a2a04e6cb9b83b17d965eddf6023d3be191fa6a188096612e7dd2d",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "ברחו על קורקינט, חצו באדום - ונעצרו עם אקדח טעון | תיעוד",
+    "titleEn": "They Fled on a Scooter, Ran a Red Light — and Were Arrested with a Loaded Gun | Footage",
+    "standfirst": "לפי המשטרה, מרדף משטרתי בתל אביב אחרי שני רוכבי קורקינט חשמלי הסתיים הלילה במעצרם ובתפיסת אקדח טעון.",
+    "standfirstEn": "According to the police, a police chase in Tel Aviv after two electric scooter riders ended last night with their arrest and the seizure of a loaded gun.",
+    "category": "security",
+    "sentences": {
+      "easy": [
+        {
+          "he": "הלילה (ראשון) היה מרדף משטרתי בתל אביב אחרי שני רוכבי קורקינט חשמלי.",
+          "en": "Last night (Sunday) there was a police chase in Tel Aviv after two electric scooter riders.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי המשטרה, השוטרים שהבחינו ברוכבים היו שוטרי תחנת תל אביב דרום ולוחמי מג\"ב מרכז.",
+          "en": "According to the police, the officers who noticed the riders were from the Tel Aviv South station and fighters from MAGAV Central.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "החשודים הם בני 19 ו-36.",
+          "en": "The suspects are 19 and 36 years old.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "השניים רכבו יחד על קורקינט חשמלי ועשו עבירות תנועה.",
+          "en": "The two rode together on an electric scooter and committed traffic offenses.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "לפי המשטרה, ברגע שהבחינו בשוטרים הם התחילו להימלט.",
+          "en": "According to the police, the moment they saw officers they began to flee.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "במהלך הבריחה הם חצו צמתים באור אדום.",
+          "en": "During the escape they crossed intersections on a red light.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "הם גם רכבו נגד כיוון התנועה וסיכנו משתמשי הדרך האחרים.",
+          "en": "They also rode against the direction of traffic and endangered other road users.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "לוחמי מג\"ב חסמו את נתיב נסיעתם ועצרו את השניים.",
+          "en": "MAGAV fighters blocked their travel lane and arrested the two.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "בחיפוש שנערך לאחר המעצר נמצא בכיס מכנסיו של אחד החשודים אקדח טעון בתחמושת.",
+          "en": "In a search conducted after the arrest, a loaded gun with ammunition was found in the pocket of one suspect's trousers.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "השניים הועברו לחקירה בתחנת תל אביב דרום.",
+          "en": "The two were transferred for questioning to the Tel Aviv South police station.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "לפי המשטרה, הצפויה לבקש הארכת מעצרם בבית משפט השלום בתל אביב.",
+          "en": "According to the police, they are expected to request an extension of the suspects' detention at the Tel Aviv Magistrate's Court.",
+          "paragraph": 2,
+          "id": "s11"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "מרדף משטרתי אחרי שני רוכבי קורקינט חשמלי בתל אביב הסתיים הלילה (ראשון) במעצרם ובתפיסת אקדח טעון.",
+          "en": "A police chase after two electric scooter riders in Tel Aviv ended last night (Sunday) with their arrest and the seizure of a loaded firearm.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "לפי המשטרה, שוטרי תחנת תל אביב דרום ולוחמי מג\"ב מרכז הבחינו בשניים כאשר הם רוכבים יחד ועושים עבירות תנועה.",
+          "en": "According to the police, officers from the Tel Aviv South station and fighters from MAGAV Central noticed the two as they rode together and committed traffic offenses.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "החשודים הם בגילאים 19 ו-36, לפי הדיווח הרשמי.",
+          "en": "The suspects are aged 19 and 36, according to the official report.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "לפי המשטרה, ברגע שהבחינו בשוטרים הם החלו להימלט וניסו לברוח מהאזור.",
+          "en": "According to the police, once they spotted officers they began to flee and tried to escape the area.",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "במהלך הבריחה חצו השניים צמתים באור אדום ורכבו נגד כיוון התנועה, מה שסיכן משתמשי דרך אחרים.",
+          "en": "During the escape the two crossed intersections on a red light and rode against the direction of traffic, which endangered other road users.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לוחמי מג\"ב חסמו את נתיב נסיעתם ועצרו אותם בסופו של דבר.",
+          "en": "MAGAV fighters blocked their travel lane and ultimately arrested them.",
+          "paragraph": 2,
+          "id": "s6"
+        },
+        {
+          "he": "בחיפוש שנערך לאחר המעצר נמצא בכיס מכנסיו של אחד החשודים אקדח טעון יחד עם תחמושת.",
+          "en": "In a search carried out after the arrest, a loaded gun along with ammunition was found in the pocket of one of the suspects' trousers.",
+          "paragraph": 2,
+          "id": "s7"
+        },
+        {
+          "he": "השניים הועברו לחקירה בתחנת משטרת תל אביב דרום.",
+          "en": "The two were transferred for investigation to the Tel Aviv South police station.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "לפי המשטרה, היא צפויה לבקש את הארכת מעצרם של החשודים בבית משפט השלום בתל אביב.",
+          "en": "According to the police, it is expected to request an extension of the suspects' detention at the Tel Aviv Magistrate's Court.",
+          "paragraph": 2,
+          "id": "s9"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "קורקינט חשמלי",
+        "en": "electric scooter"
+      },
+      {
+        "he": "מרדף משטרתי",
+        "en": "police chase"
+      },
+      {
+        "he": "מעצר",
+        "en": "arrest"
+      },
+      {
+        "he": "אקדח טעון",
+        "en": "loaded gun"
+      },
+      {
+        "he": "תחמושת",
+        "en": "ammunition"
+      },
+      {
+        "he": "עבירות תנועה",
+        "en": "traffic offenses"
+      },
+      {
+        "he": "חיסמו נתיב",
+        "en": "blocked the lane"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Where did the police chase take place?",
+        "answer": "The chase took place in Tel Aviv, according to the article."
+      },
+      {
+        "prompt": "What ages are given for the two suspects?",
+        "answer": "The suspects are 19 and 36 years old."
+      },
+      {
+        "prompt": "What traffic violations did the suspects commit during the escape?",
+        "answer": "They crossed intersections on red lights and rode against the direction of traffic, endangering other road users."
+      },
+      {
+        "prompt": "What was found during the search after the arrest?",
+        "answer": "A loaded gun with ammunition was found in the pocket of one suspect's trousers."
+      },
+      {
+        "prompt": "What legal action do the police expect to take next?",
+        "answer": "The police are expected to request an extension of the suspects' detention at the Tel Aviv Magistrate's Court."
+      }
+    ],
+    "slug": "news-859dfec11d14",
+    "categoryLabel": "ביטחון",
+    "minutes": 1,
+    "date": "September 27, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/israel/383955452",
+      "publishedAt": "2026-09-27T07:07:29.000Z",
+      "importedAt": "2026-09-27T08:28:20.171Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "6d0c3f5adacc0832cf2da819489972f3bb46b79644ab8c6d42d4201dbd93aaed",
+      "generationVersion": 4
+    }
+  },
+  {
+    "titleHe": "אחרי הפרסומים, איזנקוט תוקף: \"נתניהו הוביל אותנו בזחיחות\"",
+    "titleEn": "After the publications, Eisenkot attacks: \"Netanyahu led us in carelessness\"",
+    "standfirst": "הצהרות חדשות בעקבות דיווחים על אזהרות לפני טבח ה־7 באוקטובר. גדי איזנקוט מותח ביקורת קשה; מפלגת השלטון ומפלגת הליכוד מגיבות בנימה תקפית.",
+    "standfirstEn": "New statements follow reports about warnings before the October 7 massacre. Gadi Eisenkot strongly criticizes; the ruling party and Likud respond aggressively.",
+    "category": "politics",
+    "sentences": {
+      "easy": [
+        {
+          "he": "במהלך השבת פורסמו דיווחים על אזהרות שהתקבלו לפני טבח ה־7 באוקטובר.",
+          "en": "During Saturday, reports were published about warnings received before the October 7 massacre.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "גדי איזנקוט, יו\"ר מפלגת \"ישר!\", כתב היום (שבת) תגובה חריפה.",
+          "en": "Gadi Eisenkot, chair of the Yesh! party, wrote a sharp response today (Saturday).",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "לפי איזנקוט, צבר העובדות שנחשפו בתקופה האחרונה כולל התרעות מראשי מערכת הביטחון וגורמים ממדינות זרות ואינו מותיר מקום לספק.",
+          "en": "According to Eisenkot, the accumulation of facts revealed recently includes warnings from heads of the security system and actors from foreign countries and leaves no room for doubt.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "הוא כתב: \"נתניהו הוביל בעיוורון, בזחיחות ובחוסר אחריות את מדינת ישראל לאסון הגדול ביותר בתולדותיה\".",
+          "en": "He wrote: \"Netanyahu led the State of Israel in blindness, in carelessness and in irresponsibility to the greatest disaster in its history.\"",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "איזנקוט הוסיף שהניסיון השיטתי לברוח מאחריות ולהפיץ תיאוריות בגידה קורס מול המציאות.",
+          "en": "Eisenkot added that the systematic attempt to escape responsibility and to spread theories of betrayal collapses before reality.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לדבריו, התיעוד והמידע המצטבר מוכיחים כי נתניהו מעל באופן חד וברור באמון הציבור ובתפקידו.",
+          "en": "He said that the documentation and accumulating information prove that Netanyahu clearly and sharply breached the public's trust and his role.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "איזנקוט אמר שהמחשבה מה היה קורה אילולא הוא היה נענה להתרעות וכמה חיים יכלו להינצל צריכה להדיר שינה מעיני כל אזרח ואזרחית.",
+          "en": "Eisenkot said that the thought of what would have happened had he heeded the warnings and how many lives could have been saved should keep every citizen awake.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "מפלגת השלטון הוציאה במהירות הודעה בתגובה לפרסומים האחרונים.",
+          "en": "The ruling party quickly issued a statement in response to the recent publications.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "בהודעה נאמר כי ככל שמתקרבים לבחירות אנו רואים מבול פרסומים שקריים של 'עיתונאי שמאל מגוייסים' שמטרתם להפיל את הימין.",
+          "en": "The statement said that as elections approach we see a flood of false publications by 'mobilized left-wing journalists' whose aim is to topple the right.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "עוד נכתב כי למרות ההכחשות של איחוד האמירויות וכי משרד ראש הממשלה הוכיח שלא התקיימה שום שיחה, ממשיכים להפיץ את השקר.",
+          "en": "It also said that despite denials by the United Arab Emirates and despite the Prime Minister's Office proving that no conversation took place, they continue to spread the lie.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "בליכוד גינו בפרט את פרסום ה\"ניו יורק טיימס\" וכתבו תגובה תקיפה כנגד העיתון.",
+          "en": "In Likud they specifically condemned The New York Times publication and wrote a forceful response against the paper.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "בליכוד טענו שה\"ניו יורק טיימס\" פרסם 'עלילות דם' ודוגמאות שלטעמם הן שקרים ודיווחים פגומים.",
+          "en": "Likud claimed that The New York Times published 'blood libels' and examples that they consider to be lies and flawed reports.",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "בהודעת הליכוד נזכרו דוגמאות קודמות, כולל טענות על הכשרת כלבים ובמקרה של תמונת שער של ילד 'מורעב בעזה' שאחר כך התברר שהוא חולה במחלה גנטית.",
+          "en": "The Likud statement mentioned previous examples, including claims about training dogs and a front-page photo of a 'starving child in Gaza' that later turned out to be a child sick with a genetic disease.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "הם גם טענו שהעיתון מפיץ מדי יום את טענות חמאס שישראל מבצעת רצח עם בעזה.",
+          "en": "They also claimed that the paper spreads Hamas's claims daily that Israel is committing genocide in Gaza.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "כאמור, במהלך השבת עלו שני פרסומים עיקריים על האזהרות שניתנו לנתניהו לפני ה־7 באוקטובר.",
+          "en": "As mentioned, during Saturday two main publications appeared about the warnings given to Netanyahu before October 7.",
+          "paragraph": 3,
+          "id": "s15"
+        },
+        {
+          "he": "ה\"ניו יורק טיימס\" דיווח כי מקורות עצמאיים מחזקים את הפרסום שפורסם ב\"הארץ\" מוקדם יותר בחודש זה.",
+          "en": "The New York Times reported that independent sources corroborate the publication that Haaretz published earlier this month.",
+          "paragraph": 3,
+          "id": "s16"
+        },
+        {
+          "he": "לפי דיווח ה\"ניו יורק טיימס\", נשיא איחוד האמירויות מוחמד בן זאיד הזהיר את ראש הממשלה נתניהו לפני מתקפת 7 באוקטובר שחמאס מתכנן מתקפה גדולה.",
+          "en": "According to The New York Times report, the President of the United Arab Emirates Mohammed bin Zayed warned Prime Minister Netanyahu before the October 7 attack that Hamas was planning a large attack.",
+          "paragraph": 3,
+          "id": "s17"
+        },
+        {
+          "he": "בנוסף, הכתבת ויאן סלאמה דיווחה ב\"אטלנטיק\" כי ראש המודיעין המצרי דאז, עבאס כאמל, הגיע בחשאי לישראל 11 ימים בלבד לפני המתקפה והעביר אזהרה.",
+          "en": "In addition, reporter Vian Salama reported in The Atlantic that then Egyptian intelligence chief Abbas Kamel secretly came to Israel just 11 days before the attack and delivered a warning.",
+          "paragraph": 3,
+          "id": "s18"
+        },
+        {
+          "he": "לפי דיווחה של סלאמה, כאמל הזהיר שחמאס נערך למתקפה משמעותית וכי הזמן למנוע הידרדרות הולך ואוזל.",
+          "en": "According to Salama's report, Kamel warned that Hamas was preparing a significant attack and that time to prevent deterioration was running out.",
+          "paragraph": 3,
+          "id": "s19"
+        }
+      ],
+      "intermediate": [
+        {
+          "he": "במהלך השבת עלו דיווחים חדשים על האזהרות שקיבל ראש הממשלה בנימין נתניהו לפני טבח ה־7 באוקטובר.",
+          "en": "During Saturday, new reports emerged about the warnings Prime Minister Benjamin Netanyahu received before the October 7 massacre.",
+          "paragraph": 1,
+          "id": "s1"
+        },
+        {
+          "he": "גדי איזנקוט, יו\"ר מפלגת \"ישר!\", פרסם היום (שבת) הצהרה תקיפה בעקבות הפרסומים.",
+          "en": "Gadi Eisenkot, chair of the Yesh! party, published today (Saturday) a forceful statement following the publications.",
+          "paragraph": 1,
+          "id": "s2"
+        },
+        {
+          "he": "איזנקוט אמר כי צבר העובדות שנחשף בתקופה האחרונה, כולל בסוף השבוע, ובכלל זה התרעות מראשי מערכת הביטחון וגורמים ממדינות זרות, אינו מותיר מקום לספק.",
+          "en": "Eisenkot said that the accumulation of facts revealed recently, including over the weekend, and including warnings from heads of the security apparatus and actors from foreign countries, leaves no room for doubt.",
+          "paragraph": 1,
+          "id": "s3"
+        },
+        {
+          "he": "בהודעתו הוא האשים את נתניהו: \"נתניהו הוביל בעיוורון, בזחיחות ובחוסר אחריות את מדינת ישראל לאסון הגדול ביותר בתולדותיה\".",
+          "en": "In his statement he accused Netanyahu: \"Netanyahu led the State of Israel in blindness, in carelessness and in irresponsibility to the greatest disaster in its history.\"",
+          "paragraph": 1,
+          "id": "s4"
+        },
+        {
+          "he": "איזנקוט הוסיף כי הניסיון השיטתי לברוח מאחריות, להפיץ תיאוריות בגידה ולהנדס את התודעה לאחור קורס מול המציאות.",
+          "en": "Eisenkot added that the systematic attempt to evade responsibility, to spread theories of betrayal and to retro-engineer public perception collapses in the face of reality.",
+          "paragraph": 1,
+          "id": "s5"
+        },
+        {
+          "he": "לדבריו, התיעוד והמידע המצטבר מוכיחים כי נתניהו מעל באופן חד וברור באמון הציבור ובתפקידו.",
+          "en": "He said that the documentation and accumulating information prove that Netanyahu clearly and distinctly violated the public trust and his duties.",
+          "paragraph": 1,
+          "id": "s6"
+        },
+        {
+          "he": "איזנקוט קרא לחשוב מה היה קורה אילולא נשמעו ההתרעות, כמה חיים יכלו להינצל ומה היה מעמדה של המדינה כיום, וציין שזה צריך להדיר שינה מעיני האזרחים.",
+          "en": "Eisenkot urged reflection on what would have happened had the warnings been heeded, how many lives could have been saved, and what the state's standing would be today, noting that this should keep citizens awake.",
+          "paragraph": 1,
+          "id": "s7"
+        },
+        {
+          "he": "מפלגת השלטון השיבה במהירות והוציאה הודעה רשמית בנוגע לפרסומים האחרונים.",
+          "en": "The ruling party replied quickly and issued an official statement regarding the recent publications.",
+          "paragraph": 2,
+          "id": "s8"
+        },
+        {
+          "he": "בהודעתה טענה המפלגה כי ככל שמתקרבים לבחירות מופיע מבול של פרסומים שקריים מצד 'עיתונאי שמאל מגוייסים', שמטרתם להפיל את הימין ולהמליך 'ממשלת שמאל-אחים מוסלמים' שתכנע בכל החזיתות.",
+          "en": "In its statement the party claimed that as elections approach a flood of false publications by 'mobilized left-wing journalists' appears, whose goal is to topple the right and to enthrone a 'left–Muslim Brotherhood government' that will capitulate on all fronts.",
+          "paragraph": 2,
+          "id": "s9"
+        },
+        {
+          "he": "עוד נאמר בהודעה כי למרות ההכחשות של איחוד האמירויות וכי משרד ראש הממשלה הוכיח שלא התקיימה שום שיחה, מי שמפרסם ממשיך להפיץ את מה שתיארו כהשקר.",
+          "en": "The statement also said that despite denials by the United Arab Emirates and despite the Prime Minister's Office proving that no conversation took place, those who publish continue to spread what they described as a lie.",
+          "paragraph": 2,
+          "id": "s10"
+        },
+        {
+          "he": "בליכוד גינו במפורש את פרסום ה\"ניו יורק טיימס\" והגיבו בתוקף כנגד העיתון.",
+          "en": "In Likud they explicitly condemned The New York Times publication and reacted strongly against the paper.",
+          "paragraph": 2,
+          "id": "s11"
+        },
+        {
+          "he": "במפלגת הליכוד הציגו ביקורת על פרסומים קודמים של העיתון וציינו דוגמאות שהן מחשיבות כ'האשמות שווא' ו'עלילות דם'.",
+          "en": "In the Likud party they presented criticism of the paper's previous publications and cited examples they consider 'false accusations' and 'blood libels.'",
+          "paragraph": 2,
+          "id": "s12"
+        },
+        {
+          "he": "בהודעתם ציינו בין היתר טענות על דיווחים שהכלילו טענות קשות כמו הכשרת כלבים למעשים מיניים וטענות על תמונות שער שפורסמו בעבר והתבררו לטענתם כמוטעות.",
+          "en": "In their statement they noted among other things claims about reports that included severe allegations such as training dogs for sexual assaults and claims about front-page photos published in the past that they say were misleading.",
+          "paragraph": 2,
+          "id": "s13"
+        },
+        {
+          "he": "הם הוסיפו שטענות חמאס על 'רצח עם' בעזה מופצות, לטענתם, על ידי העיתון מדי יום.",
+          "en": "They added that, according to them, Hamas's claims of 'genocide' in Gaza are propagated by the paper every day.",
+          "paragraph": 2,
+          "id": "s14"
+        },
+        {
+          "he": "הדיווחים שהופיעו במהלך השבת כללו שתי כתבות מרכזיות בנושא האזהרות שניתנו לנתניהו לפני ה־7 באוקטובר.",
+          "en": "The reports that appeared during Saturday included two central articles on the warnings given to Netanyahu before October 7.",
+          "paragraph": 3,
+          "id": "s15"
+        },
+        {
+          "he": "ה\"ניו יורק טיימס\" דיווח כי מקורות עצמאיים של העיתון מחזקים את הפרסום שפורסם ב\"הארץ\" מוקדם יותר בחודש זה.",
+          "en": "The New York Times reported that independent sources of the paper corroborate the publication that Haaretz published earlier this month.",
+          "paragraph": 3,
+          "id": "s16"
+        },
+        {
+          "he": "לפי ה\"ניו יורק טיימס\", נשיא איחוד האמירויות מוחמד בן זאיד הזהיר את ראש הממשלה נתניהו לפני מתקפת ה־7 באוקטובר כי חמאס מתכנן מתקפה גדולה.",
+          "en": "According to The New York Times, the President of the United Arab Emirates Mohammed bin Zayed warned Prime Minister Netanyahu before the October 7 attack that Hamas was planning a large attack.",
+          "paragraph": 3,
+          "id": "s17"
+        },
+        {
+          "he": "בנוסף לכך פורסם דיווח של הכתבת ויאן סלאמה ב\"אטלנטיק\" במהלך הלילה.",
+          "en": "In addition, a report by reporter Vian Salama in The Atlantic was published overnight.",
+          "paragraph": 3,
+          "id": "s18"
+        },
+        {
+          "he": "לפי דיווחה של סלאמה, ראש המודיעין המצרי דאז, עבאס כאמל, הגיע בחשאי לישראל 11 ימים בלבד לפני מתקפת ה־7 באוקטובר והעביר אזהרה.",
+          "en": "According to Salama's report, then Egyptian intelligence chief Abbas Kamel secretly came to Israel just 11 days before the October 7 attack and delivered a warning.",
+          "paragraph": 3,
+          "id": "s19"
+        },
+        {
+          "he": "הדיווח ציין כי כאמל הזהיר שחמאס נערך למתקפה משמעותית וכי הזמן למנוע הידרדרות הולך ואוזל.",
+          "en": "The report stated that Kamel warned that Hamas was preparing a significant attack and that time to prevent deterioration was running out.",
+          "paragraph": 3,
+          "id": "s20"
+        }
+      ]
+    },
+    "vocabulary": [
+      {
+        "he": "אזהרות",
+        "en": "warnings"
+      },
+      {
+        "he": "טבח",
+        "en": "massacre"
+      },
+      {
+        "he": "זחיחות",
+        "en": "carelessness / arrogance"
+      },
+      {
+        "he": "אחריות",
+        "en": "responsibility"
+      },
+      {
+        "he": "פרסומים",
+        "en": "publications / reports"
+      },
+      {
+        "he": "משרד ראש הממשלה",
+        "en": "Prime Minister's Office"
+      },
+      {
+        "he": "שקר",
+        "en": "lie"
+      },
+      {
+        "he": "מודיעין",
+        "en": "intelligence"
+      },
+      {
+        "he": "תיעוד",
+        "en": "documentation / recorded evidence"
+      },
+      {
+        "he": "להדיר שינה (מעיניו)",
+        "en": "to keep (someone) awake / to steal someone's sleep"
+      }
+    ],
+    "questions": [
+      {
+        "prompt": "Who criticized Prime Minister Netanyahu and what did he say about the leadership?",
+        "answer": "Gadi Eisenkot, chair of the Yesh! party, criticized Netanyahu, saying that the accumulation of facts and warnings shows Netanyahu led Israel in blindness, carelessness, and irresponsibility to its greatest disaster."
+      },
+      {
+        "prompt": "How did the ruling party respond to the publications?",
+        "answer": "The ruling party issued a quick statement accusing 'mobilized left-wing journalists' of publishing false reports to topple the right and claimed that despite UAE denials and the Prime Minister's Office proving no conversation took place, the lie continues to be spread."
+      },
+      {
+        "prompt": "Which two international outlets published reports mentioned in the article, and what did each report claim?",
+        "answer": "The New York Times reported that independent sources corroborate Haaretz's earlier article that UAE President Mohammed bin Zayed warned Netanyahu before October 7 that Hamas planned a large attack. The Atlantic published a report by Vian Salama saying that Egyptian intelligence chief Abbas Kamel secretly visited Israel 11 days before October 7 and warned that Hamas was preparing a significant attack."
+      },
+      {
+        "prompt": "What specific detail did The Atlantic's report include about Abbas Kamel's visit?",
+        "answer": "The Atlantic's report said Abbas Kamel, then head of Egyptian intelligence, came secretly to Israel 11 days before the October 7 attack and warned that time to prevent deterioration was running out."
+      }
+    ],
+    "slug": "news-17c332dc98ef",
+    "categoryLabel": "פוליטיקה",
+    "minutes": 3,
+    "date": "September 26, 2026",
+    "source": {
+      "publisher": "Walla",
+      "url": "https://www.walla.co.il/news/israel/383955423",
+      "publishedAt": "2026-09-26T16:52:03.000Z",
+      "importedAt": "2026-09-27T08:29:26.564Z",
+      "adapted": true,
+      "evidence": "full_text",
+      "fingerprint": "e7867c2a829723781ec1a7fe312cc906eba26a3f17e56f20e43f5045d3536d87",
+      "generationVersion": 4
+    }
+  },
+  {
     "titleHe": "האם לבינה מלאכותית מגיעות זכויות? הוויכוח שמסעיר את ענקיות הטכנולוגיה",
     "titleEn": "Should Artificial Intelligence Have Rights? The Debate Roiling Big Tech",
     "standfirst": "חוקרים ובכירים בחברות טכנולוגיה דנים באפשרות שמערכות מתקדמות יפתחו תודעה או אינטרסים משלהן. תחקיר חושף תחום מחקר חדש שנקרא רווחת הבינה המלאכותית ואת הוויכוחים סביב הנושא.",

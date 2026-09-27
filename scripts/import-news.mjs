@@ -1,15 +1,14 @@
 import { readFile, writeFile, rename } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import nextEnv from '@next/env';
-import { XMLParser, XMLValidator } from 'fast-xml-parser';
 import { z } from 'zod';
 
 nextEnv.loadEnvConfig(process.cwd());
 const target = new URL('../src/data/news.json', import.meta.url);
-const feed = 'https://rss.walla.co.il/feed/1?type=main';
-const WALLA_NEWS_HOST = 'news.walla.co.il';
+const HOME = 'https://www.walla.co.il/';
+const NEWS_PATH = /^\/news\/(?:military|politics|world|israel|law)\/\d+$/;
 const ARTICLE_BODY_MAX = 20000;
-const limit = Number(process.env.NEWS_IMPORT_LIMIT || 5);
+const limit = Number(process.env.NEWS_IMPORT_LIMIT || 7);
 if (!Number.isInteger(limit) || limit < 1 || limit > 10) throw new Error('NEWS_IMPORT_LIMIT must be 1–10.');
 const GENERATION_VERSION = 4;
 const UA = 'Mozilla/5.0 (compatible; NewsLingoImporter/1.0; +https://github.com/)';
@@ -30,7 +29,9 @@ const generatedSchema = z.object({
 function isWallaNewsUrl(urlString) {
   try {
     const url = new URL(urlString);
-    return url.protocol === 'https:' && url.hostname === WALLA_NEWS_HOST;
+    if (url.protocol !== 'https:') return false;
+    if (url.hostname === 'news.walla.co.il') return true;
+    return url.hostname === 'www.walla.co.il' && NEWS_PATH.test(url.pathname);
   } catch {
     return false;
   }
@@ -89,6 +90,11 @@ async function fetchFullArticle(urlString) {
     const body = paragraphs.join('\n\n').slice(0, ARTICLE_BODY_MAX);
     if (body.length < 200) return null;
 
+    const publishedMatch = html.match(/"datePublished":"([^"]+)"/);
+    const publishedAt = publishedMatch && !Number.isNaN(+new Date(publishedMatch[1]))
+      ? new Date(publishedMatch[1]).toISOString()
+      : new Date().toISOString();
+
     let description = '';
     for (const match of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
       try {
@@ -102,7 +108,7 @@ async function fetchFullArticle(urlString) {
         }
       } catch { /* keep scanning */ }
     }
-    return { body, description, keywords: '', genre: '' };
+    return { body, description, keywords: '', genre: '', publishedAt };
   } catch {
     return null;
   }
@@ -143,25 +149,35 @@ async function generateChecked(item) {
   return content;
 }
 
-const response = await fetch(feed, { signal: AbortSignal.timeout(30000), headers: { 'User-Agent': UA } });
-if (!response.ok) throw new Error(`News feed HTTP ${response.status}`);
-const xml = await response.text();
-if (XMLValidator.validate(xml) !== true) throw new Error('Invalid news feed XML');
-const parsed = new XMLParser({ processEntities: true }).parse(xml);
-const items = parsed.rss?.channel?.item;
-if (!items) throw new Error('No news items; previous edition preserved.');
-const clean = value => String(value || '').replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+const response = await fetch(HOME, { signal: AbortSignal.timeout(30000), headers: { 'User-Agent': UA } });
+if (!response.ok) throw new Error(`Walla homepage HTTP ${response.status}`);
+const html = await response.text();
+const clean = value => String(value || '')
+  .replace(/<[^>]*>/g, ' ')
+  .replace(/&quot;/g, '"')
+  .replace(/&#(?:x27|39);|&apos;/g, "'")
+  .replace(/&amp;/g, '&')
+  .replace(/\s+/g, ' ')
+  .trim();
 
+// Homepage order, skipping the breaking ticker and non-news sections.
 const feedCandidates = [];
 const seen = new Set();
-for (const item of Array.isArray(items) ? items : [items]) {
-  const url = new URL(item.link);
-  const date = new Date(item.pubDate);
-  const title = clean(item.title);
-  if (url.protocol !== 'https:' || url.hostname !== WALLA_NEWS_HOST || !title || Number.isNaN(+date) || seen.has(url.href)) continue;
-  seen.add(url.href);
-  feedCandidates.push({ title, brief: clean(item.description).slice(0, 2500), url: url.href, publishedAt: date.toISOString() });
+for (const match of html.matchAll(/href="(\/news\/(?:military|politics|world|israel|law)\/\d+)"/g)) {
+  const url = new URL(match[1], HOME);
+  if (seen.has(url.pathname)) continue;
+  seen.add(url.pathname);
+  const window = html.slice(match.index, match.index + 5000);
+  const sectionTitles = new Set(['מבזקים', 'וואלה 24/7', 'חדשות', 'ספורט', 'תרבות', 'אסור לפספס', 'דעות ופרשנויות']);
+  const headings = [...window.matchAll(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/g)]
+    .map(found => clean(found[1]))
+    .filter(value => value.length > 12 && !sectionTitles.has(value));
+  const alt = window.match(/\balt="([^"]{8,200})"/);
+  const title = headings[0] || clean(alt?.[1] || '');
+  if (!title) continue;
+  feedCandidates.push({ title, brief: '', url: url.href, publishedAt: '' });
 }
+if (!feedCandidates.length) throw new Error('No homepage news links; previous edition preserved.');
 
 const old = JSON.parse(await readFile(target, 'utf8'));
 
@@ -177,7 +193,7 @@ for (const item of feedCandidates) {
     console.warn(`Skipping ${item.url}: no full article text`);
     continue;
   }
-  pool.push({ ...item, full });
+  pool.push({ ...item, publishedAt: full.publishedAt, full });
 }
 if (!pool.length) throw new Error('No usable stories with full article text; previous edition preserved.');
 

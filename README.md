@@ -33,10 +33,10 @@ Saved vocabulary and reader preferences stay in the current browser. Use the My 
 ## Real news imports
 
 Run `npm run import:news`, then `npm run build` to refresh the static website.
-The importer reads Walla's public main news RSS feed (`rss.walla.co.il`), keeps
-only `news.walla.co.il` items in feed order, and fetches each linked article page.
-It scrapes the full body from the article HTML (not the RSS blurb). It imports the
-first five stories whose full text is available. With `OPENAI_API_KEY` in
+The importer reads the Walla homepage (`www.walla.co.il`) and takes the first
+seven news stories in page order (military, politics, world, Israel, and law).
+It skips the breaking ticker and other sections. It then fetches each linked
+article page and scrapes the full body from the article HTML. With `OPENAI_API_KEY` in
 `.env.local`, it uses `gpt-5-mini` (override with `OPENAI_NEWS_MODEL`) to write two
 original learner versions per story — A2 Easy (short, simple sentences) and
 B1–B2 Intermediate (clearer news Hebrew) — as full rewrites that follow the whole
@@ -51,7 +51,7 @@ original headlines with an explicit translation-unavailable message. Article
 covers are generated from the story's category, not publisher photos.
 
 Optional settings: `OPENAI_NEWS_MODEL` (default `gpt-5-mini`) and
-`NEWS_IMPORT_LIMIT` (1–10, default 5). Each new or changed story uses up to three
+`NEWS_IMPORT_LIMIT` (1–10, default 7). Each new or changed story uses up to three
 bounded API requests (draft, review, and an occasional repair pass); unchanged
 stories are cached. Keys stay in the local import process and are never sent to
 the browser. Feed/article-fetch/API/validation failures for one story are logged

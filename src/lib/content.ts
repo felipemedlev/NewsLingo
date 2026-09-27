@@ -133,7 +133,7 @@ const SAMPLE_STORIES: Story[] = [
 
 export const STORIES: Story[] = [...importedNews as Story[], ...SAMPLE_STORIES];
 export const NEWS_STORIES = STORIES.filter(story => story.source);
-export const EDITION_STORIES = NEWS_STORIES.length ? NEWS_STORIES.slice(0, 5) : SAMPLE_STORIES;
+export const EDITION_STORIES = NEWS_STORIES.length ? NEWS_STORIES.slice(0, 7) : SAMPLE_STORIES;
 
 export function getStory(slug: string): Story | undefined {
   return STORIES.find((story) => story.slug === slug);
